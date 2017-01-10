@@ -10,8 +10,8 @@ url:              http://talkingkotlin.com
 # Owner/author information
 owner:
   name:           Hadi Hariri
-  avatar:         bio.png
-  bio:            "Talking Kotlin is hosted by Hadi Hariri, Speaker, Developer. Developer Advocacy at JetBrains"
+  avatar:         kotlin_talks_twitter_ava.png
+  bio:            "Talking Kotlin is a biweekly podcast on Kotlin and more, hosted by Hadi Hariri"
   email:          mail@hadihariri.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        talkingkotlin
