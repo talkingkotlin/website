@@ -6,12 +6,13 @@ words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:              http://talkingkotlin.com
+header_image:     kotlin_talking_twitter-01.png
 
 # Owner/author information
 owner:
-  name:           Hadi Hariri
-  avatar:         kotlin_talks_twitter_ava.png
-  bio:            "Talking Kotlin is a biweekly podcast on Kotlin and more, hosted by Hadi Hariri"
+  name:           Talking Kotlin
+  avatar:         kotlin_talking_logo.png
+  bio:            "A bimonthly podcast on Kotlin and more, hosted by Hadi Hariri"
   email:          mail@hadihariri.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        talkingkotlin
