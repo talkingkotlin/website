@@ -42,10 +42,10 @@
                     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.trackid }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
             <br/>
-
-            <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}">Published {{ page.published | date: "%B %d, %Y" }}</time>
+            <span class="entry-date date modified"><time datetime="{{ page.date | date_to_xmlschema }}">Recorded {{ page.recorded | date: "%B %d, %Y" }}</time></span>
             <br/>
-            </span><span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}">Recorded {{ page.recorded | date: "%B %d, %Y" }}</time>
+
+            <span class="entry-date date modified"><time datetime="{{ page.date | date_to_xmlschema }}">Published {{ page.published | date: "%B %d, %Y" }}</time>
             </span>
 
             <br/>
@@ -56,8 +56,19 @@
 
             <br/>
 
+            Description: {{ description }}
+
+            Bio: {{ bio }}
 
             {{ content }}
+
+            <ul>
+                {% for note in page.notes %}
+                <li>
+                    <a href="{{ note.link }}">{{ note.text }}</a>
+                </li>
+                {% endfor %}
+            </ul>
             <footer class="entry-meta">
                 <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}"
                                                                       title="Pages tagged {{ tag }}" class="tag"><span
