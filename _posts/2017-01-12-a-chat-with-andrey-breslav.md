@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Chat with Andrey Breslav"
+guest: Andrey Breslav
 published: 2017-01-12
 recorded: 2016-12-01
 trackid: 302359364
