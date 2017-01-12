@@ -1,8 +1,8 @@
 ---
 layout: post-index
 title: Latest Posts
-description: "Describe this nonsense."
-tags: [Jekyll, theme, themes, responsive, blog, modern]
+description: "Talking Kotlin is a podcast about Kotlin, a statically typed programming language for the JVM, Android and the browser, 100% interoperable with Java"
+tags: [Kotlin, podcast, programming, Java, Android]
 comments: false
 image:
   feature: kotlin_talking_twitter-01.png
@@ -31,9 +31,20 @@ image:
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
+
   <div class="entry-content">
-    {{ post.content }}
+    {% if post.image %}
+    <div class="index-post-image">
+      <img src="{{ site.url }}/images/episodes/{{ post.image }}" alt="{{ post.title }}">
+      {% else %}
+      <img src="{{ site.url }}/images/kotlin_talking_logo.png" alt="{{ post.title }}">
+      {% endif %}
+      {{ post.description }}
+    </div>
+    <p><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}">Listen now ({{ post.length_rounded }}) &raquo;</a></p>
+    <!--<p class="footnotes">Duration: {{ post.length }}</p>-->
   </div><!-- /.entry-content -->
+
 </article><!-- /.hentry -->
 {% endfor %}
 

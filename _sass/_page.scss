@@ -492,7 +492,7 @@ header .entry-meta {
   }
 }
 
-/* 
+/*
    Footer
    ========================================================================== */
 
@@ -621,5 +621,14 @@ h2.post-header {
   &:hover {
     color: #0887d7;
     text-decoration: underline;
+  }
+}
+
+.index-post-image {
+
+  img {
+    width: 200px;
+    float: left;
+    margin-right: 50px;
   }
 }
