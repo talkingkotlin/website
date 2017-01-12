@@ -5,6 +5,9 @@
 - title: iTunes
   url: http://talkingkotlin.com
 
+- title: Podcast Feed
+  url: http://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss
+
 - title: Kotlin
   url: http://kotlinlang.org
 
