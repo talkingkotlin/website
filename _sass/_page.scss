@@ -143,7 +143,7 @@ body {
     bottom: 0;
     margin: auto;
     min-width: 50%;
-    min-height: $feature-image-height; // match .entry-image min-height
+    //min-height: $feature-image-height; // match .entry-image min-height
   }
 }
 
@@ -158,7 +158,7 @@ body {
     min-height: $front-page-feature-image-height;
 
     img {
-      min-height: $front-page-feature-image-height;
+      //min-height: $front-page-feature-image-height;
     }
   }
 }
