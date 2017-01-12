@@ -1,8 +1,14 @@
 # Menu navigation links
 
 
+
 - title: iTunes
   url: http://talkingkotlin.com
 
+- title: Kotlin
+  url: http://kotlinlang.org
+
+- title: JetBrains
+  url: https://jetbrains.com
 
 
