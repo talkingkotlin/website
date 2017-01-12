@@ -53,8 +53,9 @@
                     <div class="post-card__bio">{{ page.bio }}</div>
                 </div>
 
+                <p>Show Notes:</p>
                 <div class="post-card__info">
-                    <ul class="post-card__notes">
+                    <ul>
                         {% for note in page.notes %}
                         <li class="post-card__note">
                             <a href="{{ note.link }}">{{ note.text }}</a>
