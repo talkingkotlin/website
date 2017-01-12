@@ -46,12 +46,12 @@
             <div class="post-card">
                 <div class="post-card__description">{{ page.description }}</div>
 
-                <p>About {{ page.guest }}</p>
+                <h4>About {{ page.guest }}</h4>
                 <div class="post-card__author">
                     <div class="post-card__bio">{{ page.bio }}</div>
                 </div>
 
-                <p>Show Notes</p>
+                <h4>Show Notes</h4>
                 <div class="post-card__info">
                     <ul>
                         {% for note in page.notes %}
