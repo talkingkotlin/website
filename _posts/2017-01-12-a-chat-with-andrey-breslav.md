@@ -11,6 +11,8 @@ bio: "Andrey, the Lead Language Designer for Kotlin, began his career at Borland
 notes: 
     - text: Andrey Breslav on Twitter
       link: https://twitter.com/abreslav
+    - text: Kotlin
+      link: http://kotlinlang.org
     - text: JetBrains
       link: https://jetbrains.com
 ---
