@@ -32,6 +32,10 @@ notes:
       link: https://devoxx.us/
 ---
 
-*Note*: Apologies for my voice. Unfortunately a cold got the best of me...
+We chatted for over an hour with Jake, but to keep inline with the duration, some parts were trimmed. But I have asked Jake to come back on the show at some point cause it definitely is great chatting with him and lots of interesting things to cover!
+Also, apologies for my voice. Unfortunately a cold got the best of me. It won't happen again!
+
+Well, that's the plan anyways. 
+
 
 
