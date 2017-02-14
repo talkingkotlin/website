@@ -8,8 +8,8 @@ trackid: 307522712
 length: "34:17" 
 length_rounded: "34 mins" 
 tags: [Sebastian Deleuze, Spring Boot, Reactive Programming, Project Reactor]
-image: sebastian-deleuze.jpeg
-description: "We chat to Sebastian about his work with Spring Boot, where Kotlin fits in, what features it brings for Spring Boot developers as well as other things he's working on."
+image: sebastian-deleuze.jpg
+description: "We chat with Sebastian about his work with Spring Boot, where Kotlin fits in, what features it brings for Spring Boot developers as well as other things he's working on."
 bio: "Sebastian Deleuze is a Spring Framework committer, Project Reactor committer, organiser of Mix-IT conference and speaker"
 notes: 
     - text: Sebastian Deleuze on Twitter
