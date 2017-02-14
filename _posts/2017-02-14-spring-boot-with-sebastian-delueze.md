@@ -4,7 +4,7 @@ title: "Spring Boot with Sebastian Deleuze"
 guest: Sebastian Deleuze
 published: 2017-02-14
 recorded: 2017-01-05
-trackid: 
+trackid: 307522712
 length: "34:17" 
 length_rounded: "34 mins" 
 tags: [Sebastian Deleuze, Spring Boot, Reactive Programming, Project Reactor]
@@ -33,4 +33,3 @@ notes:
     - text: Mix-IT 
       link: https://www.mix-it.fr/
 ---
-
