@@ -2,9 +2,9 @@
 layout: post
 title: "libGDX with Mario Zechner"
 guest: Mario Zechner
-published: 2017-02-14
-recorded: 2017-01-05
-trackid: 307522712
+published: 2017-02-28
+recorded: 2017-01-17
+trackid: 309782723
 length: "31:11" 
 length_rounded: "31 mins" 
 tags: [Mario Zechner, Gaming]
