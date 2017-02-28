@@ -9,7 +9,7 @@ length: "31:11"
 length_rounded: "31 mins" 
 tags: [Mario Zechner, Gaming]
 image: mario-zechner.jpg
-description: "Speaking with Mario Zechner about libGDX, Game Development and benefits of using Kotlin with gaming"
+description: "Speaking with Mario Zechner about libGDX, game development and benefits of using Kotlin with gaming"
 bio: "Benevolent dictator of libGDX, author of Beginning Android Games, Spine @esotericsoftware"
 notes: 
     - text: Mario Zechner on Twitter
