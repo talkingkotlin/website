@@ -5,7 +5,7 @@ guest: Kirill Skrygan
 published: 2017-03-14
 recorded: 2017-02-13
 trackid: 312185914
-length: "29:12" 
+length: "29:09" 
 length_rounded: "30 mins" 
 tags: [Kirill Skrygan, DSL, Tools]
 image: kirill-skrygan.jpg
