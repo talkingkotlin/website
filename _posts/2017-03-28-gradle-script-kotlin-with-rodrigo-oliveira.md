@@ -8,7 +8,7 @@ trackid: 314886559
 length: "30:27"
 length_rounded: "30 mins" 
 tags: [Rodrigo Oliveira, Gradle]
-image: rodigro-oliveira.jpg
+image: rodrigo-oliveira.jpg
 description: "We speak to Rodrigo (and an uninvited guest) about Gradle Script Kotlin, the reasons behind it, what benefits it provides us as build script engineers, the challenges in maintaining two scripting languages and where Kotlin fits in the future of Gradle"
 bio: "Rodrigo Oliveira is a Software Engineer at Gradle Inc. and Project Lead for Gradle Script Kotlin"
 notes: 
