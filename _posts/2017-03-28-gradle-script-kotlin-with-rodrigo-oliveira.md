@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gradle Script Kotlin with Rodrigo Oliveria"
+title: "Gradle Script Kotlin with Rodrigo Oliveira"
 guest: Rodrigo Oliveira
 published: 2017-03-28
 recorded: 2017-02-15
