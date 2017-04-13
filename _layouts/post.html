@@ -42,19 +42,20 @@
                 <iframe width="100%" height="166" scrolling="no" frameborder="no"
                         src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.trackid }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
             </div>
+            <span class="entry-date date modified"><time datetime="{{ page.date | date_to_xmlschema }}">Recorded {{ page.recorded | date: "%B %d, %Y" }}. </time>
+            Published {{ page.published | date: "%B %d, %Y" }}</span>
 
             <div class="post-card">
                 <div class="post-card__description">{{ page.description }}</div>
 
+                <h4>About {{ page.guest }}</h4>
                 <div class="post-card__author">
-                    <div class="post-card__image">
-                        <img src="{{ site.url }}/images/episodes/{{ page.image }}"/>
-                    </div>
                     <div class="post-card__bio">{{ page.bio }}</div>
                 </div>
 
+                <h4>Show Notes</h4>
                 <div class="post-card__info">
-                    <ul class="post-card__notes">
+                    <ul>
                         {% for note in page.notes %}
                         <li class="post-card__note">
                             <a href="{{ note.link }}">{{ note.text }}</a>
@@ -63,6 +64,10 @@
                     </ul>
                 </div>
             </div>
+
+            <h4>Additional notes</h4>
+
+            {{ content }}
 
             <footer class="entry-meta">
                 <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}"

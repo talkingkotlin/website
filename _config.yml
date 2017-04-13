@@ -10,10 +10,10 @@ header_image:     kotlin_talking_twitter-01.png
 
 # Owner/author information
 owner:
-  name:           Talking Kotlin
+  name:           JetBrains
   avatar:         kotlin_talking_logo.png
   bio:            "A bimonthly podcast on Kotlin and more, hosted by Hadi Hariri"
-  email:          mail@hadihariri.com
+  email:          hadi@jetbrains.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        talkingkotlin
   facebook:       
