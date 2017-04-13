@@ -50,6 +50,17 @@ body {
   text-align: center;
   margin: 30px 0 0;
 
+  .conference-banner {
+    position: absolute;
+    top: 0;
+    right: 14%;
+    width: 35%;
+
+    img {
+      width: 100%;
+    }
+  }
+
   h1 {
     margin: 10px 20px;
     font-weight: 700;
