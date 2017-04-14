@@ -23,4 +23,3 @@ notes:
 ---
 
 We had an [uninvited guest](https://en.wikipedia.org/wiki/Rooster) that decided to participate in the podcast. We apologise for the inconvenience but the rooster insisted on making sure it had its say!
-
