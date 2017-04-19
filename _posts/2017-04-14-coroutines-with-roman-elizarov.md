@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coroutines with Roman Elizarov"
-guest: Rodrigo Oliveira
+guest: Roman Elizarov
 published: 2017-04-14
 recorded: 2017-03-13
 trackid: 317641525
