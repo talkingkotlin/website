@@ -2,8 +2,8 @@
 layout: post
 title: "Corda with Mike Hearn"
 guest: Mike Hearn
-published: 2017-03-15
-recorded: 2017-04-28
+published: 2017-04-28
+recorded: 2017-03-15
 trackid: 319707498
 length: "33:13"
 length_rounded: "33 mins"
