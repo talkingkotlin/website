@@ -4,8 +4,8 @@ title: "Kotlin at Pinterest with Christina Lee"
 guest: Christina Lee
 published: 2017-05-15
 recorded: 2017-03-21
-trackid: 
-length: "34:58"
+trackid: 322251520
+length: "34:59"
 length_rounded: "35 mins"
 tags: [Pinterest, Christina Lee]
 image: christina-lee.jpg
@@ -17,4 +17,8 @@ notes:
     - text: Pinterest
       link: https://www.pinterest.com/
 
+
 ---
+
+The style guide Christina refers to will be published in the company weeks and we'll add the link here.
+
