@@ -4,8 +4,8 @@ title: "Kobalt with Cédric Beust"
 guest: Cédric Beust
 published: 2017-03-22
 recorded: 2017-05-26
-trackid: 
-length: "34:03"
+trackid: 324599311
+length: "34:04"
 length_rounded: "34 mins"
 tags: [Kobalt, Cedric Beust]
 image: cedric-beust.jpeg
@@ -27,3 +27,4 @@ notes:
 
 
 ---
+
