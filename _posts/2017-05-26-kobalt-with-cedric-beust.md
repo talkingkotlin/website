@@ -2,8 +2,8 @@
 layout: post
 title: "Kobalt with Cédric Beust"
 guest: Cédric Beust
-published: 2017-03-22
-recorded: 2017-05-26
+published: 2017-05-26
+recorded: 2017-03-22
 trackid: 324599311
 length: "34:04"
 length_rounded: "34 mins"
