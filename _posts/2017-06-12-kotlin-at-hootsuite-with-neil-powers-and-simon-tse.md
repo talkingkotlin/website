@@ -6,7 +6,7 @@ published: 2017-06-14
 recorded: 2017-04-24
 trackid: 327988807
 length: "32:55"
-length_rounded: "34 mins"
+length_rounded: "33 mins"
 tags: [Neil Powers, Simon Tse, Hootsuite]
 image: simon-neil.png
 description: "We speak with Neil Power and Simon Tse from Hootsuite about their use and adoption of Kotlin in Android and other areas they are investigating into expanding with Kotlin"
