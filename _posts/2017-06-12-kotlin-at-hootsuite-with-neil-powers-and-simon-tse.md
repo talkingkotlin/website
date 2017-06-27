@@ -1,23 +1,22 @@
 ---
 layout: post
-title: "Kotlin at Hootsuite with Neil Power and Simon Tse"
-guest: Cédric Beust
-published: 2017-06-14
-recorded: 2017-04-24
-trackid: 327988807
-length: "32:55"
-length_rounded: "33 mins"
-tags: [Neil Powers, Simon Tse, Hootsuite]
-image: simon-neil.png
-description: "We speak with Neil Power and Simon Tse from Hootsuite about their use and adoption of Kotlin in Android and other areas they are investigating into expanding with Kotlin"
-bio: "Neil Powers and Simon Tse are developers and team lead respectively at Hootsuite"
+title: "Heroku with Joe Kutner"
+guest: Joe Kutner
+published: 2017-06-28
+recorded: 2017-06-12
+trackid: 330329413
+length: "29:21"
+length_rounded: "30 mins"
+tags: [Joe Kutner, Heroku, Web Deployment]
+image: joe-kutner.png
+description: "We talk to Joe Kutner of Heroku of deploying Kotlin application to the web and what it took for them to provide support for Kotlin."
+bio: "Joe Kutner has been a programmer for over a decade and he’s spent many of those years researching the health issues that relate to his sedentary job. He’s also a former college athlete and Army Reserve physical fitness trainer. Through his research and personal experience, he’s learned that small changes can make big differences in peoples’ health. Now he wants to help other programmers improve their lifestyles."
 notes: 
-    - text: Hootsuite on Twitter
-      link: https://twitter.com/hootsuite
-    - text: Neil Power on GitHub
-      link: https://github.com/neil-power-hs
-    - text: Simon Tse on GitHub
-      link: https://github.com/simon-tse-hs
+    - text: Joe Kutner on Twitter
+      link: https://twitter.com/codefinger
+    - text: Joe Kutner Web Site
+      link: http://healthyprog.com
+    - text: Heroku
+      link: https://heroku.com
 
 ---
-
