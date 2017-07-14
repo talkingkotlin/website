@@ -10,7 +10,7 @@ length_rounded: "30 mins"
 tags: [Joe Kutner, Heroku, Web Deployment]
 image: joe-kutner.jpg
 description: "We talk to Joe Kutner of Heroku of deploying Kotlin application to the web and what it took for them to provide support for Kotlin."
-bio: "Joe Kutner has been a programmer for over a decade and he’s spent many of those years researching the health issues that relate to his sedentary job. He’s also a former college athlete and Army Reserve physical fitness trainer. Through his research and personal experience, he’s learned that small changes can make big differences in peoples’ health. Now he wants to help other programmers improve their lifestyles."
+bio: "Joe is the Java Languages Owner at Heroku. He’s worked with the JVM for over a decade as both an application architect and a consultant specializing in deployment. He is the author of Deploying with JRuby 9k and other titles from the Pragmatic Bookshelf."
 notes: 
     - text: Joe Kutner on Twitter
       link: https://twitter.com/codefinger
