@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Functional Constructs with Jorge Castillo"
-guest: Joe Kutner
+guest: Jorge Castillo
 published: 2017-07-14
 recorded: 2017-04-19
 trackid: 333164442
