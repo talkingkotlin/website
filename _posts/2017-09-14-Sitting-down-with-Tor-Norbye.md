@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kotlin at Basecamp"
-guest: Jay Ohms
+title: "Sitting down with Tor Norbye"
+guest: Tor Norbye
 published: 2017-09-14
 recorded: 2017-06-02
 trackid: 342279691
