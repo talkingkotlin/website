@@ -5,8 +5,8 @@ guest: Michael Bailey
 published: 2017-10-16
 recorded: 2017-05-23
 trackid: 347099235
-length: "34:17"
-length_rounded: "34 mins"
+length: "32:17"
+length_rounded: "32 mins"
 tags: [Michael Bailey, American Express]
 image: michael-bailey.jpg
 description: "Sitting down after Google I/O, we chat with Michael about their adoption of Kotlin at American Express, where they took a slightly different route to others."
