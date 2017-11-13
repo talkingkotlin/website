@@ -4,7 +4,7 @@ title: "User Groups with Guy Heylens"
 guest: Guy Heylens
 published: 2017-07-17
 recorded: 2017-11-14
-trackid: 
+trackid: 352782080
 length: "33:19"
 length_rounded: "33 mins"
 tags: [User groups, Community, Guy Heylens]
@@ -20,3 +20,4 @@ notes:
     - text: Kotlin Nights
       link: https://kotlinlang.org/community/kotlin-nights.html
 ---
+
