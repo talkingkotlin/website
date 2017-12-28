@@ -4,7 +4,7 @@ title: "Internal Development at JetBrains"
 guest: Eduard Gurskiy
 published: 2017-12-28
 recorded: 2017-07-04
-trackid: 23ff5500
+trackid: 375364355
 length: "35:00"
 length_rounded: "35 mins"
 tags: [Eduard Gurskiy, Server Side, JetBrains]
@@ -17,3 +17,4 @@ notes:
       link: https://jetbrains.com
 
 ---
+
