@@ -112,6 +112,9 @@
         color: inherit;
         text-decoration: underline;
         }
+    .cookies-notify__link:hover {
+        color: #0887d7;
+        }
 
 .jquery-console-focus span.jquery-console-cursor {
     background: #eee;
