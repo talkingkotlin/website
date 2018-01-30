@@ -15,6 +15,8 @@ bio: "Mikhail Chernykh, Software Engineer in Zalando, Berlin. Building scalable,
 notes: 
     - text: Mykhailo Kulak on Twitter
       link: https://twitter.com/kleshney
+    - text: Mikhail Chernykh on Twitter
+      link: https://twitter.com/netme
     - text: Zally
       link: https://github.com/zalando/zally  
     - text: Richardson Maturity Model
