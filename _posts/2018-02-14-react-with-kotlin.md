@@ -19,6 +19,8 @@ notes:
       link: https://github.com/StokeMasterJack  
     - text: Create React Kotlin App
       link: https://github.com/JetBrains/create-react-kotlin-app
+    - text: Dave's talk at KotlinConf
+      link: https://www.youtube.com/watch?v=FDOECr-sT6U&index=4&list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5  
 
             
 ---
