@@ -15,6 +15,8 @@ bio: "Please see Show Notes"
 notes: 
     - text: Meshcloud
       link: https://meshcloud.io
+    - text: Meshcloud on Twitter
+      link: https://twitter.com/meshstack
     - text: Kotlin Lines of Code
       link: https://www.meshcloud.io/en/2017/10/04/counting-lines-of-code-in-concourse-ci/   
             
