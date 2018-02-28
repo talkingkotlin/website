@@ -4,7 +4,7 @@ title: "Kotlin on the backend at Meshcloud"
 guest:  Johannes Rudolph, Stefan Tomm 
 published: 2018-02-28
 recorded: 2017-12-13
-trackid: 
+trackid: 405929901
 length: "34:24"
 length_rounded: "35 mins"
 tags: [Server Side, Johannes Rudolph, Stefan Tomm]
@@ -21,4 +21,3 @@ notes:
       link: https://www.meshcloud.io/en/2017/10/04/counting-lines-of-code-in-concourse-ci/   
             
 ---
-
