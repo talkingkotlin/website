@@ -14,7 +14,7 @@ bio: "Please see Show Notes"
                   
 notes: 
     - text: Meshcloud
-      link: https://meshcloud.io
+      link: https://www.meshcloud.io
     - text: Meshcloud on Twitter
       link: https://twitter.com/meshstack
     - text: Kotlin Lines of Code
