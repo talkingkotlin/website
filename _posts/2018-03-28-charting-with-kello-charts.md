@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charting with Kello Charts"
-guest:  Marcos Placona
+guest:  Charles Anderson
 recorded: 2018-02-13
 published: 2018-03-28
 trackid: 421202712
