@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kotlin/Native with Nikolay Igotti"
-guest:  
+guest:  Nikolay Igotti
 recorded: 2018-04-09
 published: 2018-05-28
 trackid: 450100029
