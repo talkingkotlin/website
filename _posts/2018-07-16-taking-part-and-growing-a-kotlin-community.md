@@ -8,9 +8,9 @@ trackid: 471532230
 length: "38:14"
 length_rounded: "38 mins"
 tags: [Brent Watson, Community, User Groups]
-image: kotlin-meetups.png
+image: brent-watson.jpg
 description: "We chat with Brent Watson about his involvement and background in Kotlin, as well as starting a Kotlin meet-up, getting people to participate and lessons learned."
-bio: "Brent Watson is a Technical Lead at Vimeo and also runs the New York Kotlin Meet-up Group."
+bio: "Brent runs the New York City Kotlin meetup group. He is an Android engineer in NYC at Vimeo, was the tech editor for Kotlin In Action, is a published author, speaker, and Kotlin advocate."
 
 
 notes: 
