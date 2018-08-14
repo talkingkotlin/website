@@ -4,7 +4,7 @@ title: "Speaking Spek and Gradle"
 guest:  Artur Dryomov
 recorded: 2018-05-23
 published: 2018-08-14
-trackid: 
+trackid: 485307150
 length: "37:58"
 length_rounded: "38 mins"
 tags: [Spek, Gradle Kotlin DSL]
@@ -19,5 +19,3 @@ notes:
     - text: Gradle Kotlin DSL
       link: https://github.com/gradle/kotlin-dsl
 ---
-
-
