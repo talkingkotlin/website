@@ -3,7 +3,7 @@ layout: post
 title: "Greenfield Kotlin at OLX"
 guest:  Benjamin Schneider and Guido Mariotti
 recorded: 2018-05-14
-published: 2018-08-27
+published: 2018-08-27   
 trackid: 489948462
 length: "34:41"
 length_rounded: "35 mins"
