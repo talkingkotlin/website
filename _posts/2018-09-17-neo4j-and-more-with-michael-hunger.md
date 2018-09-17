@@ -19,7 +19,16 @@ notes:
       link: https://twitter.com/mesirii
     - text: Michael Hunger on GitHub
       link: https://github.com/jexp
-
+    - text: Kotlin Community Graph
+      link: https://github.com/community-graph/community-radar#connection-details
+    - text: Project on GitHub
+      link: https://github.com/community-graph/community-radar
+    - text: neo4j and GraphQL  
+      link: https://github.com/neo4j-graphql/neo4j-graphql 
+    - text: neo4j and kafka
+      link: https://github.com/neo4j-contrib/neo4j-kafka
+    - text: Michael's recent Kotlin presentation
+      link: https://www.dropbox.com/s/qbfliiwlbxgtuhb/Kotlin-Meetup.pptx?dl=0
+      
 ---
-
 
