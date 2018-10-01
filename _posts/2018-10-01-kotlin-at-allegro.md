@@ -4,7 +4,7 @@ title: "Kotlin at Allegro"
 guest:  Rafal Glowinski and Kondrad Kaminski 
 recorded: 2018-07-16
 published: 2018-10-01   
-trackid: 
+trackid: 506598492
 length: "38:59"
 length_rounded: "39 mins"
 tags: [Spring, Case Study, Functional Programming]
@@ -13,4 +13,3 @@ description: "Allegro is the largest online Polish retailer and in this episode 
 bio: "Rafal is a Developer Team Lead at Allegro. Konrad is a software engineer working at Allegro."
       
 ---
-
