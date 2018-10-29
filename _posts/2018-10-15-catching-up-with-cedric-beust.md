@@ -2,8 +2,8 @@
 layout: post
 title: "Catching up with Cedric Beust"
 guest: Cédric Beust
-published: 2017-10-15
-recorded: 2017-07-18
+published: 2018-10-15
+recorded: 2018-07-18
 trackid: 514096044
 length: "37:11"
 length_rounded: "37 mins"
