@@ -8,7 +8,7 @@ trackid: 521440962
 length: "47:18"
 length_rounded: "47 mins"
 tags: [Amanda Hinchman, Meta-programming, Desktop, TornadoFX]
-image: amanda-hinchman.jpeg
+image: amanda-hinchman.png
 description: "In this episode we chat to Amanda about how she joined the Kotlin community and the work she's been doing around test automation. As well as the current status of development fatigue that many suffer from."
 bio: "A Grinnell '17 alum from the sunny state of Florida. Merely at the beginning but specializes in UI development producing large-scale projects in sales enablement. College provided experience for data-driven development for analysis in social inquiry, Android development, as well as front-end engineering internships at Prudential and Cisco. More notably, a sculpture artist."
 
