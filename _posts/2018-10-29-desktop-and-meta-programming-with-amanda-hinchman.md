@@ -14,7 +14,7 @@ bio: "A Grinnell '17 alum from the sunny state of Florida. Merely at the beginni
 
 notes: 
     - text: Amanda Hinchman on Twitter
-      link: https://twitter.com/mvndy
+      link: https://twitter.com/hinchman_amanda
     - text: Amanda's talk at KotlinConf
       link: https://www.youtube.com/watch?v=XyGvwsQ5W5A&list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr&index=48&t=0s
     - text: TornadoFX
