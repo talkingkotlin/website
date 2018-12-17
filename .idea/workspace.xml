@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 46 - Dependency Injection with Koin" />
+    <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="website" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="217">
+                <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abstract-1.jpg</find>
+      <find>descript</find>
+      <find>odcast</find>
+      <find>description</find>
+      <find>title</find>
+      <find>credit</find>
+      <find>modified</find>
+      <find>if</find>
+      <find>author</find>
+      <find>content</find>
+      <find>post-card__bio</find>
+      <find>usergro</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_posts/2017-03-14-using-kotlin-for-a-cross-platform-ide.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-28-gradle-script-kotlin-with-rodrigo-oliveira" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-28-gradle-script-kotlin-with-rodrigo-oliveira.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-15-kotlin-at-pinterest-with-christina-lee.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-28-corda-with-mike-hearn.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-05-26-kobalt-with-cedric-beust.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-12-kotlin-at-hootsuite-with-neil-powers-and-simon-tse" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-12-kotlin-at-hootsuite-with-neil-powers-and-simon-tse.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-14-kotlin-at-hootsuite-with-neil-powers-and-simon-tse.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-06-28-heroku-with-joe-kutner.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-14-functional-constructs-with-jorge-castillo.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-28-Kotlin-adoption-at-trello.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-28-Kotlin-at-trello.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-14-Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-28-Kotlin-at-Basecam-with-Jay-Ohms.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-14-Sitting-down-with-Tor-Norbye.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-28-TornadoFX-with-Edvin-Syse.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-16-Kotlin-at-American-Express.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-26-Multiplatform-Development-with-Eugenio-Marletti.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-14-Usergroups-and-community-with-Guy-Heylens.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-28-Data-Science-with-Thomas-Nield.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-14-Kotlin-at-BBC-Sports.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-28-Internal-Development-At-JetBrains.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-15-Arrow-Functional-Library.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-29-Zally-with-Zalando.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-29-Zally-An-API-Linter.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-14-react-with-kotlin.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-28-kotlin-on-the-backend-meshcloud.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-02-28-kotlin-on-the-backend-at-meshcloud.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-14-Going-serverless-with-marcos-placona" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-28-charting-with-kello-charts.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-16-talking-groovy-with-ken-kousen.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-30-creating-browser-extensions.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-14-groovy-and-kotlin-interop-at-rocket-travel.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-14-application-monitoring-with-micrometrics.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-05-28-kotlin-native-with-nikolay-igotti.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-14-application-monitoring-with-micrometer.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-28-kscript-with-holger-brandl.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-16-taking-part-and-growing-a-kotlin-community.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-29-kotlin-at-shazam.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-14-speaking-spek-and-gradle.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-24-greenfield-kotlin-at-olx.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-09-17-neo4j-and-more-with-michael-hunger.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-01-kotlin-at-allegro.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-15-catching-up-with-cedric-beust.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-29-desktop-and-meta-programming-with-amanda-hinchman.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin-with-bartek-lipinski.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-28-dependency-injection-with-koin.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="859" />
+    <option name="y" value="950" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="$PROJECT_DIR$/node_modules/grunt-cli" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/episodes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Grunt.js.default">
+    <configuration default="true" type="spek-run-configuration" factoryName="Spek">
+      <module name="" />
+      <option name="target" value="spec" />
+      <option name="spec" value="" />
+      <option name="vm-parameters" value="" />
+      <option name="program-parameters" value="" />
+      <option name="working-directory" value="" />
+      <option name="alternative-jre-path" value="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="clean:dist" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="clean:dist" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.grunt" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="default" />
+      </tasks>
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Grunt.js.default" />
+      <item itemvalue="Grunt.js.clean:dist" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Grunt.js.default" />
+        <item itemvalue="Grunt.js.clean:dist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="" />
+      <changelist id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="" />
+      <created>1484062546084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484062546084</updated>
+      <workItem from="1484062547376" duration="4798000" />
+      <workItem from="1484075427974" duration="1965000" />
+      <workItem from="1484115355225" duration="199000" />
+      <workItem from="1484115583114" duration="5638000" />
+      <workItem from="1484128463248" duration="598000" />
+      <workItem from="1484163441341" duration="218000" />
+      <workItem from="1484236782442" duration="4933000" />
+      <workItem from="1484243159526" duration="4632000" />
+      <workItem from="1484293783394" duration="70000" />
+      <workItem from="1484293913323" duration="548000" />
+      <workItem from="1484308575724" duration="146000" />
+      <workItem from="1484816562316" duration="1636000" />
+      <workItem from="1485241190370" duration="351000" />
+      <workItem from="1485317811103" duration="3732000" />
+      <workItem from="1486998197156" duration="1173000" />
+      <workItem from="1487001299653" duration="130000" />
+      <workItem from="1487052809769" duration="1085000" />
+      <workItem from="1487063720080" duration="507000" />
+      <workItem from="1487582051865" duration="159000" />
+      <workItem from="1488199379746" duration="1878000" />
+      <workItem from="1488202374339" duration="1065000" />
+      <workItem from="1489427348203" duration="904000" />
+      <workItem from="1489428987464" duration="1734000" />
+      <workItem from="1490559280655" duration="6000" />
+      <workItem from="1490713095741" duration="3449000" />
+      <workItem from="1492163005455" duration="1135000" />
+      <workItem from="1492164435047" duration="550000" />
+      <workItem from="1492178416152" duration="544000" />
+      <workItem from="1493284672212" duration="274000" />
+      <workItem from="1493285054795" duration="821000" />
+      <workItem from="1493355102891" duration="343000" />
+      <workItem from="1494490758348" duration="716000" />
+      <workItem from="1494517161882" duration="31000" />
+      <workItem from="1494586810390" duration="1270000" />
+      <workItem from="1494602077006" duration="7000" />
+      <workItem from="1495800900725" duration="2056000" />
+      <workItem from="1495856203756" duration="7000" />
+      <workItem from="1496058070327" duration="340000" />
+      <workItem from="1497428888067" duration="1301000" />
+      <workItem from="1497441230429" duration="22000" />
+      <workItem from="1498559561798" duration="997000" />
+      <workItem from="1498587094032" duration="20000" />
+      <workItem from="1498625495181" duration="605000" />
+      <workItem from="1500034330774" duration="1511000" />
+      <workItem from="1500107676513" duration="61000" />
+      <workItem from="1501051953156" duration="4830000" />
+      <workItem from="1501222186376" duration="1017000" />
+      <workItem from="1502304447627" duration="1488000" />
+      <workItem from="1502485355892" duration="527000" />
+      <workItem from="1502691548110" duration="215000" />
+      <workItem from="1503652611917" duration="1727000" />
+      <workItem from="1503727570387" duration="91000" />
+      <workItem from="1503897870476" duration="597000" />
+      <workItem from="1505360434828" duration="650000" />
+      <workItem from="1505378919656" duration="590000" />
+      <workItem from="1506498188898" duration="596000" />
+      <workItem from="1506512096851" duration="953000" />
+      <workItem from="1506574202340" duration="602000" />
+      <workItem from="1508130375312" duration="1489000" />
+      <workItem from="1508142050928" duration="4000" />
+      <workItem from="1508745459395" duration="1679000" />
+      <workItem from="1509074262536" duration="53000" />
+      <workItem from="1510134795282" duration="1397000" />
+      <workItem from="1510143100322" duration="418000" />
+      <workItem from="1510152012301" duration="2000" />
+      <workItem from="1510614364010" duration="423000" />
+      <workItem from="1510624616862" duration="21000" />
+      <workItem from="1511711514125" duration="525000" />
+      <workItem from="1511847483309" duration="1517000" />
+      <workItem from="1512022246384" duration="12000" />
+      <workItem from="1513186800360" duration="1365000" />
+      <workItem from="1513232037589" duration="166000" />
+      <workItem from="1514393956133" duration="1724000" />
+      <workItem from="1514564213215" duration="219000" />
+      <workItem from="1515755296863" duration="863000" />
+      <workItem from="1515870474007" duration="11000" />
+      <workItem from="1515992747979" duration="2687000" />
+      <workItem from="1516965844648" duration="1896000" />
+      <workItem from="1517199728355" duration="724000" />
+      <workItem from="1518584030260" duration="1858000" />
+      <workItem from="1518699459993" duration="2000" />
+      <workItem from="1519013340687" duration="1000" />
+      <workItem from="1519734681733" duration="1445000" />
+      <workItem from="1519791750274" duration="764000" />
+      <workItem from="1520399729196" duration="21000" />
+      <workItem from="1520918521884" duration="1513000" />
+      <workItem from="1521003681967" duration="595000" />
+      <workItem from="1522216126709" duration="1979000" />
+      <workItem from="1522252235840" duration="357000" />
+      <workItem from="1522403048915" duration="39000" />
+      <workItem from="1522430138609" duration="6000" />
+      <workItem from="1523859285864" duration="926000" />
+      <workItem from="1523862534686" duration="117000" />
+      <workItem from="1523864701680" duration="150000" />
+      <workItem from="1524322770726" duration="355000" />
+      <workItem from="1525065407348" duration="498000" />
+      <workItem from="1525077924151" duration="10000" />
+      <workItem from="1525078255790" duration="72000" />
+      <workItem from="1526028804110" duration="1369000" />
+      <workItem from="1526045388253" duration="600000" />
+      <workItem from="1527482762686" duration="844000" />
+      <workItem from="1528869072541" duration="1557000" />
+      <workItem from="1528948648197" duration="22000" />
+      <workItem from="1530139864835" duration="1173000" />
+      <workItem from="1531554990263" duration="684000" />
+      <workItem from="1531556425339" duration="170000" />
+      <workItem from="1531720319039" duration="685000" />
+      <workItem from="1531807743546" duration="3000" />
+      <workItem from="1532325640607" duration="836000" />
+      <workItem from="1532508846953" duration="95000" />
+      <workItem from="1532879301759" duration="140000" />
+      <workItem from="1534226403302" duration="1094000" />
+      <workItem from="1535104800370" duration="1118000" />
+      <workItem from="1535185791494" duration="270000" />
+      <workItem from="1535186523283" duration="34000" />
+      <workItem from="1535349354959" duration="205000" />
+      <workItem from="1535952829605" duration="23000" />
+      <workItem from="1537111890562" duration="405000" />
+      <workItem from="1537162258844" duration="306000" />
+      <workItem from="1537248179035" duration="132000" />
+      <workItem from="1537336180364" duration="3000" />
+      <workItem from="1537421268440" duration="3000" />
+      <workItem from="1537443490302" duration="5000" />
+      <workItem from="1537932651786" duration="14000" />
+      <workItem from="1538157787668" duration="627000" />
+      <workItem from="1538370410819" duration="111000" />
+      <workItem from="1538383428497" duration="310000" />
+      <workItem from="1539417917081" duration="5000" />
+      <workItem from="1539511806675" duration="1010000" />
+      <workItem from="1539578999487" duration="14000" />
+      <workItem from="1539579062848" duration="46000" />
+      <workItem from="1540793919314" duration="651000" />
+      <workItem from="1540794629385" duration="245000" />
+      <workItem from="1542065847871" duration="1191000" />
+      <workItem from="1542197016899" duration="182000" />
+      <workItem from="1542260520957" duration="3000" />
+      <workItem from="1542415318137" duration="16000" />
+      <workItem from="1542415363421" duration="2000" />
+      <workItem from="1543205289487" duration="622000" />
+      <workItem from="1543361172858" duration="1080000" />
+      <workItem from="1545049737535" duration="1191000" />
+    </task>
+    <task id="LOCAL-00095" summary="Episode 26 - Zally An API Linter">
+      <created>1516967811931</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1516967811931</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Episode 27 - React with Kotlin">
+      <created>1518584896214</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1518584896215</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1518585098897</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1518585098897</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Episode 28 - Meshcloud">
+      <created>1519737193629</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1519737193629</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Renamed Episode 28.">
+      <created>1519737350228</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1519737350228</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Updated information for Epsidode 28">
+      <created>1519750101078</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1519750101078</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Added track to Espisode 28">
+      <created>1519792614060</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1519792614061</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Fixed meshcloud link">
+      <created>1520399740295</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1520399740296</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Fixed meshcloud link">
+      <created>1520918916743</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1520918916743</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Episode 29 - Serverless with Marcos Placona">
+      <created>1520918995575</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1520918995575</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Episode 29 - Serverless with Marcos Placona">
+      <created>1520919012218</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1520919012218</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Episode 29 - Serverless with Marcos Placona">
+      <created>1522217740801</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1522217740801</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Episode 30 - Charting with Kello Charts">
+      <created>1522217758836</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1522217758836</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Episode 30 - Charting with Kello Charts">
+      <created>1522218035799</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1522218035799</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1522218107269</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1522218107269</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Fixed Author name">
+      <created>1522403068615</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1522403068616</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Episode 31 - Talking Groovy with Ken Kousen">
+      <created>1523862607299</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1523862607300</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Episode 32 - Creating browser extensions">
+      <created>1524323114935</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1524323114935</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Episode 32 - Creating browser extensions">
+      <created>1525065783264</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1525065783265</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Fixes to latest episode.">
+      <created>1525078300503</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1525078300504</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Episode 33 - Groovy and Kotlin Interop at Rocket Travel">
+      <created>1526029754958</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1526029754960</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Episode 33 - Groovy and Kotlin Interop at Rocket Travel">
+      <created>1526030125281</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1526030125281</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Episode 34 - Kotlin/Native with Nikolay Igotti">
+      <created>1527483915608</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1527483915609</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Episode 35 - Application monitoring with Micrometer">
+      <created>1528870696175</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1528870696177</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Episode 36 - kscript with Holger Brandl">
+      <created>1530140232670</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1530140232671</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Episode 36 - kscript with Holger Brandl">
+      <created>1530140298283</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1530140298283</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Removed quotes from bio">
+      <created>1530140469837</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1530140469838</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Removed quotes from bio">
+      <created>1530140547690</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1530140547690</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Episode 37 - Talking part and growing a Kotlin community">
+      <created>1531555921294</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1531555921295</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Fixed Brent's bio/pic">
+      <created>1531556480856</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1531556480856</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Fixed link to picture">
+      <created>1531720404540</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1531720404541</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Fixed link to picture">
+      <created>1532326028634</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1532326028634</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Bio">
+      <created>1532508935189</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1532508935190</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Episode 39 - Speaking Spek and Gradle">
+      <created>1534227271971</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1534227271971</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Added track info to Episode 39">
+      <created>1534227325157</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1534227325157</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Episode 40 - Greenfield Kotlin at OLX">
+      <created>1535105883588</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1535105883590</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Episode 40 - Greenfield Kotlin at OLX">
+      <created>1535349400944</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1535349400945</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Episode 41 - neo4j">
+      <created>1537112204850</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1537112204852</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Fixed image">
+      <created>1537112286479</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1537112286479</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Added show links">
+      <created>1537162423672</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1537162423673</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Added show links">
+      <created>1538158197491</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1538158197492</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Added track ID">
+      <created>1538370502014</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1538370502014</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Episode 43 - Catching up with Cedric Beust">
+      <created>1539512026323</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1539512026324</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Episode 43 - Catching up with Cedric Beust">
+      <created>1539512145349</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1539512145350</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Episode 43 - Catching up with Cedric Beust">
+      <created>1539579081121</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1539579081123</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Episode 44 - Amanda Hinchman">
+      <created>1540794532233</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1540794532233</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Episode 44 - Fix image">
+      <created>1540794641784</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1540794641785</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Episode 45 - Annotations">
+      <created>1542067101665</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1542067101668</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Episode 46 - Dependency Injection with Koin">
+      <created>1543361530593</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1543361530593</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115047000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="359" y="234" width="1920" height="1058" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41387025" visible="true" weight="0.27708334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.28869048" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info id="Grunt " order="8" sideWeight="0.5861297" side_tool="true" weight="0.21319444" />
+      <window_info id="Learn" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.43958333" visible="true" weight="0.5075075" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.56041664" side_tool="true" weight="0.5428845" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.329602" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.47284344" weight="0.06865402" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
+      <window_info anchor="bottom" id="TeamCity" order="15" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Fixed Author name" />
+    <MESSAGE value="Episode 31 - Talking Groovy with Ken Kousen" />
+    <MESSAGE value="Episode 32 - Creating browser extensions" />
+    <MESSAGE value="Fixes to latest episode." />
+    <MESSAGE value="Episode 33 - Groovy and Kotlin Interop at Rocket Travel" />
+    <MESSAGE value="Episode 34 - Kotlin/Native with Nikolay Igotti" />
+    <MESSAGE value="Episode 35 - Application monitoring with Micrometer" />
+    <MESSAGE value="Episode 36 - kscript with Holger Brandl" />
+    <MESSAGE value="Removed quotes from bio" />
+    <MESSAGE value="Episode 37 - Talking part and growing a Kotlin community" />
+    <MESSAGE value="Fixed Brent's bio/pic" />
+    <MESSAGE value="Fixed link to picture" />
+    <MESSAGE value="Bio" />
+    <MESSAGE value="Episode 39 - Speaking Spek and Gradle" />
+    <MESSAGE value="Added track info to Episode 39" />
+    <MESSAGE value="Episode 40 - Greenfield Kotlin at OLX" />
+    <MESSAGE value="Episode 41 - neo4j" />
+    <MESSAGE value="Fixed image" />
+    <MESSAGE value="Added show links" />
+    <MESSAGE value="Added track ID" />
+    <MESSAGE value="Episode 43 - Catching up with Cedric Beust" />
+    <MESSAGE value="Episode 44 - Amanda Hinchman" />
+    <MESSAGE value="Episode 44 - Fix image" />
+    <MESSAGE value="Episode 45 - Annotations" />
+    <MESSAGE value="Episode 46 - Dependency Injection with Koin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Episode 46 - Dependency Injection with Koin" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/posts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-28-gradle-script-kotlin-with-rodrigo-oliveira.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-12-kotlin-at-pinterest-with-christina-lee.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-28-corda-with-mike-hearn.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="102" selection-start-line="11" selection-start-column="102" selection-end-line="11" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-26-kobalt-with-cedric-beust.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-14-kotlin-at-hootsuite-with-neil-powers-and-simon-tse.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-28-heroku-with-joe-kutner.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-28-Kotlin-at-trello.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-Kotlin-at-American-Express.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-28-TornadoFX-with-Edvin-Syse.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-14-Sitting-down-with-Tor-Norbye.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-28-Kotlin-at-Basecam-with-Jay-Ohms.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-14-Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-14-functional-constructs-with-jorge-castillo.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-using-kotlin-for-a-cross-platform-ide.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-a-chat-with-andrey-breslav.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-Multiplatform-Development-with-Eugenio-Marletti.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-14-Usergroups-and-community-with-Guy-Heylens.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-28-Data-Science-with-Thomas-Nield.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-14-Kotlin-at-BBC-Sports.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-Internal-Development-At-JetBrains.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-15-Arrow-Functional-Library.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-29-Zally-An-API-Linter.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-14-react-with-kotlin.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-02-28-kotlin-on-the-backend-at-meshcloud.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-14-Going-serverless-with-marcos-placona.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="111" selection-start-line="12" selection-start-column="111" selection-end-line="12" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-16-talking-groovy-with-ken-kousen.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-30-creating-browser-extensions.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-28-charting-with-kello-charts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-14-application-monitoring-with-micrometer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-kscript-with-holger-brandl.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="336">
+            <caret line="12" column="403" selection-start-line="12" selection-start-column="403" selection-end-line="12" selection-end-column="403" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-16-taking-part-and-growing-a-kotlin-community.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="280">
+            <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-29-kotlin-at-shazam.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="372">
+            <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-28-kotlin-native-with-nikolay-igotti.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="124">
+            <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-24-greenfield-kotlin-at-olx.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="310">
+            <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-14-speaking-spek-and-gradle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="465">
+            <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-05-14-groovy-and-kotlin-interop-at-rocket-travel.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-neo4j-and-more-with-michael-hunger.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="318">
+            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-01-kotlin-at-allegro.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="465">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-15-catching-up-with-cedric-beust.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-29-desktop-and-meta-programming-with-amanda-hinchman.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="250">
+            <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin-with-bartek-lipinski.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/episodes/arnaud-giuliani.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-dependency-injection-with-koin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="286">
+            <caret line="23" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="217">
+            <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
