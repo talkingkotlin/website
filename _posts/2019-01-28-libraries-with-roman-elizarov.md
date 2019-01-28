@@ -19,7 +19,8 @@ notes:
       link: https://kotlinlang.org/docs/reference/coroutines.html
     - text: Kotlin Serialization
       link: https://github.com/Kotlin/kotlinx.serialization
-   
+    - text: Ktor
+      link: https://ktor.io/
 
 ---
 
