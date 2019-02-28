@@ -23,7 +23,10 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 46 - Dependency Injection with Koin" />
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 46 - Dependency Injection with Koin">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-functional-programming.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,11 +55,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-functional-programming.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="217">
-                <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <first_editor relative-caret-position="168">
+                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,12 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-03-14-using-kotlin-for-a-cross-platform-ide.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-28-gradle-script-kotlin-with-rodrigo-oliveira" />
-        <option value="$PROJECT_DIR$/_posts/2017-03-28-gradle-script-kotlin-with-rodrigo-oliveira.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-05-15-kotlin-at-pinterest-with-christina-lee.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-04-28-corda-with-mike-hearn.md" />
         <option value="$PROJECT_DIR$/_posts/2017-05-26-kobalt-with-cedric-beust.md" />
         <option value="$PROJECT_DIR$/_posts/2017-06-12-kotlin-at-hootsuite-with-neil-powers-and-simon-tse" />
         <option value="$PROJECT_DIR$/_posts/2017-06-12-kotlin-at-hootsuite-with-neil-powers-and-simon-tse.md" />
@@ -146,6 +143,12 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin-with-bartek-lipinski.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-28-dependency-injection-with-koin.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-14-multiplatform-development-with-kevin-galligan.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-28-libraries-with-roman-elizarov.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-14-kodein-framework-with-salomon-brys.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-fp.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-functional-programming.md" />
       </list>
     </option>
   </component>
@@ -155,8 +158,8 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="859" />
-    <option name="y" value="950" />
+    <option name="x" value="415" />
+    <option name="y" value="148" />
     <option name="width" value="1920" />
     <option name="height" value="1058" />
   </component>
@@ -168,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,11 +184,15 @@
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -484,35 +492,14 @@
       <workItem from="1542415363421" duration="2000" />
       <workItem from="1543205289487" duration="622000" />
       <workItem from="1543361172858" duration="1080000" />
-      <workItem from="1545049737535" duration="1191000" />
-    </task>
-    <task id="LOCAL-00095" summary="Episode 26 - Zally An API Linter">
-      <created>1516967811931</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1516967811931</updated>
-    </task>
-    <task id="LOCAL-00096" summary="Episode 27 - React with Kotlin">
-      <created>1518584896214</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1518584896215</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Merge remote-tracking branch 'origin/master'">
-      <created>1518585098897</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1518585098897</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Episode 28 - Meshcloud">
-      <created>1519737193629</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1519737193629</updated>
+      <workItem from="1545049737535" duration="1961000" />
+      <workItem from="1547282047874" duration="281000" />
+      <workItem from="1547378760454" duration="890000" />
+      <workItem from="1548656009892" duration="1192000" />
+      <workItem from="1548674251259" duration="62000" />
+      <workItem from="1550126342917" duration="834000" />
+      <workItem from="1550732160693" duration="125000" />
+      <workItem from="1551335489536" duration="560000" />
     </task>
     <task id="LOCAL-00099" summary="Renamed Episode 28.">
       <created>1519737350228</created>
@@ -829,11 +816,39 @@
       <option name="project" value="LOCAL" />
       <updated>1543361530593</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Episode 47 - Multiplatform with Kevin">
+      <created>1547450062807</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1547450062808</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Episode 49 - Libraries with Roman Elizarov">
+      <created>1548656982022</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1548656982023</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Added Ktor.">
+      <created>1548657113738</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1548657113739</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Episode 50 - Kodein Framework">
+      <created>1550127122228</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1550127122229</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115047000" />
+    <option name="totallyTimeSpent" value="119761000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -845,9 +860,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="359" y="234" width="1920" height="1058" extended-state="0" />
+    <frame x="415" y="148" width="1920" height="1058" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.41387025" visible="true" weight="0.27708334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41387025" visible="true" weight="0.27708334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.28869048" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -864,7 +880,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.43958333" visible="true" weight="0.5075075" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.43958333" weight="0.50300604" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.56041664" side_tool="true" weight="0.5428845" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.329602" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.47284344" weight="0.06865402" />
@@ -898,10 +914,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Fixed Author name" />
-    <MESSAGE value="Episode 31 - Talking Groovy with Ken Kousen" />
-    <MESSAGE value="Episode 32 - Creating browser extensions" />
-    <MESSAGE value="Fixes to latest episode." />
     <MESSAGE value="Episode 33 - Groovy and Kotlin Interop at Rocket Travel" />
     <MESSAGE value="Episode 34 - Kotlin/Native with Nikolay Igotti" />
     <MESSAGE value="Episode 35 - Application monitoring with Micrometer" />
@@ -923,41 +935,17 @@
     <MESSAGE value="Episode 44 - Fix image" />
     <MESSAGE value="Episode 45 - Annotations" />
     <MESSAGE value="Episode 46 - Dependency Injection with Koin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Episode 46 - Dependency Injection with Koin" />
+    <MESSAGE value="Episode 47 - Multiplatform with Kevin" />
+    <MESSAGE value="Episode 49 - Libraries with Roman Elizarov" />
+    <MESSAGE value="Added Ktor." />
+    <MESSAGE value="Episode 50 - Kodein Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Episode 50 - Kodein Framework" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/posts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
@@ -965,7 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-28-gradle-script-kotlin-with-rodrigo-oliveira.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -1210,8 +1197,63 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="217">
-            <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <first_editor relative-caret-position="310">
+            <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-14-multiplatform-development-with-kevin-galligan.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="247">
+            <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-82">
+            <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-libraries-with-roman-elizarov.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="287">
+            <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-14-kodein-framework-with-salomon-brys.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="504">
+            <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-functional-programming.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
