@@ -8,7 +8,7 @@ trackid: 612963945
 length: "44:42"
 length_rounded: "45 mins"
 tags: [Uber, Buck, Android]
-image: uber.png
+image: uber.jpg
 description: "We talk to a few folks at Uber Engineering about their adoption of Kotlin in a non-conventional setting where they're using Buck. We also discuss some of the work they've been doing in terms of performance analysis with Kotlin and the differences with Java. This work has been published and available for public access (see show notes). Note: first couple of minutes had some feedback issues which were resolved."
 bio: "Joined by Zac, Thales, Edgar and Tho from Uber Engineering"
                                                                                                                                                                                                                                                                                         
