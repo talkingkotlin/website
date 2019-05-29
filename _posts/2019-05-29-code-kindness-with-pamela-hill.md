@@ -8,7 +8,7 @@ trackid: 628282824
 length: "39:17"
 length_rounded: "39 mins"
 tags: [Pamela Hill, Functional Programming, Readability, Comprehensibility]
-image: alec-strong.jpg
+image: pamela-hill.jpg
 description: "We chat with Pamela Hill about code kindness, in which we discuss what constitutes comprehensible code and the things we need to be aware of when writing code. We discuss the challenges of different approaches to writing code, objectivity, code reviews, and a bunch of other things!"
 bio: "Pamela is a second-generation coder and holds BSc IT and BSc (Hons) Computer Science degrees from the University of Pretoria. She has more than 15 years of experience writing desktop, web and mobile apps. She is an Android Engineer at the cryptocurrency startup Luno. She loves coding in Kotlin, especially for Android."
                                                                                                                                                                                                                                                                                         
