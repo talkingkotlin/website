@@ -3,7 +3,7 @@ layout: post
 title: "Code Kindness with Pamela Hill"
 guest: Pamela Hill
 recorded: 2019-02-11
-published: 2019-05-30
+published: 2019-05-29
 trackid: 628282824
 length: "39:17"
 length_rounded: "39 mins"
