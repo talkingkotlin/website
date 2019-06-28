@@ -23,8 +23,8 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Change of logo">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-14-common-code-in-mpp-projects.md" afterDir="false" />
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 58. Common code in MPP">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
@@ -55,11 +55,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-14-common-code-in-mpp-projects.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="132">
-                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <first_editor relative-caret-position="660">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -98,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-08-14-Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming" />
         <option value="$PROJECT_DIR$/_posts/2017-08-28-Kotlin-at-Basecam-with-Jay-Ohms.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-14-Sitting-down-with-Tor-Norbye.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-28-TornadoFX-with-Edvin-Syse.md" />
@@ -149,6 +148,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-30-code-kindness-with-pamela-hill.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-29-code-kindness-with-pamela-hill.md" />
         <option value="$PROJECT_DIR$/_posts/2019-06-14-common-code-in-mpp-projects.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md" />
       </list>
     </option>
   </component>
@@ -173,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,6 +195,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,11 +216,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/episodes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -524,14 +524,8 @@
       <workItem from="1557874611588" duration="132000" />
       <workItem from="1559114729003" duration="906000" />
       <workItem from="1559126577852" duration="11000" />
-      <workItem from="1560485242685" duration="641000" />
-    </task>
-    <task id="LOCAL-00111" summary="Episode 31 - Talking Groovy with Ken Kousen">
-      <created>1523862607299</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1523862607300</updated>
+      <workItem from="1560485242685" duration="1283000" />
+      <workItem from="1561695818470" duration="740000" />
     </task>
     <task id="LOCAL-00112" summary="Episode 32 - Creating browser extensions">
       <created>1524323114935</created>
@@ -869,11 +863,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559115192106</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Episode 58. Common code in MPP">
+      <created>1560486105497</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1560486105498</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128652000" />
+    <option name="totallyTimeSpent" value="130034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -888,7 +889,7 @@
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41387025" visible="true" weight="0.3455804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41387025" visible="true" weight="0.34930778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.28869048" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -941,7 +942,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Episode 40 - Greenfield Kotlin at OLX" />
     <MESSAGE value="Episode 41 - neo4j" />
     <MESSAGE value="Added show links" />
     <MESSAGE value="Added track ID" />
@@ -966,14 +966,14 @@
     <MESSAGE value="Code Kindness Episode" />
     <MESSAGE value="Fixed date" />
     <MESSAGE value="Fixed image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed image" />
+    <MESSAGE value="Episode 58. Common code in MPP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Episode 58. Common code in MPP" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-28-Kotlin-at-trello.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-Kotlin-at-American-Express.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-28-TornadoFX-with-Edvin-Syse.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-14-Sitting-down-with-Tor-Norbye.md" />
@@ -1321,8 +1321,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-14-common-code-in-mpp-projects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <first_editor relative-caret-position="600">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="660">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
