@@ -45,7 +45,7 @@ This text is a transcription of: [http://talkingkotlin.com/libraries-with-roman-
 **[Roman]** I'm doing well. I mean, we're quite busy here, working on the libraries. That's for sure.
 
   
-## Kotlin libraries - latest news.  
+### Kotlin libraries - latest news.  
   
 **[Hadi]** Yeah. And I mean, it's only been about two months since KotlinConf, or even less, I can’t even remember now. And, we made a bunch of announcements there. And you and I were speaking about maybe giving an update on the state of the ecosystem in regards to the libraries, because, I've been traveling around and been in Asia for the past month or so, and a lot of people have been asking me the same questions over and over again. So, despite all the blog posts, and despite the announcements, maybe we should talk about it on Talking Kotlin as well. So here we are. So in terms of the actual libraries, I know that you've been working on a whole bunch of stuff. What is the latest that you've been focusing on?
 
@@ -54,7 +54,7 @@ This text is a transcription of: [http://talkingkotlin.com/libraries-with-roman-
 So our goal is to help grow this ecosystem and serialization,though it is technically hard, because it has to be a compiler plugin because of various technical issues. That's something we're doing. It's a big chunk of work that we plan on finishing in the near future. We need to go through and clean up the design, work through use cases, implement easyfeatures, and work on the performance, stuff like that. This brings a lot of input output. I mean lots of people notice that, for instance, the Kotlin standard library doesn't really have anything to work with files, to work with sockets, nothing. We have JVM primitives on JVM, but there is no cross-platform primitives that you can use across multiplatform, any would be really Kotlin specific. So also again you need it for serialization,if you are sending stuff, where you send it to, what output would you use, right? How do you send it over a network? That's also something we are working on.
 
    
-## Coroutines release and structured concurrency.  
+### Coroutines release and structured concurrency.  
 
 **[Hadi]** So it feels like you have a lot of work going on in a lot of different areas. I want to actually take it piece by piece. One of the big announcements was around the coroutines release. For those of us that were using coroutines before the release, we had the whole aspect of experimental packages. And you and I were having this discussion at the time, in regards to whether naming something experimental was the right choice, especially given that you're saying that now people are using it and they're giving you edge-cases and corner-cases. Looking back in retrospect, would you do anything differently in how you released coroutines and naming things experimental and packages experimental? Because I believe that now we've introduced some other things in Kotlin in terms of experimental APIs, right?
 
@@ -88,7 +88,6 @@ These people usually because they were taught asynchronous programming in univer
 
 But when a person without any prior asynchronous programmingtries to start they find it hard, they don't understand what's going on. I don’t think we can attribute this to the coroutines themselves, because coroutines are the simplest way to do  asynchrony. I attribute it to the inherent complexity of asynchronous programming. So, to help these people we should not be concentrating on teaching coroutines. We should concentrate on explaining what asynchronyis. So they understand asynchrony. When they understand asynchrony,then coroutines come as a natural and easy solution to working  with asynchronous stuff.
 
-\[00:16:13\]
 
 **[Hadi]**Of course this is all around the coroutine stuff. But you mentioned other libraries that we've also been working on and in particular, serialization is something that you've been working on for a number of years now. Or at least this last year a little bit more, right? What is the state of that in terms of release?
 
@@ -101,18 +100,18 @@ But when a person without any prior asynchronous programmingtries to start they 
 **[Roman]** Yes.
 
    
-## Supported protocols in Kotlin.  
+### Supported protocols in Kotlin.  
 
 **[Hadi]** Okay. And what type of protocols are you currently supporting? You are supporting JSON, and what else?
 
-**[Roman]**So right now, out of the box, we support JSON and Protobuf that’s two protocols, they get out of the box support from us. We are also thinking about adding XML as kind of a built-in package. That will be the three core protocols that we’ll support. But the design itself is flexible in the sense that anyone with an external library can write their own implementation of their own protocols. Some people are already contributing, for example, we just got YAML contribution recently.
+**[Roman]** So right now, out of the box, we support JSON and Protobuf that’s two protocols, they get out of the box support from us. We are also thinking about adding XML as kind of a built-in package. That will be the three core protocols that we’ll support. But the design itself is flexible in the sense that anyone with an external library can write their own implementation of their own protocols. Some people are already contributing, for example, we just got YAML contribution recently.
 
 Well basically, the person said here's my external library that supports YAML. While writing all those solutions is somewhat harder than just using serialization and the API for writing that is still evolving a bit, that's the part of design we want to finalize. But the idea is that once we hit 1.0 and we can finalize all the API, there's no plan to providing all the protocols in the world. So we'll support this core set of basic protocols.
 
 And anyone can have a library of supporting “my great protocol X”. The great thing about it is, you can write this library in pure Kotlin, using Kotlin serialization and get this protocol support on any platform from native, JavaScript, or JVM.
 
 
-## Serialization in Kotlin.
+### Serialization in Kotlin.
 
 **[Hadi]** Well, I mean, one of the questions I was going to ask you is, why would, if I'm using the JVM, okay, and I'm not doing multiplatform, why would I use Kotlin serialization over some of the other libraries that exist?
 
@@ -133,7 +132,7 @@ So you don't run into these compatibility problems with it compiling itself and 
 So, in JS and Native we want to keep it small, so we don't support reflection and then we can do serializationthe usual way, and do it through reflection. We have to pre-compile all the serializers for allyour classes and that's what the plugin does. And now, because we do this for JSON and native, it also it makes sense to do it in JVM. On JVM we could have done it through reflection, but we need ahead of time through the plugin which gives us faster start up, and gives us potentially more performance because you could write reflection based on JVM that would create those classes on the fly. But that then again slows down the startup of your application. So here, because the plugin pre-compiles then serialize it for every class you can immediately start writing and reading them.
 
 
-## Coroutines & Kotlin/Native.
+### Coroutines & Kotlin/Native.
 
 **[Hadi]**Now, speaking about actually Kotlin native and one of the things that I forgot to ask you regarding coroutines, which often comes up: What is the status of coroutines targeting Kotlin native?
 
@@ -166,7 +165,7 @@ You know, if you're talking to the JVM, we interop with the JVM, if you're doing
 **[Roman]**Yes, exactly. That's exactly what we're doing. Just on a more foundational level. I mean in some ways you have to add some layer and some platform. Even though they may not exist. So it has to be largely from scratch. But still, the general idea is that for those kinds of foundational things we want to leverage as much as possible from the platform and interact with it.
 
 
-## Kotlin & HTTP.
+### Kotlin & HTTP.
 
 **[Hadi]**Talking about foundational things. One other one is, of course, HTTP, and namely a HTTP client. How is the status there? Because I know that that kind of falls under Ktor, right?
 
@@ -181,7 +180,7 @@ You know, if you're talking to the JVM, we interop with the JVM, if you're doing
 **[Roman]** It is released already. So you're absolutely welcome to use it.
 
    
-## Kotlin & AtomicFu.  
+### Kotlin & AtomicFu.  
 
 **[Hadi]**Awesome. And so other than the serialization and coroutines and all of these things that we've mentioned. There's also another thing that you've been working on which is AtomicFu. Can you briefly explain what that is about?
 
@@ -190,7 +189,7 @@ You know, if you're talking to the JVM, we interop with the JVM, if you're doing
 So the idea was to have this library that lets you write your code and your concurrent log algorithms in a common code, and then just compile two different backends and then compiler does the right thing. And actually, the reason we're not releasing it because, it's not very easy to use, because it’s not even a compiler plugin, it's like just postprocessing step that actually takes compiled code and tweaks it. So it has a bunch of these weird limitations on what you can and cannot do. And it's okay for our use, as we understand it, but it is not okay for the wider public. And again it is designed for people who write really low level stuff, like these things that lock free really fast like you that need for a coroutine scheduler. And so, it's really designed for people that are experts in this area. So we're not going to add this additional complication of limitations to understand there, mainly because it's not really targeted to the general public
 
    
-## About Kotlin Library Team and Community.  
+### About Kotlin Library Team and Community.  
 
 **[Hadi]** I see, makes sense. How many are you now in the Kotlin library team?
 
