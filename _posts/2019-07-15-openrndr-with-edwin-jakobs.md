@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenRNDR"
-guest: Kevin Most
+guest: Edwin Jakobs
 recorded: 2019-02-18
 published: 2019-07-15
 trackid: 651284921

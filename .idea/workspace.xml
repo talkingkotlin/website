@@ -23,14 +23,12 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 58. Common code in MPP">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md" afterDir="false" />
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 59 - Compiler Plugins">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-15-openrndr-with-edwin-jakobs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/episodes/edwin-jakobs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,22 +50,6 @@
   <component name="FavoritesManager">
     <favorites_list name="website" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="660">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -75,82 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>abstract-1.jpg</find>
-      <find>descript</find>
-      <find>odcast</find>
-      <find>description</find>
-      <find>title</find>
-      <find>credit</find>
-      <find>modified</find>
-      <find>if</find>
-      <find>author</find>
-      <find>content</find>
-      <find>post-card__bio</find>
-      <find>usergro</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/_posts/2017-08-28-Kotlin-at-Basecam-with-Jay-Ohms.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-09-14-Sitting-down-with-Tor-Norbye.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-09-28-TornadoFX-with-Edvin-Syse.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-16-Kotlin-at-American-Express.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-26-Multiplatform-Development-with-Eugenio-Marletti.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-14-Usergroups-and-community-with-Guy-Heylens.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-28-Data-Science-with-Thomas-Nield.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-12-14-Kotlin-at-BBC-Sports.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-12-28-Internal-Development-At-JetBrains.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-15-Arrow-Functional-Library.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-29-Zally-with-Zalando.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-29-Zally-An-API-Linter.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-02-14-react-with-kotlin.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-02-28-kotlin-on-the-backend-meshcloud.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-02-28-kotlin-on-the-backend-at-meshcloud.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-14-Going-serverless-with-marcos-placona" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-28-charting-with-kello-charts.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-04-16-talking-groovy-with-ken-kousen.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-04-30-creating-browser-extensions.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-05-14-groovy-and-kotlin-interop-at-rocket-travel.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-14-application-monitoring-with-micrometrics.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-05-28-kotlin-native-with-nikolay-igotti.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-14-application-monitoring-with-micrometer.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-06-28-kscript-with-holger-brandl.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-16-taking-part-and-growing-a-kotlin-community.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-29-kotlin-at-shazam.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-08-14-speaking-spek-and-gradle.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-08-24-greenfield-kotlin-at-olx.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-09-17-neo4j-and-more-with-michael-hunger.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-01-kotlin-at-allegro.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-15-catching-up-with-cedric-beust.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-29-desktop-and-meta-programming-with-amanda-hinchman.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin-with-bartek-lipinski.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-28-dependency-injection-with-koin.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-14-multiplatform-development-with-kevin-galligan.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-28-libraries-with-roman-elizarov.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-02-14-kodein-framework-with-salomon-brys.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-fp.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-functional-programming.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-03-14-Revisiting-Data-Science-with-Thomas-Nield.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-03-28-Talking-CFP-with-Christina-Lee.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-15-ktor-with-ryan-harter.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-04-30-kotlin-at-uber.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-05-14-sql-delight.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-05-30-code-kindness-with-pamela-hill.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-05-29-code-kindness-with-pamela-hill.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-14-common-code-in-mpp-projects.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md" />
-      </list>
-    </option>
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -165,40 +74,12 @@
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectId" id="1Nub6i9hX0UTZwIKeCYc640utVF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
@@ -209,18 +90,21 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/episodes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/episodes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -525,42 +409,10 @@
       <workItem from="1559114729003" duration="906000" />
       <workItem from="1559126577852" duration="11000" />
       <workItem from="1560485242685" duration="1283000" />
-      <workItem from="1561695818470" duration="740000" />
-    </task>
-    <task id="LOCAL-00112" summary="Episode 32 - Creating browser extensions">
-      <created>1524323114935</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1524323114935</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Episode 32 - Creating browser extensions">
-      <created>1525065783264</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1525065783265</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Fixes to latest episode.">
-      <created>1525078300503</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1525078300504</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Episode 33 - Groovy and Kotlin Interop at Rocket Travel">
-      <created>1526029754958</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1526029754960</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Episode 33 - Groovy and Kotlin Interop at Rocket Travel">
-      <created>1526030125281</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1526030125281</updated>
+      <workItem from="1561695818470" duration="1161000" />
+      <workItem from="1561708395701" duration="158000" />
+      <workItem from="1562933757779" duration="1248000" />
+      <workItem from="1563170460809" duration="1149000" />
     </task>
     <task id="LOCAL-00117" summary="Episode 34 - Kotlin/Native with Nikolay Igotti">
       <created>1527483915608</created>
@@ -870,11 +722,43 @@
       <option name="project" value="LOCAL" />
       <updated>1560486105498</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Episode 59 - Compiler Plugins">
+      <created>1561701579324</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1561701579324</updated>
+    </task>
+    <task id="LOCAL-00162" summary="Episode 59 - Compiler Plugins">
+      <created>1561702149731</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1561702149731</updated>
+    </task>
+    <task id="LOCAL-00163" summary="Added transcript to episode.">
+      <created>1562934222149</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1562934222150</updated>
+    </task>
+    <task id="LOCAL-00164" summary="Episode 59 - Compiler Plugins">
+      <created>1562934285598</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1562934285598</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Some minor fixes for transcript">
+      <created>1562934401980</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1562934401980</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -885,66 +769,29 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41387025" visible="true" weight="0.34930778" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.28869048" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Nl-Palette" order="7" />
-      <window_info id="Grunt " order="8" sideWeight="0.5861297" side_tool="true" weight="0.21319444" />
-      <window_info id="Learn" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.43958333" weight="0.50300604" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.56041664" side_tool="true" weight="0.5428845" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.329602" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.47284344" weight="0.06865402" />
-      <window_info anchor="bottom" id="CheckStyle" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
-      <window_info anchor="bottom" id="TeamCity" order="15" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
-      <window_info anchor="bottom" id="Application Servers" order="17" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Properties" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Key Promoter X" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="SciView" order="11" />
-      <window_info anchor="right" id="Maven" order="12" />
-      <window_info anchor="right" id="Google Cloud Storage" order="13" show_stripe_button="false" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Episode 41 - neo4j" />
-    <MESSAGE value="Added show links" />
-    <MESSAGE value="Added track ID" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Episode 43 - Catching up with Cedric Beust" />
     <MESSAGE value="Episode 44 - Amanda Hinchman" />
     <MESSAGE value="Episode 44 - Fix image" />
@@ -967,376 +814,13 @@
     <MESSAGE value="Fixed date" />
     <MESSAGE value="Fixed image" />
     <MESSAGE value="Episode 58. Common code in MPP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Episode 58. Common code in MPP" />
+    <MESSAGE value="Added transcript to episode." />
+    <MESSAGE value="Episode 59 - Compiler Plugins" />
+    <MESSAGE value="Some minor fixes for transcript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some minor fixes for transcript" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-Kotlin-at-American-Express.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-28-TornadoFX-with-Edvin-Syse.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-14-Sitting-down-with-Tor-Norbye.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-28-Kotlin-at-Basecam-with-Jay-Ohms.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-14-Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-14-functional-constructs-with-jorge-castillo.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-14-using-kotlin-for-a-cross-platform-ide.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-12-a-chat-with-andrey-breslav.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-Multiplatform-Development-with-Eugenio-Marletti.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-14-Usergroups-and-community-with-Guy-Heylens.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-28-Data-Science-with-Thomas-Nield.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-14-Kotlin-at-BBC-Sports.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-Internal-Development-At-JetBrains.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-15-Arrow-Functional-Library.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-29-Zally-An-API-Linter.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-02-14-react-with-kotlin.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-02-28-kotlin-on-the-backend-at-meshcloud.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-14-Going-serverless-with-marcos-placona.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="111" selection-start-line="12" selection-start-column="111" selection-end-line="12" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-16-talking-groovy-with-ken-kousen.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-30-creating-browser-extensions.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-28-charting-with-kello-charts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-14-application-monitoring-with-micrometer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-28-kscript-with-holger-brandl.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="12" column="403" selection-start-line="12" selection-start-column="403" selection-end-line="12" selection-end-column="403" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-16-taking-part-and-growing-a-kotlin-community.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="280">
-            <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-29-kotlin-at-shazam.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="372">
-            <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-28-kotlin-native-with-nikolay-igotti.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="124">
-            <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-24-greenfield-kotlin-at-olx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-14-speaking-spek-and-gradle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="465">
-            <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-05-14-groovy-and-kotlin-interop-at-rocket-travel.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-neo4j-and-more-with-michael-hunger.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="318">
-            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-01-kotlin-at-allegro.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="465">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-15-catching-up-with-cedric-beust.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-29-desktop-and-meta-programming-with-amanda-hinchman.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="250">
-            <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-annotation-processing-in-kotlin-with-bartek-lipinski.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/episodes/arnaud-giuliani.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-dependency-injection-with-koin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="286">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-17-kotlin-at-airbnb.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-14-multiplatform-development-with-kevin-galligan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="247">
-            <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-14-coroutines-with-roman-elizarov.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-82">
-            <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-28-libraries-with-roman-elizarov.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="287">
-            <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-14-kodein-framework-with-salomon-brys.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="504">
-            <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-02-28-adopting-kotlin-and-functional-programming.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="532">
-            <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-14-Revisiting-Data-Science-with-Thomas-Nield.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-12-kotlin-at-pinterest-with-christina-lee.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="12" column="339" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="339" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-28-Talking-CFP-with-Christina-Lee.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="728">
-            <caret line="23" selection-start-line="23" selection-end-line="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-15-ktor-with-ryan-harter.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="380">
-            <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-30-kotlin-at-uber.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-14-sql-delight.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="280">
-            <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-29-code-kindness-with-pamela-hill.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="506">
-            <caret line="23" selection-start-line="23" selection-end-line="23" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-14-common-code-in-mpp-projects.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="600">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-06-28-compiler-plugins.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="660">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
