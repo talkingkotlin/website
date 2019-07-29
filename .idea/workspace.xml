@@ -23,9 +23,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode 59 - Compiler Plugins">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-15-openrndr-with-edwin-jakobs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/episodes/edwin-jakobs.png" afterDir="false" />
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Corrected author">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-07-29-sequences-with-david-leeds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/episodes/david-leeds.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
@@ -69,11 +69,6 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
-  </component>
   <component name="ProjectId" id="1Nub6i9hX0UTZwIKeCYc640utVF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -100,11 +95,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/episodes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -412,21 +407,9 @@
       <workItem from="1561695818470" duration="1161000" />
       <workItem from="1561708395701" duration="158000" />
       <workItem from="1562933757779" duration="1248000" />
-      <workItem from="1563170460809" duration="1149000" />
-    </task>
-    <task id="LOCAL-00117" summary="Episode 34 - Kotlin/Native with Nikolay Igotti">
-      <created>1527483915608</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1527483915609</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Episode 35 - Application monitoring with Micrometer">
-      <created>1528870696175</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1528870696177</updated>
+      <workItem from="1563170460809" duration="1460000" />
+      <workItem from="1563185761828" duration="15000" />
+      <workItem from="1564379717038" duration="235000" />
     </task>
     <task id="LOCAL-00119" summary="Episode 36 - kscript with Holger Brandl">
       <created>1530140232670</created>
@@ -757,7 +740,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562934401980</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Episode 60 - OpenRNDR">
+      <created>1563171638587</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1563171638588</updated>
+    </task>
+    <task id="LOCAL-00167" summary="Corrected author">
+      <created>1563171710551</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1563171710551</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TodoView">
@@ -792,8 +789,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Episode 43 - Catching up with Cedric Beust" />
-    <MESSAGE value="Episode 44 - Amanda Hinchman" />
     <MESSAGE value="Episode 44 - Fix image" />
     <MESSAGE value="Episode 45 - Annotations" />
     <MESSAGE value="Episode 46 - Dependency Injection with Koin" />
@@ -817,7 +812,9 @@
     <MESSAGE value="Added transcript to episode." />
     <MESSAGE value="Episode 59 - Compiler Plugins" />
     <MESSAGE value="Some minor fixes for transcript" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some minor fixes for transcript" />
+    <MESSAGE value="Episode 60 - OpenRNDR" />
+    <MESSAGE value="Corrected author" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected author" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

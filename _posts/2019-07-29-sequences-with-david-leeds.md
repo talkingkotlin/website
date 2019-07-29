@@ -15,8 +15,8 @@ bio: "Dave is a software developer who focused on Web applications and REST serv
 notes: 
     - text: Java Microbenchmark Harness (JMH) 
       link: http://openjdk.java.net/projects/code-tools/jmh/
-    - text: Trace Current Stream Chain" tooling 
-      link: https://twitter.com/kotlin/status/1086268421619146753 (we didn't actually talk about this one, but it's helpful to know about)
+    - text: Trace Current Stream Chain tooling 
+      link: https://twitter.com/kotlin/status/1086268421619146753
     - text: Kotlin Sequences: An Illustrated Guide 
       link: https://typealias.com/guides/kotlin-sequences-illustrated-guide/
     - text: David Leeds on Twitter
