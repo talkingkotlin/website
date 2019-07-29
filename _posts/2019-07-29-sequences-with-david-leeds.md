@@ -17,7 +17,7 @@ notes:
       link: http://openjdk.java.net/projects/code-tools/jmh/
     - text: Trace Current Stream Chain tooling 
       link: https://twitter.com/kotlin/status/1086268421619146753
-    - text: Kotlin Sequences: An Illustrated Guide 
+    - text: Kotlin Sequences - An Illustrated Guide 
       link: https://typealias.com/guides/kotlin-sequences-illustrated-guide/
     - text: David Leeds on Twitter
       link: https://twitter.com/djleeds
