@@ -23,9 +23,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Corrected author">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-29-sequences-with-david-leeds.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/episodes/david-leeds.png" afterDir="false" />
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="fixed formatting">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-14-Using Kotlin for backend development at Flux.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/episodes/flux.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
@@ -95,11 +95,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/episodes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/episodes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -409,28 +409,9 @@
       <workItem from="1562933757779" duration="1248000" />
       <workItem from="1563170460809" duration="1460000" />
       <workItem from="1563185761828" duration="15000" />
-      <workItem from="1564379717038" duration="235000" />
-    </task>
-    <task id="LOCAL-00119" summary="Episode 36 - kscript with Holger Brandl">
-      <created>1530140232670</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1530140232671</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Episode 36 - kscript with Holger Brandl">
-      <created>1530140298283</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1530140298283</updated>
-    </task>
-    <task id="LOCAL-00121" summary="Removed quotes from bio">
-      <created>1530140469837</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1530140469838</updated>
+      <workItem from="1564379717038" duration="1078000" />
+      <workItem from="1564403581168" duration="10000" />
+      <workItem from="1565714253615" duration="278000" />
     </task>
     <task id="LOCAL-00122" summary="Removed quotes from bio">
       <created>1530140547690</created>
@@ -754,7 +735,28 @@
       <option name="project" value="LOCAL" />
       <updated>1563171710551</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="David Leeds episode">
+      <created>1564379999744</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1564379999744</updated>
+    </task>
+    <task id="LOCAL-00169" summary="fixed formatting">
+      <created>1564380096087</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1564380096087</updated>
+    </task>
+    <task id="LOCAL-00170" summary="fixed formatting">
+      <created>1564380197065</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1564380197065</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TodoView">
@@ -789,8 +791,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Episode 44 - Fix image" />
-    <MESSAGE value="Episode 45 - Annotations" />
     <MESSAGE value="Episode 46 - Dependency Injection with Koin" />
     <MESSAGE value="Episode 47 - Multiplatform with Kevin" />
     <MESSAGE value="Episode 49 - Libraries with Roman Elizarov" />
@@ -814,7 +814,9 @@
     <MESSAGE value="Some minor fixes for transcript" />
     <MESSAGE value="Episode 60 - OpenRNDR" />
     <MESSAGE value="Corrected author" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected author" />
+    <MESSAGE value="David Leeds episode" />
+    <MESSAGE value="fixed formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed formatting" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
