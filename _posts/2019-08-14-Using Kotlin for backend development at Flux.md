@@ -15,7 +15,5 @@ bio: "Tom Reay is CTO and Co-founder of Flux. Since founding the company in 2017
 notes: 
     - text: Flux
       link: https://www.tryflux.com/
-    - text: Why we built an API platform 100% in Kotlin on the server side
-      link: https://medium.com/@tom_88787/why-we-built-an-api-platform-in-100-kotlin-d0a97617e5ff
 
 ---

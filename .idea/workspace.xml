@@ -23,9 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="fixed formatting">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-08-14-Using Kotlin for backend development at Flux.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/episodes/flux.png" afterDir="false" />
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode on Flux">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
@@ -411,21 +409,8 @@
       <workItem from="1563185761828" duration="15000" />
       <workItem from="1564379717038" duration="1078000" />
       <workItem from="1564403581168" duration="10000" />
-      <workItem from="1565714253615" duration="278000" />
-    </task>
-    <task id="LOCAL-00122" summary="Removed quotes from bio">
-      <created>1530140547690</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1530140547690</updated>
-    </task>
-    <task id="LOCAL-00123" summary="Episode 37 - Talking part and growing a Kotlin community">
-      <created>1531555921294</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1531555921295</updated>
+      <workItem from="1565714253615" duration="299000" />
+      <workItem from="1565727242279" duration="318000" />
     </task>
     <task id="LOCAL-00124" summary="Fixed Brent's bio/pic">
       <created>1531556480856</created>
@@ -756,7 +741,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564380197065</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Episode on Flux">
+      <created>1565714550716</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1565714550717</updated>
+    </task>
+    <task id="LOCAL-00172" summary="Added blog post">
+      <created>1565727287385</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1565727287386</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TodoView">
@@ -791,8 +790,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Episode 46 - Dependency Injection with Koin" />
-    <MESSAGE value="Episode 47 - Multiplatform with Kevin" />
     <MESSAGE value="Episode 49 - Libraries with Roman Elizarov" />
     <MESSAGE value="Added Ktor." />
     <MESSAGE value="Episode 50 - Kodein Framework" />
@@ -816,7 +813,9 @@
     <MESSAGE value="Corrected author" />
     <MESSAGE value="David Leeds episode" />
     <MESSAGE value="fixed formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed formatting" />
+    <MESSAGE value="Episode on Flux" />
+    <MESSAGE value="Added blog post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added blog post" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
