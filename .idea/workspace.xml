@@ -23,7 +23,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Episode on Flux">
+    <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="Removed link">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-28-kotlin-and-android.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/episodes/florina.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
@@ -93,11 +95,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/episodes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -411,13 +413,9 @@
       <workItem from="1564403581168" duration="10000" />
       <workItem from="1565714253615" duration="299000" />
       <workItem from="1565727242279" duration="318000" />
-    </task>
-    <task id="LOCAL-00124" summary="Fixed Brent's bio/pic">
-      <created>1531556480856</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1531556480856</updated>
+      <workItem from="1565758947121" duration="32000" />
+      <workItem from="1565974243795" duration="11000" />
+      <workItem from="1566970751004" duration="312000" />
     </task>
     <task id="LOCAL-00125" summary="Fixed link to picture">
       <created>1531720404540</created>
@@ -755,7 +753,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565727287386</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="Removed link">
+      <created>1565758957865</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1565758957868</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="TodoView">
@@ -790,7 +795,6 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Episode 49 - Libraries with Roman Elizarov" />
     <MESSAGE value="Added Ktor." />
     <MESSAGE value="Episode 50 - Kodein Framework" />
     <MESSAGE value="Episode 51 - Adopting Kotlin and Functional Programming" />
@@ -815,7 +819,8 @@
     <MESSAGE value="fixed formatting" />
     <MESSAGE value="Episode on Flux" />
     <MESSAGE value="Added blog post" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added blog post" />
+    <MESSAGE value="Removed link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed link" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
