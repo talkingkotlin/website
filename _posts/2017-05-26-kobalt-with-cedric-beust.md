@@ -15,15 +15,15 @@ notes:
     - text: Cédric Beust on Twitter
       link: https://twitter.com/cbeust
     - text: Cédric's WebSite
-      link: http://beust.com/
+      link: https://beust.com/
     - text: TestNG
-      link: http://testng.org/doc/
+      link: https://testng.org/doc/
     - text: Kobalt
-      link: http://beust.com/kobalt/home/index.html
+      link: https://beust.com/kobalt/home/index.html
     - text: Slack Channel for Kobalt
-      link: http://slack.kotlinlang.org/ (#kobalt)
+      link: https://slack.kotlinlang.org/ (#kobalt)
     - text: Build Tools - Make, no more  
-      link: http://hadihariri.com/2014/04/21/build-make-no-more/
+      link: https://hadihariri.com/2014/04/21/build-make-no-more/
 
 
 ---

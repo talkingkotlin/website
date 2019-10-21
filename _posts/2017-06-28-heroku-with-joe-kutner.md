@@ -15,7 +15,7 @@ notes:
     - text: Joe Kutner on Twitter
       link: https://twitter.com/codefinger
     - text: Joe Kutner Web Site
-      link: http://healthyprog.com
+      link: https://healthyprog.com
     - text: Heroku
       link: https://heroku.com
 

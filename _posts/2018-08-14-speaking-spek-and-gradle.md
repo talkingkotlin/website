@@ -15,7 +15,7 @@ bio: "Android developer at Juno"
 
 notes: 
     - text: Spek
-      link: http://spekframework.org        
+      link: https://spekframework.org        
     - text: Gradle Kotlin DSL
       link: https://github.com/gradle/kotlin-dsl
 ---

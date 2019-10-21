@@ -14,7 +14,7 @@ bio: "Dave is a software developer who focused on Web applications and REST serv
                                                                                                                                                                                                                                                                                         
 notes: 
     - text: Java Microbenchmark Harness (JMH) 
-      link: http://openjdk.java.net/projects/code-tools/jmh/
+      link: https://openjdk.java.net/projects/code-tools/jmh/
     - text: Trace Current Stream Chain tooling 
       link: https://twitter.com/kotlin/status/1086268421619146753
     - text: Kotlin Sequences - An Illustrated Guide 

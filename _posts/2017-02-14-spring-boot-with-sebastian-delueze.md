@@ -19,7 +19,7 @@ notes:
     - text: Spring  
       link: https://spring.io/
     - text: Starting new Spring Boot Projects
-      link: http://start.spring.io/
+      link: https://start.spring.io/
     - text: Spring 5 Announcement and Kotlin 
       link: https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
     - text: Spring Boot Kotlin Demo

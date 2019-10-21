@@ -30,7 +30,7 @@ change in background/tone. Apologies!
 
 # Transcript
 
-This text is a transcription of: [http://talkingkotlin.com/libraries-with-roman-elizarov/](https://www.google.com/url?q=http://talkingkotlin.com/libraries-with-roman-elizarov/&sa=D&ust=1562937507998000)  
+This text is a transcription of: [https://talkingkotlin.com/libraries-with-roman-elizarov/](https://www.google.com/url?q=http://talkingkotlin.com/libraries-with-roman-elizarov/&sa=D&ust=1562937507998000)  
 
 **[Hadi]** Welcome to Talking Kotlin. On this episode, I'm sitting down again with Roman Elizarov and discussing some of the things happening in the ecosystem around libraries and multiplatform support. Hi, Roman. Welcome back.  
 

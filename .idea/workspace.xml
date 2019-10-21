@@ -24,10 +24,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea933b96-6ebb-4236-99b4-360a20fdc45e" name="Default" comment="typo">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
     </list>
     <list id="63e73cbf-e6a4-4b18-bd78-cdc935f1940e" name="Never" comment="Never" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,18 +106,6 @@
       <recent name="$PROJECT_DIR$/images/episodes" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Grunt.js.default">
     <configuration default="true" type="spek-run-configuration" factoryName="Spek">
       <module name="" />
@@ -148,6 +137,7 @@
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
@@ -229,6 +219,13 @@
         <item itemvalue="Grunt.js.clean:dist" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView />
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -429,6 +426,8 @@
       <workItem from="1568809835175" duration="3000" />
       <workItem from="1569826060295" duration="1597000" />
       <workItem from="1571041529265" duration="3116000" />
+      <workItem from="1571131262600" duration="6000" />
+      <workItem from="1571565441619" duration="196000" />
     </task>
     <task id="LOCAL-00131" summary="Episode 40 - Greenfield Kotlin at OLX">
       <created>1535349400944</created>
@@ -836,10 +835,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Episode 65" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2122" y="1005" key="#Custom_Plugin_Repositories" />
-    <state x="2122" y="1005" key="#Custom_Plugin_Repositories/3840.2160" />
-    <state x="1396" y="425" key="SettingsEditor" />
-    <state x="1396" y="425" key="SettingsEditor/3840.2160" />
+    <state x="2122" y="1005" key="#Custom_Plugin_Repositories" timestamp="1571565447179" />
+    <state x="2122" y="1005" key="#Custom_Plugin_Repositories/3840.2160" timestamp="1571565447180" />
+    <state x="1396" y="425" key="SettingsEditor" timestamp="1571565447180" />
+    <state x="1396" y="425" key="SettingsEditor/3840.2160" timestamp="1571565447180" />
+    <state x="546" y="279" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1571643777293">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="546" y="279" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1571643777293" />
+    <state x="576" y="398" width="689" height="408" key="find.popup" timestamp="1571643785971">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="576" y="398" width="689" height="408" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1571643785971" />
+    <state x="586" y="323" key="search.everywhere.popup" timestamp="1571565447951">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="586" y="323" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1571565447951" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

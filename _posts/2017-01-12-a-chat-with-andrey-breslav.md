@@ -15,7 +15,7 @@ notes:
     - text: Andrey Breslav on Twitter
       link: https://twitter.com/abreslav
     - text: Kotlin
-      link: http://kotlinlang.org
+      link: https://kotlinlang.org
     - text: JetBrains
       link: https://jetbrains.com
 ---

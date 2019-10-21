@@ -15,7 +15,7 @@ notes:
     - text: Jorge Castillo on Twitter
       link: https://twitter.com/jorgecastillopr
     - text: Jorge's Web Site
-      link: http://jorgecastillo.me/
+      link: https://jorgecastillo.me/
     - text: Kotlin Dependency Injection with The Reader Monad
       link: https://medium.com/@JorgeCastilloPr/kotlin-dependency-injection-with-the-reader-monad-7d52f94a482e  
 ---

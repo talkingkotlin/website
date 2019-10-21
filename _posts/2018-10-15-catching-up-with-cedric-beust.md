@@ -15,7 +15,7 @@ notes:
     - text: Cédric Beust on Twitter
       link: https://twitter.com/cbeust
     - text: Cédric's WebSite
-      link: http://beust.com/
+      link: https://beust.com/
     - text: KEEP87
       link: https://github.com/Kotlin/KEEP/pull/87
 

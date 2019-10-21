@@ -14,7 +14,7 @@ bio: "Kevin Galligan is President at Touchlab. He has 20 years of professional s
 
 notes: 
     - text: Kevin Galligan on Twitter
-      link: http://twitter.com/kpgalligan/
+      link: https://twitter.com/kpgalligan/
     - text: Increasing stability in the Kotlin Multiplatform World
       link: https://medium.com/@kpgalligan/increasing-stability-in-the-kotlin-multiplatform-world-d7fe60f09926
 
