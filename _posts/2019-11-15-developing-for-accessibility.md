@@ -21,5 +21,10 @@ notes:
       link: https://medium.com/@hitherejoe
     - text: Chord Assist 
       link: https://www.chordassist.com/
-                 
+    - text: Brailbox
+      link: https://t.co/HFl26vb3x6
+    - text: Brailbox Code
+      link: https://t.co/iUIGv8OnA9  
+    - text: Kotlin client lib blog post 
+      text: https://t.co/EjBwgYBtIY
 ---
