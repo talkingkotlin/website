@@ -3,7 +3,7 @@ layout: post
 title: "Catching up with Data Science at JetBrains"
 guest:  Roman Belov   
 recorded: 2020-02-12
-published: 2020-06-15
+published: 2020-06-14
 trackid: 838906723
 length: "33:08"
 length_rounded: "33 mins"
