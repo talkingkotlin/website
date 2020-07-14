@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "QLDB at Amazon"
-guest:  Marc Bowes, Andrew Certain, Al Vermeulen    
-recorded: 2020-03-05
-published: 2020-06-30
-trackid: 848779777
-length: "39:14"
-length_rounded: "39 mins"
-tags: [QLDB, Amazon, AWS, Coroutines]
-image: qldb.png
-description: "We sit down with the folks from the team at AWS that work on QLDB, to discuss what Amazon Quantum Ledger Database (QLDB) is, their usage of Kotlin, why they choose Kotlin over Java for this new project, and how their overall experience has been."
+title: "Gradient Descent"
+guest:  Gradient Descent    
+recorded: 2020-03-10
+published: 2020-07-14
+trackid: 857597893
+length: "47:28"
+length_rounded: "47 mins"
+tags: [Machine Learning, Functional Programming, Erik Meijer]
+image: erikmeijer.jpg
+description: "We sit down with Erik to discuss gradient descents and how understanding this can lead to demystifying machine learning. We talk about the value of knowing how things work under the covers, as well as maths, functional programming, and many other topics, including why he chose Kotlin, and what he likes and dislikes of the language"
 bio: "Marc, Andrew, and Al are software engineers at Amazon Web Services, with a collective 50 years of tenure at Amazon. They have worked on AWS’s EC2, S3, Elastic Block Store, DynamoDB, and others. They are currently working on Amazon Quantum Ledger Database (QLDB), which is entirely written in Kotlin"
        
 notes: 
