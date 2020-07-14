@@ -13,8 +13,10 @@ description: "We sit down with Erik to discuss gradient descents and how underst
 bio: "Erik Meijer has been trying to bridge the ridge between theory and practice for most of his career. He is perhaps best known for his work on, amongst others, the Haskell, C#, Visual Basic, and Dart programming languages, as well as for his contributions to LINQ and the Reactive Framework (Rx). Most recently he is on a quest to make uncertainty a first-class citizen in mainstream programming languages"
        
 notes: 
-   - text: QLDB
-     link: https://aws.amazon.com/qldb/
+    - text: Gradient Descent  - The Ultimate Optimizer - Talk from KotlinConf 2019
+      link: https://kotlinconf.com/2019/talks/video/2019/136104/
+    - text: Gradient Descent - The Ultimate Optimizer - Paper on the subject matter
+      link: https://arxiv.org/abs/1909.13371
   
      
 ---
