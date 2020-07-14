@@ -1,0 +1,20 @@
+---
+layout: post
+title: "QLDB at Amazon"
+guest:  Marc Bowes, Andrew Certain, Al Vermeulen    
+recorded: 2020-03-05
+published: 2020-06-30
+trackid: 848779777
+length: "39:14"
+length_rounded: "39 mins"
+tags: [QLDB, Amazon, AWS, Coroutines]
+image: qldb.png
+description: "We sit down with the folks from the team at AWS that work on QLDB, to discuss what Amazon Quantum Ledger Database (QLDB) is, their usage of Kotlin, why they choose Kotlin over Java for this new project, and how their overall experience has been."
+bio: "Marc, Andrew, and Al are software engineers at Amazon Web Services, with a collective 50 years of tenure at Amazon. They have worked on AWS’s EC2, S3, Elastic Block Store, DynamoDB, and others. They are currently working on Amazon Quantum Ledger Database (QLDB), which is entirely written in Kotlin"
+       
+notes: 
+   - text: QLDB
+     link: https://aws.amazon.com/qldb/
+  
+     
+---
