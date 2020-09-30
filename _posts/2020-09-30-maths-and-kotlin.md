@@ -8,7 +8,7 @@ trackid: 902036656
 length: "34:50"
 length_rounded: "35 mins"
 tags: [Maths, Gradient Descent, Breandan Considine]
-image: fritz2.png
+image: breandan.jpeg
 description: "We chat with Breandan about Differentials and Derivatives, and Maths in general. We look at where and how they can be applied to programming, as well as the Kotlingrad"
 bio: "Ph.D. Student in Machine Learning at Mila."
      
