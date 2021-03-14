@@ -12,7 +12,6 @@ tags: [Kotlin Multiplatform]
 image: john-oreilly.png
 description: "In this episode, guest John O'Reilly shares his multiplatform development journey. John takes us back to his roots, discusses his experiences with developing for multiple platforms, explains how Kotlin Multiplatform helps with productivity, and shares his open source projects."
 bio: "John O’Reilly is an Android Software Engineer at Neat"
-"
      
 notes:
     - text: Find John’s projects on GitHub
