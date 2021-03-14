@@ -2,7 +2,7 @@
 layout: post
 title: "Kotlin Multiplatform with John O’Reilly"
 guest: John O’Reilly
-recorded: 2020-02-24
+recorded: 2021-02-24
 published: 2021-03-14
 trackid: 1005408850
 youtubeid: KKy1ZvTcHAg 
