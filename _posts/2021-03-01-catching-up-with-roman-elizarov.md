@@ -2,7 +2,7 @@
 layout: post
 title: "Catching Up With Roman Elizarov"
 guest: Roman Elizarov
-recorded: 2020-02-09
+recorded: 2021-02-09
 published: 2021-03-01
 trackid: 995686588
 youtubeid: KZc_0LjF7_Q
