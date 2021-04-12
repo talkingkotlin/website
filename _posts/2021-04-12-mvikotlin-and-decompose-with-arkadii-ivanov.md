@@ -9,7 +9,7 @@ youtubeid: pjcUBQwcdfo
 length: "27:54"
 length_rounded: "27 mins"
 tags: [Kotlin Multiplatform, Arkadii Ivanov, MVIKotlin, Decompose]
-image: arkadii-ivanov.png
+image: Arkadii-Ivanov.png
 description: "In this episode, guest Arkadii Ivanov takes us on a journey through his open-source projects MVIKotlin and Decompose. Find out about the Model-View-Intent architecture pattern, learn how Decompose helps write better declarative multiplatform user interfaces with Kotlin, and discover that time travel is possible – at least for debugging."
 bio: "Arkadii Ivanov is an Android Engineer at Bumble Engineering and Google Developer Expert for Kotlin"
 notes:
