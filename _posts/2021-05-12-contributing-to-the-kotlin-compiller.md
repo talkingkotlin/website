@@ -6,7 +6,7 @@ recorded: 2021-03-25
 published: 2021-05-12
 trackid: 1047580225
 youtubeid: UryyHq45Y_8  
-length: "42:05"
+length: "42:06"
 length_rounded: "41 mins"
 tags: [Kotlin Compiler, Kotlin Foundation, Contributing to Kotlin]
 image: jeff-mads.png
