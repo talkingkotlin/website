@@ -9,14 +9,12 @@ youtubeid: 6LtHSU_biUw
 length: "01:04:43"
 length_rounded: "64 mins"
 tags: [Kotlin, Anniversary, Community]
-image: ten-years.png
-description: "Together with the Kotlin community, we have prepared a special episode of the Talking Kotlin podcast! It is dedicated to the 10 Years of Kotlin celebration and features 6 guests talking about their journeys with the language."
-
-     
+image: ten-years.png 
+description: "Together with the Kotlin community, we have prepared a special episode of the Talking Kotlin podcast! 
+It is dedicated to the 10 Years of Kotlin celebration and features 6 guests talking about their journeys with the language."
 notes:
     - text: Ten Years of Kotlin: The Story of The Programming Language
       link: https://youtu.be/uE-1oF9PyiY
     - text: The Future of Kotlin
       link: https://youtu.be/maTL7Whco70
-
 ---
