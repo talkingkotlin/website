@@ -16,7 +16,7 @@ bio: "The Kotlin Community"
 
 
 notes:
-    - text: Ten Years of Kotlin: The Story of The Programming Language
+    - text: Ten Years of Kotlin - The Story of The Programming Language
       link: https://youtu.be/uE-1oF9PyiY
     - text: The Future of Kotlin
       link: https://youtu.be/maTL7Whco70
