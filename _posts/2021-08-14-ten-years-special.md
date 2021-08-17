@@ -11,7 +11,7 @@ length_rounded: "64 mins"
 tags: [community, anniversary]
 image: ten-years.png
 description: "Together with the Kotlin community, we have prepared a special episode of the Talking Kotlin podcast!
-It is dedicated to the 10 Years of Kotlin celebration and features 6 guests talking about their journeys with the language."
+It is dedicated to the 10 Years of Kotlin celebration and features guests talking about their journeys with the language."
 bio: "The Kotlin Community"
 
 
