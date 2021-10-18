@@ -15,7 +15,7 @@ bio: "Nat Pryce and Duncan McGregor are the experts of migrating to Kotlin."
 
 
 notes:
-    - text: Java to Kotlin: a Refactoring Guidebook
+    - text: Java to Kotlin a Refactoring Guidebook
       link: https://java-to-kotlin.dev/
     - text: Duncan McGregor on twitter
       link: https://twitter.com/duncanmcg
