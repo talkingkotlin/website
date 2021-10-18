@@ -10,7 +10,7 @@ length: "46:43"
 length_rounded: "46 mins"
 tags: [JavaToKotlin, Server-Side, Coroutines]
 image: java-to-kotlin.png
-description: "In this episode we talk to Nat Pryce and Duncan McGregor about the new "Java to Kotlin: A Refactoring Guidebook" and their experience of helping companies and independent developers to migrate to Kotlin."
+description: "In this episode we talk to Nat Pryce and Duncan McGregor about the new Java to Kotlin A Refactoring Guidebook and their experience of helping companies and independent developers to migrate to Kotlin."
 bio: "Nat Pryce and Duncan McGregor are the experts of migrating to Kotlin."
 
 
