@@ -4,10 +4,10 @@ title: "Building a static analyzer for Kotlin"
 guest: Margarita Nedzelska
 recorded: 2021-10-28
 published: 2021-11-11
-trackid: 
+trackid: 1177049431
 youtubeid: KBlOXTDfKT8
-length: "45:03"
-length_rounded: "45 mins"
+length: "43:03"
+length_rounded: "43 mins"
 tags: [SonarSourse, Static analysis, Testing, Code quality]
 image: margarita_nedzelska.png
 description: "In this episode Hadi and Seb are talking to Margarita Nedzelska from SonarSource about how she and her team built a working static analyzer for Kotlin."
