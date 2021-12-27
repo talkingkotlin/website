@@ -10,7 +10,7 @@ length: "47:05"
 length_rounded: "47 mins"
 tags: [Compose, Multiplatform, Slack]
 image: zac-sweers.png
-description: "In this episode we chat with Zac Sweers about all that has happened since his last appearance: Multiplatform experiments, Kotlin usage in Slack, Thoughts about Compose, Weather in Munich, Malaga, and New York"
+description: "In this episode we chat with Zac Sweers about all that has happened since his last appearance: Multiplatform experiments, Kotlin usage in Slack, Thoughts about Compose, Weather in Munich, Malaga, and New York."
 bio: "Zac Sweers is a staff software engineer at Slack."
 
 
