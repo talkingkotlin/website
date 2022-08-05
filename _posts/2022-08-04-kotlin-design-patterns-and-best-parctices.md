@@ -10,7 +10,7 @@ length: "40:39"
 length_rounded: "40 mins"
 tags: [Design patterns, best practices, book]
 image: alexey-soshin.png
-description: "We chat with Alexey about Kotlin Design Patterns and Best Practices and his recently released book, "Kotlin Design Patterns and Best Practices."
+description: "We chat with Alexey about Kotlin Design Patterns and Best Practices and his recently released book, Kotlin Design Patterns and Best Practices."
 bio: "Alexey Soshin is a software architect with 15 years of experience in the industry. He started exploring Kotlin when Kotlin was still in beta, and since then has been a big enthusiast of the language. He's a conference speaker, published writer, and the author of a video course titled Pragmatic System Design."
 
 
