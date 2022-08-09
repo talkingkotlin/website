@@ -21,5 +21,7 @@ notes:
       link: https://blog.jetbrains.com/kotlin/2020/12/doordash-building-scalable-backend-services-with-kotlin/
     - text: Story of DoorDash’s migration from Python to Kotlin for their backend
       link: https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/
+    - text: Using Structured Concurrency to Write Maintainable gRPC Endpoints in Kotlin
+      link: https://doordash.engineering/2022/07/26/functional-core-imperative-shell-using-structured-concurrency-to-write-maintainable-grpc-endpoints-in-kotlin/    
 
 ---
