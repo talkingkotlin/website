@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Growing from MIDDLE to SENIOR developer with Marcin Moskala"
-guest: Marcin Moskala
-recorded: 2022-10-31
-published: 2022-12-08
-trackid: 1398634936
-youtubeid: r1ViR5vNw8U
-length: "48:24"
-length_rounded: "48 mins"
-tags: [Kotlin, Idiomatic Kotlin, Marcin Moskala, Learning Kotlin]
-image: marcin-moskala.png
-description: "What distinguishes a mid-level developer from a senior one, and how do you make the leap? Find out in this episode of Talking Kotlin!"
-bio: "Marcin Moskala – an experienced developer, trainer, speaker, and author of books on Kotlin."
+title: "Will Loom Kill Kotlin Coroutines?"
+guest: Urs Peter
+recorded: 2022-12-02
+published: 2023-01-26
+trackid: 1432929613
+youtubeid: 1qezCNVWpHc
+length: "40:57"
+length_rounded: "40 mins"
+tags: [Kotlin, JVM, Coroutines, Project Loom]
+image: urs-peter.png
+description: "In this episode of talking Kotlin, we are talking to Urs Peter about what will happen to Kotlin Coroutines after the arrival of Project Loom in JVM."
+bio: "Urs Peter – is a seasoned software engineer with over 15 years of experience in building resilient, scalable, and mission-critical systems, mostly involving Kotlin and Scala. Besides his job as a consultant, he is also a passionate trainer and author of a great variety of trainings ranging from language courses for Kotlin to architectural trainings."
 
 
 notes:
-    - text: Marcin on Twitter
-      link: https://twitter.com/marcinmoskala
-    - text: Marcin's website
-      link: https://marcinmoskala.com
+    - text: Urs on Twitter
+      link: https://twitter.com/urs_peter
+    - text: Get training from Urs
+      link: https://xebia.com/academy/nl/trainers/urs-peter
 ---
