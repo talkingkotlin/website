@@ -9,7 +9,7 @@ youtubeid: YsQ-2lQYQ8M
 length: "55:10"
 length_rounded: "55 mins"
 tags: [Kotlin, Compose, Compose Multiplatform, Kotlin Multiplatform]
-image:
+image: instabee.png
 description: "In this episode, we are talking to engineers from Instabee who use Compose Multiplatform in Production."
 bio: "Partha and Johannes are engineers responsible for adoption of Compose Multiplatform at Instabee."
 
