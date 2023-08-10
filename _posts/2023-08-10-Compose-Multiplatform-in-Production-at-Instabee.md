@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Compose Multiplatform in Production at Instabee"
+title: "Compose Multiplatform in Production on iOS at Instabee"
 guest: Partha Muruganandam and Johannes Svensson  
 recorded: 2023-07-18
 published: 2023-08-10
