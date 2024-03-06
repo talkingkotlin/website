@@ -14,11 +14,11 @@ description: "Embark on a journey into the Compose multiverse with the latest ep
 bio: "Adriel Café, the author of the Lyricist and Voyager libraries."
 notes:
     - text: Lyricist
-    - link: https://github.com/adrielcafe/lyricist
+      link: https://github.com/adrielcafe/lyricist
     - text: Voyager
-    - link: https://voyager.adriel.cafe/ 
+      link: https://voyager.adriel.cafe/ 
     - text: Adriel's GitHub 
-    - link: https://github.com/adrielcafe
+      link: https://github.com/adrielcafe
     - text: Adriel on Twitter
-    - link: https://twitter.com/adrielcafe
+      link: https://twitter.com/adrielcafe
 ---
