@@ -9,7 +9,7 @@ youtubeid: haTx5uweXi4
 length: "43:06"
 length_rounded: "43 mins"
 tags: [Compose Multiplatform, KMP, Jetpack Compose]
-image: 
+image: adriel-cafe.png
 description: "Embark on a journey into the Compose multiverse with the latest episode of Talking Kotlin! This time, we delve into a discussion on two powerful libraries in the Kotlin ecosystem – Lyricist and Voyager."
 bio: "Adriel Café, the author of the Lyricist and Voyager libraries."
 notes:
