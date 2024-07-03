@@ -14,9 +14,9 @@ description: "In this episode of Talking Kotlin, Hadi Hariri and Sebastian Aigne
 bio: "Raphael Michel is the founder of pretix"
 notes:
     - text: pretix
-    - link: https://pretix.eu/about/en/
+      link: https://pretix.eu/about/en/
     - text: Raphael's website 
-    - link: https://www.raphaelmichel.de/
+      link: https://www.raphaelmichel.de/
     - text: Raphael on X
-    - link: https://x.com/_rami_
+      link: https://x.com/_rami_
 ---

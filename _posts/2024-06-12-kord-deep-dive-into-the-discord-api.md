@@ -14,9 +14,9 @@ description: "In this episode, we dive into the complexities of the Discord API,
 bio: "Michael Rittmeister and Luca Kellermann are the brains behind the Kord library."
 notes:
     - text: Kord
-    - link: https://github.com/kordlib/kord
+      link: https://github.com/kordlib/kord
     - text: Luca on Github
-    - link: https://voyager.adriel.cafe/ 
+      link: https://voyager.adriel.cafe/ 
     - text: Michael on X
-    - link: https://x.com/schlaumeiertvde
+      link: https://x.com/schlaumeiertvde
 ---
