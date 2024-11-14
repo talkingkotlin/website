@@ -13,7 +13,5 @@ description: "We chat with the folks from Flux around their use of Kotlin on the
 bio: "Tom Reay is CTO and Co-founder of Flux. Since founding the company in 2017, Tom has built Flux from scratch and built a talented tech team around him. Most notably, Tom has overseen the technical integration with banks such as Monzo, Starling and Barlcays Launchpad as well as retailers such as Costa, Pod and KFC. Prior to founding Flux, Tom was the first employee at Revolut where he created the underlying technology and architecture behind the FX engine. Tobie Warbuton is Lead Backend Developer and the first employee at Flux. Working closely with the CTO, Tobie was integral to the development of Flux but has also spearheaded vital initiatives such as matching optimisation at scale and the KFC integration. After leaving school at 16, Tobie has grown with the start up tech community has gained an impressive wealth of knowledge in the software development space"
                                                                                                                                                                                                                                                                                         
 notes: 
-    - text: Flux
-      link: https://www.tryflux.com/
 
 ---
