@@ -10,7 +10,12 @@ length_rounded: "35 mins"
 tags: [Vladimir Ivanov, Flow, Compose, Coroutines]
 image: vladimir-ivanov.jpeg
 description: "We chat with Vladimir about Compose from a user perspective. We go through the history of UI solutions that have been available for Android, and see how and where Compose fits in. We also briefly talk about Flow and how it can make a great companion to Compose"
-bio: "Vladmir Ivanov is a Solutions Architect with EPAM and committee member of Mobius Conference"
+bio: "Vladmir Ivanov is a Solution Architect with EPAM and a former committee member of Mobius Conference. "
+notes: 
+    - text: Vladimir Ivanov on Twitter
+      link: https://twitter.com/vvsevolodovich
+    - text: Vladimir's Blog
+      link: https://vvsevolodovich.dev
 
      
 ---
