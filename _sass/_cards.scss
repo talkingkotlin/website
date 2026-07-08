@@ -11,6 +11,10 @@
   @media #{$bp-desktop} {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  @media #{$bp-wide} {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .episode-card {

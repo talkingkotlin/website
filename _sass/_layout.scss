@@ -410,6 +410,10 @@ html.has-open-drawer {
 
 .content-container--wide {
   @include container($grid-max-width);
+
+  @media #{$bp-wide} {
+    max-width: $grid-max-width-wide;
+  }
 }
 
 .content-container--prose {

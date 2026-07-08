@@ -90,6 +90,7 @@ $header-height-mobile : 52px;
 $sidebar-width         : 260px;
 $content-max-width     : 840px;
 $grid-max-width        : 960px;
+$grid-max-width-wide   : 1320px; // episode card grid, 3-up on very wide screens ($bp-wide)
 
 $feature-image-height            : 400px;
 $front-page-feature-image-height : 400px;
@@ -107,3 +108,4 @@ $bp-mobile      : "only screen and (max-width: 472px)";
 $bp-tablet      : "only screen and (max-width: 808px)";
 $bp-sidebar-collapse : "only screen and (max-width: 1000px)"; // sidebar becomes a drawer below this
 $bp-desktop     : "only screen and (min-width: 1001px)";
+$bp-wide        : "only screen and (min-width: 1400px)"; // room for a 3-up card grid alongside the sidebar
