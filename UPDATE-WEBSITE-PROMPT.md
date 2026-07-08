@@ -1,4 +1,4 @@
-# Monthly Talking Kotlin Website Update
+# Talking Kotlin Website Update
 
 This repo contains the website for the Talking Kotlin Podcast. Since we've last
 updated the site, we've likely released new episodes that aren't on the
