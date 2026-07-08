@@ -1,0 +1,360 @@
+/* ==========================================================================
+   Episode page content
+   ========================================================================== */
+
+.episode {
+  padding-top: $space-xl;
+  padding-bottom: $space-3xl;
+}
+
+.episode__header {
+  margin-bottom: $space-l;
+}
+
+.episode__eyebrow {
+  margin: 0 0 $space-xs;
+  color: $color-interactive;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.episode__meta {
+  margin: 0 0 $space-m;
+  color: $color-text-pale;
+  font-size: 14px;
+}
+
+.tag-pill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-s;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tag-pill {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background-color: $color-interactive-fog;
+  color: $color-interactive;
+  font-size: 13px;
+  font-weight: 500;
+
+  &:hover {
+    background-color: darken(#e1ddff, 6%);
+    text-decoration: none;
+  }
+}
+
+.tag-pill__count {
+  color: $color-interactive-dim;
+}
+
+.tag-pill-list--index {
+  margin-bottom: $space-xl;
+}
+
+.episode__embed {
+  margin-bottom: $space-l;
+}
+
+.episode__embed--video {
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  border-radius: $radius-s;
+  overflow: hidden;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+.episode__listen-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-s;
+  margin: 0 0 $space-l;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  padding: $space-s $space-l;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.btn--outline {
+  border: 1px solid $color-border;
+  color: $color-text;
+
+  &:hover {
+    border-color: $color-interactive;
+    color: $color-interactive;
+    background-color: $color-interactive-fog;
+  }
+}
+
+.episode-panel {
+  margin-bottom: $space-l;
+  padding: $space-l;
+  border: 1px solid $color-border;
+  border-radius: $radius-m;
+  background-color: $color-light-grey;
+
+  h4 {
+    margin-bottom: $space-s;
+
+    &:not(:first-child) {
+      margin-top: $space-l;
+    }
+  }
+}
+
+.episode-panel__description {
+  margin-bottom: 0;
+  color: $color-text;
+  font-size: 17px;
+}
+
+.episode-panel__bio {
+  margin-bottom: 0;
+}
+
+.episode-panel__notes {
+  margin: 0;
+  padding-left: 1.25em;
+}
+
+.entry-content {
+  margin-bottom: $space-l;
+}
+
+#disqus_thread {
+  margin-top: $space-xl;
+}
+
+.episode__footer {
+  margin-top: $space-xl;
+}
+
+.social-share {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-s;
+}
+
+.social-share__link {
+  display: inline-flex;
+  align-items: center;
+  gap: $space-xs;
+  padding: $space-s $space-m;
+  border: 1px solid $color-border;
+  border-radius: 999px;
+  color: $color-text-average;
+  font-size: 14px;
+  font-weight: 500;
+
+  &:hover {
+    border-color: $color-interactive;
+    color: $color-interactive;
+    background-color: $color-interactive-fog;
+    text-decoration: none;
+  }
+}
+
+/*
+   Related episodes ("Read More")
+   ========================================================================== */
+
+.read-more {
+  margin: $space-xl 0 $space-3xl;
+  padding: $space-l;
+  border: 1px solid $color-border;
+  border-radius: $radius-m;
+  background-color: $color-light-grey;
+}
+
+.read-more-header {
+  margin-bottom: $space-m;
+
+  .read-more-btn {
+    @extend .btn;
+    @extend .btn--outline;
+  }
+}
+
+.read-more-content {
+  margin-bottom: $space-m;
+
+  h3 {
+    margin: 0 0 $space-xs;
+    font-size: 20px;
+  }
+
+  p {
+    margin: 0;
+    color: $color-text-average;
+  }
+}
+
+.read-more-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-l;
+  padding-top: $space-m;
+  border-top: 1px solid $color-border;
+}
+
+.list-item {
+  flex: 1 1 200px;
+
+  h4 {
+    margin: 0 0 $space-xs;
+    font-size: 15px;
+  }
+
+  span {
+    display: block;
+    color: $color-text-pale;
+    font-size: 13px;
+  }
+}
+
+/*
+   Simple list-style index pages (All Episodes archive, Tags archive)
+   ========================================================================== */
+
+.year-heading {
+  margin-top: $space-2xl;
+  padding-bottom: $space-s;
+  border-bottom: 1px solid $color-border;
+}
+
+article:first-child > .year-heading {
+  margin-top: 0;
+}
+
+.entry-list {
+  list-style: none;
+  margin: 0 0 $space-l;
+  padding: 0;
+}
+
+.entry-list li {
+  margin: 0;
+  border-bottom: 1px solid $color-border;
+}
+
+.entry-list a {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: $space-m;
+  padding: $space-m 0;
+  color: $color-text;
+  font-weight: 500;
+
+  &:hover {
+    color: $color-interactive;
+    text-decoration: none;
+  }
+}
+
+.entry-list__date {
+  flex: none;
+  color: $color-text-pale;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.tag-heading {
+  margin-top: $space-2xl;
+}
+
+article:first-child > .tag-heading {
+  margin-top: $space-l;
+}
+
+/*
+   About page — host cards
+   ========================================================================== */
+
+.lede {
+  margin-bottom: $space-xl;
+  color: $color-text-average;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.host-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $space-l;
+  margin-bottom: $space-2xl;
+
+  @media only screen and (min-width: 600px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.host-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: $space-xl $space-l;
+  border: 1px solid $color-border;
+  border-radius: $radius-m;
+  background-color: $color-white;
+  text-align: center;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: transparent;
+    box-shadow: 0 8px 24px rgba(25, 25, 28, 0.12);
+  }
+}
+
+.host-card__avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  margin-bottom: $space-m;
+  border-radius: 50%;
+  background-color: $color-interactive-fog;
+  color: $color-interactive;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.host-card__name {
+  margin: 0 0 4px;
+}
+
+.host-card__role {
+  margin: 0 0 $space-m;
+  color: $color-text-pale;
+  font-size: 14px;
+}
+
+.host-card__link {
+  font-weight: 500;
+  font-size: 14px;
+}

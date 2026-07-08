@@ -1,3 +1,9 @@
+## Local Development
+
+Run `./serve.sh` (or `bundle exec jekyll serve --config _config.yml,_config_dev.yml`) to serve the site locally. This merges in `_config_dev.yml`, which overrides `site.url` to point at localhost — without it, asset URLs are built from the production `site.url` in `_config.yml` and your local build will load CSS/JS from the live site instead. `_config_dev.yml` is only ever picked up when explicitly passed via `--config`, so it has no effect on production builds/deploys.
+
+---
+
 # HPSTR Jekyll Theme
 
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.

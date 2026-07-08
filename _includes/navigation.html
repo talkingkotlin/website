@@ -1,64 +1,14 @@
-<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
-	<button class="dl-trigger">Open Menu</button>
-	<ul class="dl-menu">
-		<li><a href="{{ site.url }}/">Home</a></li>
-		<li>
-			<a href="#">About</a>
-			<ul class="dl-submenu">
-				<li>
-					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
-					<h4>{{ site.owner.name }}</h4>
-					<p>{{ site.owner.bio }}</p>
-				</li>
-				{% if site.owner.sebi %}<li>
-					<a href="{{ site.owner.sebi }}" target="_blank"><i class="fa fa-fw fa-link"></i> sebi.io</a>
-				</li>{% endif %}
-				{% if site.owner.zsmb %}<li>
-					<a href="{{ site.owner.zsmb }}" target="_blank"><i class="fa fa-fw fa-link"></i> zsmb.co</a>
-				</li>{% endif %}
-				{% if site.owner.twitter %}<li>
-					<a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
-				</li>{% endif %}
-				{% if site.owner.youtube %}<li>
-					<a href="{{ site.owner.youtube }}" target="_blank"><i class="fa fa-fw fa-youtube"></i> YouTube</a>
-				</li>{% endif %}
-				{% if site.owner.facebook %}<li>
-					<a href="https://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
-				</li>{% endif %}
-				{% if site.owner.linkedin %}<li>
-					<a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>
-				</li>{% endif %}
-				{% if site.owner.github %}<li>
-					<a href="https://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
-				</li>{% endif %}
-				{% if site.owner.stackexchange %}<li>
-					<a href="{{ site.owner.stackexchange }}"><i class="fa fa-fw fa-stack-exchange"></i> Stackexchange</a>
-				</li>{% endif %}
-				{% if site.owner.instagram %}<li>
-					<a href="https://instagram.com/{{ site.owner.instagram }}"><i class="fa fa-fw fa-instagram"></i> Instagram</a>
-				</li>{% endif %}
-				{% if site.owner.flickr %}<li>
-					<a href="https://www.flickr.com/photos/{{ site.owner.flickr }}"><i class="fa fa-fw fa-flickr"></i> Flickr</a>
-				</li>{% endif %}
-				{% if site.owner.tumblr %}<li>
-					<a href="https://{{ site.owner.tumblr }}.tumblr.com"><i class="fa fa-fw fa-tumblr"></i> Tumblr</a>
-				</li>{% endif %}
-			</ul><!-- /.dl-submenu -->
-		</li>
-		<li>
-			<a href="#">Episodes</a>
-			<ul class="dl-submenu">
-				<li><a href="{{ site.url }}/posts/">All Episodes</a></li>
-				<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-			</ul>
-		</li>
-		{% for link in site.data.navigation %}
-	    {% if link.url contains 'http' %}
-	        {% assign domain = '' %}
-	        {% else %}
-	        {% assign domain = site.url %}
-	    {% endif %}
-	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-	  {% endfor %}
-	</ul><!-- /.dl-menu -->
-</nav><!-- /.dl-menuwrapper -->
+<header class="site-header">
+  <a class="site-header__logo" href="{{ site.url }}/" aria-label="Talking Kotlin home">
+    <img src="{{ site.url }}/images/logo/talking-kotlin-logo-white.svg" alt="Talking Kotlin" width="165" height="42">
+  </a>
+  <div class="site-header__actions">
+    <a class="site-header__kotlin-link" href="https://kotlinlang.org" target="_blank" rel="noopener">
+      kotlinlang.org
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M3 9L9 3M9 3H4M9 3V8" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+    <button type="button" class="site-header__menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="site-sidebar" aria-label="Open menu">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M2.5 5h15M2.5 10h15M2.5 15h15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+</header>

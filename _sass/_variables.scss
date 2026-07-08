@@ -1,56 +1,104 @@
 /* ==========================================================================
    SCSS Variables
+   Ported from kotlinlang.org's design tokens (@jetbrains/kotlin-web-site-ui,
+   @rescui/*) — see UPDATE-WEBSITE-PROMPT.md history / redesign plan for the
+   source values.
    ========================================================================== */
 
-/* 
-   Page
-   ========================================================================== */
-
-$feature-image-height            : 400px; // min 150px recommended
-$front-page-feature-image-height : 400px; // min 150px recommended
-
-/* 
+/*
    Typography
    ========================================================================== */
 
-$base-font                       : Helvetica, Arial, sans-serif;
-$heading-font                    : $base-font;
-$caption-font                    : $base-font;
-$code-font                       : monospace;
-$alt-font                        : serif;
+$heading-font   : 'JetBrains Sans', Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', Arial, sans-serif;
+$base-font      : $heading-font;
+$code-font      : 'JetBrains Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
 
-$doc-font-size                   : 16;
-$doc-line-height                 : 26;
+$doc-font-size   : 16;
+$doc-line-height : 24;
 
-
-// set-up the body font-size / line-height
-body {
-  margin-top: 0px + $doc-line-height;
-  font-size: 0px + $doc-font-size;
-}
-
-/* 
+/*
    Colors
    ========================================================================== */
 
-$base-color                      : rgba(#222,0.8);
-$body-color                      : #e8e8e8;
-$text-color                      : rgba(#222,0.8);
-$comp-color                      : complement(#222);
-$border-color                    : lighten($base-color,60);
-$link-color                      : rgba(#222,0.8);
+// Kotlin brand purple (logo, gradient accents) vs. interactive purple (links, active states)
+$color-brand-purple       : #7F52FF;
+$color-interactive        : #6B57FF;
+$color-interactive-dim    : #8979FF;
+$color-interactive-fog    : #E1DDFF;
 
-$primary                         : #222;
-$success                         : #5cb85c;
-$warning                         : #dd8338;
-$danger                          : #C64537;
-$info                            : #308cbc;
+// Dark surfaces (header, footer, mobile drawer)
+$color-dark-100           : #27282C;
+$color-dark-hard          : #19191C;
 
+// Light surfaces
+$color-white              : #FFFFFF;
+$color-light-grey         : #F4F4F4;
 
-/* 
+// Text (opacity-based "hardness" instead of a separate grey ramp)
+$color-text               : rgba(25, 25, 28, 1);     // headings / hard text, light theme
+$color-text-average       : rgba(25, 25, 28, 0.7);   // body copy
+$color-text-pale          : rgba(25, 25, 28, 0.5);   // meta / tertiary text
+$color-text-dark-average  : rgba(255, 255, 255, 0.7); // body copy on dark surfaces
+$color-text-dark-pale     : rgba(255, 255, 255, 0.5); // meta text on dark surfaces
+
+$color-border             : rgba(25, 25, 28, 0.12);
+$color-border-dark        : rgba(255, 255, 255, 0.3);
+
+$base-color               : $color-text;
+$text-color               : $color-text-average;
+$link-color               : $color-interactive;
+$border-color             : $color-border;
+$primary                  : $color-interactive;
+$success                  : #4DBB5F;
+$warning                  : #F3C033;
+$danger                   : #F45C4A;
+$info                     : $color-interactive;
+
+/*
+   Spacing scale
+   ========================================================================== */
+
+$space-xs  : 4px;
+$space-s   : 8px;
+$space-m   : 16px;
+$space-l   : 24px;
+$space-xl  : 32px;
+$space-2xl : 48px;
+$space-3xl : 64px;
+$space-4xl : 72px;
+$space-5xl : 96px;
+
+/*
+   Radius
+   ========================================================================== */
+
+$radius-s : 8px;
+$radius-m : 16px;
+$radius-l : 24px;
+
+/*
+   Layout
+   ========================================================================== */
+
+$header-height        : 64px;
+$header-height-mobile : 52px;
+$sidebar-width         : 260px;
+$content-max-width     : 840px;
+$grid-max-width        : 960px;
+
+$feature-image-height            : 400px;
+$front-page-feature-image-height : 400px;
+
+/*
    Screen sizes
    ========================================================================== */
 
-$small                           : "only screen and (min-width: 30em)";
-$medium                          : "only screen and (min-width: 48em)";
-$large                           : "only screen and (min-width: 62.5em)";
+$small  : "only screen and (min-width: 30em)";  // ~480px
+$medium : "only screen and (min-width: 48em)";  // ~768px
+$large  : "only screen and (min-width: 62.5em)"; // ~1000px
+
+// kotlinlang-derived breakpoints, used by the site shell (header/sidebar/drawer)
+$bp-mobile      : "only screen and (max-width: 472px)";
+$bp-tablet      : "only screen and (max-width: 808px)";
+$bp-sidebar-collapse : "only screen and (max-width: 1000px)"; // sidebar becomes a drawer below this
+$bp-desktop     : "only screen and (min-width: 1001px)";

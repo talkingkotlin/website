@@ -1,0 +1,152 @@
+/* ==========================================================================
+   Episode card grid (homepage) — adapted from the rescui Card recipe
+   ========================================================================== */
+
+.episode-card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $space-l;
+  margin-bottom: $space-2xl;
+
+  @media #{$bp-desktop} {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.episode-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid $color-border;
+  border-radius: $radius-m;
+  background-color: $color-white;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+
+  &:hover {
+    border-color: transparent;
+    box-shadow: 0 8px 24px rgba(25, 25, 28, 0.12);
+  }
+}
+
+.episode-card__media {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background-color: $color-dark-100;
+}
+
+.episode-card__media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.episode-card__media-fallback {
+  object-fit: contain !important;
+  padding: $space-2xl;
+}
+
+.episode-card:hover .episode-card__media img {
+  transform: scale(1.06);
+}
+
+.episode-card__body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: $space-l;
+}
+
+.episode-card__meta {
+  margin: 0 0 $space-xs;
+  color: $color-text-pale;
+  font-size: 13px;
+}
+
+.episode-card__title {
+  margin: 0 0 $space-s;
+  font-size: 20px;
+  line-height: 1.3;
+
+  a {
+    color: $color-text;
+
+    &:hover {
+      color: $color-interactive;
+      text-decoration: none;
+    }
+  }
+}
+
+.episode-card__description {
+  flex: 1;
+  margin: 0 0 $space-m;
+  color: $color-text-average;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.episode-card__link {
+  align-self: flex-start;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+/*
+   Pagination
+   ========================================================================== */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-bottom: $space-2xl;
+}
+
+.pagination__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $space-xs;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pagination__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  padding: 0 $space-s;
+  border-radius: 999px;
+  color: $color-text-average;
+  font-size: 14px;
+  font-weight: 500;
+
+  &:hover {
+    background-color: $color-light-grey;
+    text-decoration: none;
+  }
+}
+
+.pagination__item--current {
+  background-color: $color-interactive-fog;
+  color: $color-interactive;
+}
+
+.pagination__item--prev-next {
+  padding: 0 $space-m;
+}
+
+.pagination__ellipsis {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  color: $color-text-pale;
+}

@@ -1,0 +1,41 @@
+<nav class="site-sidebar" id="site-sidebar" aria-label="Main">
+  <div class="site-sidebar__backdrop" id="site-sidebar-backdrop"></div>
+  <div class="site-sidebar__panel">
+    <div class="site-sidebar__panel-header">
+      <a class="site-sidebar__brand" href="{{ site.url }}/" aria-label="Talking Kotlin home">
+        <img src="{{ site.url }}/images/logo/talking-kotlin-logo-white.svg" alt="Talking Kotlin" width="145" height="37">
+      </a>
+      <button type="button" class="site-sidebar__close" id="menu-close" aria-label="Close menu">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 2l12 12M14 2L2 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+
+    <ul class="site-sidebar__menu">
+      <li><a href="{{ site.url }}/"{% if page.url == '/' %} class="is-active"{% endif %}>Latest Episodes</a></li>
+      <li><a href="{{ site.url }}/posts/"{% if page.url == '/posts/' or page.layout == 'post' %} class="is-active"{% endif %}>All Episodes</a></li>
+      <li><a href="{{ site.url }}/tags/"{% if page.url == '/tags/' %} class="is-active"{% endif %}>Tags</a></li>
+      <li><a href="{{ site.url }}/about/"{% if page.url == '/about/' %} class="is-active"{% endif %}>About</a></li>
+    </ul>
+
+    <div class="site-sidebar__divider"></div>
+
+    <p class="site-sidebar__group-title">Listen</p>
+    <ul class="site-sidebar__menu site-sidebar__menu--secondary">
+      <li><a href="https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266" target="_blank" rel="noopener">Apple Podcasts</a></li>
+      <li><a href="https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM" target="_blank" rel="noopener">Spotify</a></li>
+      <li><a href="https://anchor.fm/s/fdcf2fa8/podcast/rss" target="_blank" rel="noopener">RSS Feed</a></li>
+    </ul>
+
+    <p class="site-sidebar__group-title">Follow</p>
+    <ul class="site-sidebar__menu site-sidebar__menu--secondary">
+      {% if site.owner.twitter %}<li><a href="https://twitter.com/{{ site.owner.twitter }}" target="_blank" rel="noopener">Twitter</a></li>{% endif %}
+      {% if site.owner.youtube %}<li><a href="{{ site.owner.youtube }}" target="_blank" rel="noopener">YouTube</a></li>{% endif %}
+    </ul>
+
+    <p class="site-sidebar__group-title">More from JetBrains</p>
+    <ul class="site-sidebar__menu site-sidebar__menu--secondary">
+      <li><a href="https://kotlinlang.org" target="_blank" rel="noopener">Kotlin</a></li>
+      <li><a href="https://jetbrains.com" target="_blank" rel="noopener">JetBrains</a></li>
+    </ul>
+  </div>
+</nav>
