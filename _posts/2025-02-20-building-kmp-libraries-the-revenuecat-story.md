@@ -4,7 +4,9 @@ title: "Building KMP Libraries: The RevenueCat Story"
 guest: Jay Shortway
 recorded: 2025-02-20
 published: 2025-02-20
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000694400537
+spotify_episode_id: 78npg3PbGeplBD8bojyVEK
 youtubeid: zWNAjU-UpSY
 length: "52:24"
 length_rounded: "52 mins"

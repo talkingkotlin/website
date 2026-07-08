@@ -4,7 +4,9 @@ title: "How Zalando Adopted Kotlin"
 guest: Ole Sasse and Gregor Zeitlinge 
 recorded: 2021-09-09
 published: 2021-09-27
-trackid: 1131789598
+apple_podcast_id: 1194631266
+apple_episode_id: 1000536767412
+spotify_episode_id: 0ke1AhsgBZWDKsPBHTZQuG
 youtubeid: Lv9VZ-W3y18
 length: "35:25"
 length_rounded: "35 mins"

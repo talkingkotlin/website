@@ -4,7 +4,9 @@ title: "Teaching Kotlin at Stanford, with Rahul Pandey"
 guest: Rahul Pandey
 recorded: 2021-03-18
 published: 2021-04-29
-trackid: 1039221637
+apple_podcast_id: 1194631266
+apple_episode_id: 1000519309593
+spotify_episode_id: 5GfMxXUpHT33EVveN9nmt6
 youtubeid: 3AMqynQ5AGc 
 length: "33:18"
 length_rounded: "33 mins"

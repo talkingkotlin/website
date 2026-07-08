@@ -4,7 +4,9 @@ title: "The Circuit - Compose-driven Architecture for Kotlin and Android"
 guest: Zac Sweers, Amrita Venkatraman, Kieran Elliott
 recorded: 2023-01-17
 published: 2023-03-20
-trackid: 1473138697
+apple_podcast_id: 1194631266
+apple_episode_id: 1000605041676
+spotify_episode_id: 0q26jEuISEF11D7Eu0o4bz
 youtubeid: bMJocp969Bo
 length: "64:11"
 length_rounded: "64 mins"

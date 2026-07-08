@@ -3,8 +3,10 @@ layout: post
 title: "Multiplatform Development with Kevin Galligan"
 guest: Kevin Galligan
 published: 2019-01-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000427606982
+spotify_episode_id: 6O1jwx8MtdL2pHOjFaxCUk
 recorded: 2018-12-15
-trackid: 557831694
 length: "41:25"
 length_rounded: "41 mins"
 tags: [Kevin Galligan, Multiplatform]

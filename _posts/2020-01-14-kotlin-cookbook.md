@@ -4,7 +4,9 @@ title: "Kotlin Cookbook"
 guest: Ken Kousen   
 recorded: 2019-10-14
 published: 2020-01-14
-trackid: 742728190
+apple_podcast_id: 1194631266
+apple_episode_id: 1000462500829
+spotify_episode_id: 5mg8iWcwKWREcyTXfvL87C
 length: "41:16"
 length_rounded: "41 mins"
 tags: [Books, Ken Kousen]

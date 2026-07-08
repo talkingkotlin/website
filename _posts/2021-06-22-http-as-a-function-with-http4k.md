@@ -4,7 +4,9 @@ title: "HTTP as a Function With http4k"
 guest: Ivan Sanchez and David Denton
 recorded: 2021-05-20
 published: 2021-06-22
-trackid: 1073616754
+apple_podcast_id: 1194631266
+apple_episode_id: 1000526404931
+spotify_episode_id: 2EHhdY6PA2o7fXVDDiC50z
 youtubeid: mPmUjJhdYME  
 length: "34:33"
 length_rounded: "34 mins"

@@ -4,7 +4,9 @@ title: "Taking part and growing a Kotlin Community"
 guest:  Brent Watson
 recorded: 2018-05-08
 published: 2018-07-16
-trackid: 471532230
+apple_podcast_id: 1194631266
+apple_episode_id: 1000415899751
+spotify_episode_id: 2TjaDpBUtpsyewH27unBWs
 length: "38:14"
 length_rounded: "38 mins"
 tags: [Brent Watson, Community, User Groups]

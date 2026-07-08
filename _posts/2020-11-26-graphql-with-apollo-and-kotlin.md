@@ -4,7 +4,9 @@ title: "GraphQL with Apollo and Kotlin"
 guest: Martin Bonnin, Tahsin Dane, Ivan Savytskyi
 recorded: 2020-08-12
 published: 2020-11-26
-trackid: 936301462
+apple_podcast_id: 1194631266
+apple_episode_id: 1000500314856
+spotify_episode_id: 7IdOiwbZYCxeYpkYwNgLdA
 length: "35:50"
 length_rounded: "36 mins"
 tags: [GraphQL, Multiplatform, Apollo]

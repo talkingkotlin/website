@@ -4,7 +4,9 @@ title: "Dialling Back with Annyce Davis"
 guest: Annyce Davis 
 recorded: 2019-06-05
 published: 2019-09-15
-trackid: 681294674
+apple_podcast_id: 1194631266
+apple_episode_id: 1000449833928
+spotify_episode_id: 0Hzu43RmSeFDmTRzIMGivF
 length: "38:14"
 length_rounded: "38 mins"
 tags: [Annyce Davis, Design Principles, Code Smells]

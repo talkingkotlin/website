@@ -3,8 +3,10 @@ layout: post
 title: "Functional Constructs with Jorge Castillo"
 guest: Jorge Castillo
 published: 2017-07-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000389894663
+spotify_episode_id: 7C8FtMg54l3EJmXZLpwYty
 recorded: 2017-04-19
-trackid: 333164442
 length: "31:15"
 length_rounded: "31 mins"
 tags: [Jorge Castillo, Functional Programming]

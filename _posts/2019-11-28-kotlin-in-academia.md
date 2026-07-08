@@ -4,7 +4,9 @@ title: "Kotlin in Academia"
 guest: Pedro Felix, Paulo Pereira, Pedro Pereira
 recorded: 2019-10-10
 published: 2019-11-28
-trackid: 719625391
+apple_podcast_id: 1194631266
+apple_episode_id: 1000458094957
+spotify_episode_id: 1KuE5kDIjw7jlaYY936OPi
 length: "45:24"
 length_rounded: "45 mins"
 tags: [Academia]

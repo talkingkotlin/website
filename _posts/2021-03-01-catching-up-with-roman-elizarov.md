@@ -4,7 +4,9 @@ title: "Catching Up With Roman Elizarov"
 guest: Roman Elizarov
 recorded: 2021-02-09
 published: 2021-03-01
-trackid: 995686588
+apple_podcast_id: 1194631266
+apple_episode_id: 1000511196570
+spotify_episode_id: 6o0hzsR4gsUZLLIyygyK9Q
 youtubeid: KZc_0LjF7_Q
 length: "34:32"
 length_rounded: "34 mins"

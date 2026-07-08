@@ -4,7 +4,9 @@ title: "Revisiting Data Science with Thomas Nield"
 guest: Thomas Nield
 recorded: 2019-01-21
 published: 2019-03-14
-trackid: 589823667
+apple_podcast_id: 1194631266
+apple_episode_id: 1000431743217
+spotify_episode_id: 5LciJNxcExGaXQUXCMjhAZ
 length: "41:57"
 length_rounded: "42 mins"
 tags: [Data Science, Thomas Nield]

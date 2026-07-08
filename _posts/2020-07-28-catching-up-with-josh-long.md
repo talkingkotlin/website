@@ -4,7 +4,9 @@ title: "Catching up with Josh Long"
 guest:  Josh Long  
 recorded: 2020-04-28
 published: 2020-07-28
-trackid: 865820248
+apple_podcast_id: 1194631266
+apple_episode_id: 1000486363607
+spotify_episode_id: 14TJ3zjaotM7xl44wau9ka
 length: "47:24"
 length_rounded: "47 mins"
 tags: [Josh Long, Spring]

@@ -3,8 +3,10 @@ layout: post
 title: "Gradle Script Kotlin with Rodrigo Oliveira"
 guest: Rodrigo Oliveira
 published: 2017-03-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000383239396
+spotify_episode_id: 6YNz0Ak09lPVFBz04mSaTN
 recorded: 2017-02-15
-trackid: 314886559
 length: "30:27"
 length_rounded: "30 mins" 
 tags: [Rodrigo Oliveira, Gradle]

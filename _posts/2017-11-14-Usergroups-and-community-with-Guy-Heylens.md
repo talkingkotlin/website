@@ -3,8 +3,10 @@ layout: post
 title: "Usergroups and community with Guy Heylens"
 guest: Guy Heylens
 published: 2017-11-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000394764976
+spotify_episode_id: 2KcC4wzRJVygM2691D5vwp
 recorded: 2017-07-17
-trackid: 352782080
 length: "33:19"
 length_rounded: "33 mins"
 tags: [User groups, Community, Guy Heylens]

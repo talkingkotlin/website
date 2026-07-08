@@ -4,7 +4,9 @@ title: "Greenfield Kotlin at OLX"
 guest:  Benjamin Schneider and Guido Mariotti
 recorded: 2018-05-14
 published: 2018-08-27   
-trackid: 489948462
+apple_podcast_id: 1194631266
+apple_episode_id: 1000418565159
+spotify_episode_id: 3XBlKY3x4vVojuay4oSh8g
 length: "34:41"
 length_rounded: "35 mins"
 tags: [Greenfield, Server-side, OLX]

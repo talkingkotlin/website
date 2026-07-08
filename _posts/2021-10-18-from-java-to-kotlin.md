@@ -4,7 +4,9 @@ title: "From Java to Kotlin"
 guest: Nat Pryce and Duncan McGregor 
 recorded: 2021-09-30
 published: 2021-10-18
-trackid: 1143725359 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000539081247
+spotify_episode_id: 0pjBAQQHGcWgZBolrTCzbW
 youtubeid: YGmBTQMGUhA
 length: "46:43"
 length_rounded: "46 mins"

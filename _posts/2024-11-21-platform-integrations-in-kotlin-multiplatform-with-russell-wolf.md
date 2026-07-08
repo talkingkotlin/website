@@ -4,7 +4,9 @@ title: "Platform Integrations in Kotlin Multiplatform with Russell Wolf"
 guest: Russell Wolf
 recorded: 2024-09-19
 published: 2024-11-21
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000677805025
+spotify_episode_id: 2RkH5rDxVtJYiIAUCih6u3
 youtubeid: RQa3Su8ZyyY
 length: "45:45"
 length_rounded: "45 mins"

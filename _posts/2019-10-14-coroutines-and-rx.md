@@ -4,7 +4,9 @@ title: "Coroutines and RxJava with Josh Keen"
 guest: Josh Keen
 recorded: 2019-03-06
 published: 2019-10-14
-trackid: 695417938
+apple_podcast_id: 1194631266
+apple_episode_id: 1000453422287
+spotify_episode_id: 3OsRVI12D7OAKwVQuqaHH1
 length: "35:32"
 length_rounded: "35 mins"
 tags: [Josh Keen, Coroutines, RxJava]

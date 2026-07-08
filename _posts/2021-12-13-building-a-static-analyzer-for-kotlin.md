@@ -4,7 +4,9 @@ title: "Building a static analyzer for Kotlin"
 guest: Margarita Nedzelska
 recorded: 2021-10-28
 published: 2021-11-11
-trackid: 1177049431
+apple_podcast_id: 1194631266
+apple_episode_id: 1000544840581
+spotify_episode_id: 1iP7d5EstKND8p0H1pvW3p
 youtubeid: KBlOXTDfKT8
 length: "43:03"
 length_rounded: "43 mins"

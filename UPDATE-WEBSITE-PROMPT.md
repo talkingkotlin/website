@@ -297,7 +297,6 @@ title: "<episode title>"
 guest: <Guest Name>              # or "Sebastian Aigner and Márton Braun" for host-only/audio-exclusive episodes
 recorded: YYYY-MM-DD             # see note below
 published: YYYY-MM-DD            # from the RSS feed's pubDate, NOT YouTube's upload_date
-trackid:                          # ALWAYS leave blank — SoundCloud is no longer used
 youtubeid: <YouTube video id>
 length: "H:MM:SS"
 length_rounded: "NN mins"
@@ -313,10 +312,6 @@ notes:
 ---
 ```
 
-- `trackid:` is left blank on every new post (no SoundCloud publishing
-  anymore). The post layout (`_layouts/post.html`) still renders a SoundCloud
-  iframe unconditionally even with a blank `trackid` — that's a pre-existing
-  quirk of the template, not something to fix as part of this task.
 - `recorded:` — there is no reliable source for the actual recording date
   anywhere (YouTube/Spotify/Apple/RSS all only carry the publish date). Set
   it equal to `published:` as a placeholder, and **explicitly flag this** in

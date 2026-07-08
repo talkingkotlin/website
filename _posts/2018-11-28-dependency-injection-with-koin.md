@@ -3,8 +3,10 @@ layout: post
 title: "Dependency Injection with Koin"
 guest: Arnaud Giuliani
 published: 2018-11-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000424698974
+spotify_episode_id: 3H2tdlsUXcYyzR6gdEEPWD
 recorded: 2018-09-28
-trackid: 535982478
 length: "34:57"
 length_rounded: "35 mins"
 tags: [Arnaud Giuliani, Annotations]

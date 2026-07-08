@@ -4,7 +4,9 @@ title: "Discussing Kotlin Coroutines with Marcin Moskała"
 guest: Marcin Moskała
 recorded: 2025-10-23
 published: 2025-10-23
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000733170936
+spotify_episode_id: 5LKXe52ddljDb9AhMGuPRB
 youtubeid: 1zY4_iDyFco
 length: "2:03:27"
 length_rounded: "123 mins"

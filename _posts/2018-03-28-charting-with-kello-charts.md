@@ -4,7 +4,9 @@ title: "Charting with Kello Charts"
 guest:  Charles Anderson
 recorded: 2018-02-13
 published: 2018-03-28
-trackid: 421202712
+apple_podcast_id: 1194631266
+apple_episode_id: 1000407649594
+spotify_episode_id: 2AM7mFhzpMZsrWObeaycVL
 length: "32:46"
 length_rounded: "33 mins"
 tags: [Android, Charting, Open Source, Charles Anderson]

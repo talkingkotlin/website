@@ -4,7 +4,9 @@ title: "Turbocharging Kotlin: Arrow Analysis, Optics & Meta"
 guest: Raul Raja, Simon Vergauwen, and Alejandro Serrano
 recorded: 2022-04-21
 published: 2022-06-28
-trackid: 1295949565
+apple_podcast_id: 1194631266
+apple_episode_id: 1000568012698
+spotify_episode_id: 2aqIY2wsYjTbzOxKard4b3
 youtubeid: tX4nLqcW2JA
 length: "57:44"
 length_rounded: "57 mins"

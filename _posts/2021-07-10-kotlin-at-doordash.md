@@ -4,7 +4,9 @@ title: "Kotlin at DoorDash"
 guest: Matt Anger
 recorded: 2021-05-27
 published: 2021-07-10
-trackid: 1085131807
+apple_podcast_id: 1194631266
+apple_episode_id: 1000528456113
+spotify_episode_id: 4cplylMrOPWOEXpu8CXeH6
 youtubeid: XTeEIJ170KE
 length: "31:24"
 length_rounded: "31 mins"

@@ -4,7 +4,9 @@ title: "OpenRNDR"
 guest: Edwin Jakobs
 recorded: 2019-02-18
 published: 2019-07-15
-trackid: 651284921
+apple_podcast_id: 1194631266
+apple_episode_id: 1000444491056
+spotify_episode_id: 3zmSE6wEB9RT2Ezv9hHx6V
 length: "29:39"
 length_rounded: "30 mins"
 tags: [Graphics, OpenRNDR, Edwin Jakobs]

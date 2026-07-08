@@ -4,7 +4,9 @@ title: "Going from Swift to Kotlin with Skip"
 guest: Marc Prud'hommeaux and Abe White
 recorded: 2024-08-12
 published: 2024-12-09
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000679751777
+spotify_episode_id: 37IJvBCyuwQrayZQuwzP75
 youtubeid: mig81rSWVqM
 length: "1:04:59"
 length_rounded: "64 mins"

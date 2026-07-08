@@ -3,8 +3,10 @@ layout: post
 title: "Arrow Functional Library"
 guest: Mario Arias, Raul Raja and Paco Estevez
 published: 2018-01-15
+apple_podcast_id: 1194631266
+apple_episode_id: 1000399873910
+spotify_episode_id: 2W58JJMqXUXogmmiQUwQs4
 recorded: 2018-01-12
-trackid: 382472267
 length: "43:17"
 length_rounded: "43 mins"
 tags: [Mario Arias, Raul Raja and Paco Estevez, Functional Programming, Arrow, Funktionale, Kategory]

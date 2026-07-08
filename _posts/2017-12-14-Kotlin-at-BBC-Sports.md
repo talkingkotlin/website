@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin at BBC Sports"
 guest: Dai Williams and John Crossley
 published: 2017-12-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000397293980
+spotify_episode_id: 15FKfyHdlEqvsqJgMYWudI
 recorded: 2017-07-21
-trackid: 369039689
 length: "33:26"
 length_rounded: "33 mins"
 tags: [Dai Williams, John Crossley, Android]

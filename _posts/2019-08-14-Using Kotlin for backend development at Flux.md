@@ -4,7 +4,9 @@ title: "Using Kotlin for backend development at Flux"
 guest: Tobie Warburt and Tom Reay
 recorded: 2019-03-14
 published: 2019-08-14
-trackid: 665251913
+apple_podcast_id: 1194631266
+apple_episode_id: 1000446863779
+spotify_episode_id: 3VS5dSUfcsC4fSvzbm2OxV
 length: "35:32"
 length_rounded: "35 mins"
 tags: [Backend, Dropwizard, Flux]

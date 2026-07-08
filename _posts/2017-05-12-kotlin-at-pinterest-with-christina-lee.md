@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin at Pinterest with Christina Lee"
 guest: Christina Lee
 published: 2017-05-15
+apple_podcast_id: 1194631266
+apple_episode_id: 1000385361320
+spotify_episode_id: 2k5leR3FkUA8xfIx5U4jEA
 recorded: 2017-03-21
-trackid: 322251520
 length: "34:59"
 length_rounded: "35 mins"
 tags: [Pinterest, Christina Lee]

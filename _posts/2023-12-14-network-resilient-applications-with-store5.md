@@ -4,7 +4,9 @@ title: "Network-Resilient Applications with Store5"
 guest: Yigit Boyar, Matthew Ramotar, and Mike Nakhimovich
 recorded: 2023-10-05
 published: 2023-12-14
-trackid: 1689535512
+apple_podcast_id: 1194631266
+apple_episode_id: 1000638591035
+spotify_episode_id: 1DSAN5OoJJs6S4JC3uoZK4
 youtubeid: a32Otwx7c0w
 length: "55:55"
 length_rounded: "55 mins"

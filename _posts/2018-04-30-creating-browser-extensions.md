@@ -4,7 +4,9 @@ title: "Creating browser extensions"
 guest:  Kirill Rakhman
 recorded: 2018-03-30
 published: 2018-04-30
-trackid: 437156715
+apple_podcast_id: 1194631266
+apple_episode_id: 1000410271397
+spotify_episode_id: 2kNImT3grO0G5Pn2I38ncE
 length: "33:55"
 length_rounded: "34 mins"
 tags: [Kirill Rakhman, JavaScript]

@@ -4,7 +4,9 @@ title: "How Kotlin is Powering TV Broadcasts Worldwide"
 guest: Denis Borisevich
 recorded: 2025-05-15
 published: 2025-05-15
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000708644202
+spotify_episode_id: 5CNQHiEDl7ntp4hxTDmr03
 youtubeid: SRaVtWFOUw4
 length: "57:18"
 length_rounded: "57 mins"

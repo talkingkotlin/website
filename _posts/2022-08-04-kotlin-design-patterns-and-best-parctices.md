@@ -4,7 +4,9 @@ title: "Kotlin Design Patterns and Best Practices"
 guest: Alexey Soshin
 recorded: 2022-05-09
 published: 2022-08-04
-trackid: 1317838006
+apple_podcast_id: 1194631266
+apple_episode_id: 1000575022374
+spotify_episode_id: 5iA1LfzluJdd5DVFAvSEZg
 youtubeid: B_ZslbAw-Pk
 length: "40:39"
 length_rounded: "40 mins"

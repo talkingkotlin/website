@@ -10,17 +10,20 @@
 					<h4>{{ site.owner.name }}</h4>
 					<p>{{ site.owner.bio }}</p>
 				</li>
-				{% if site.owner.email %}<li>
-					<a href="mailto:{{ site.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
+				{% if site.owner.sebi %}<li>
+					<a href="{{ site.owner.sebi }}" target="_blank"><i class="fa fa-fw fa-link"></i> sebi.io</a>
+				</li>{% endif %}
+				{% if site.owner.zsmb %}<li>
+					<a href="{{ site.owner.zsmb }}" target="_blank"><i class="fa fa-fw fa-link"></i> zsmb.co</a>
 				</li>{% endif %}
 				{% if site.owner.twitter %}<li>
 					<a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
+				{% if site.owner.youtube %}<li>
+					<a href="{{ site.owner.youtube }}" target="_blank"><i class="fa fa-fw fa-youtube"></i> YouTube</a>
+				</li>{% endif %}
 				{% if site.owner.facebook %}<li>
 					<a href="https://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-fw fa-facebook"></i> Facebook</a>
-				</li>{% endif %}
-				{% if site.owner.google_plus %}<li>
-					<a href="https://google.com/{{ site.owner.google_plus }}"><i class="fa fa-fw fa-google-plus"></i> Google+</a>
 				</li>{% endif %}
 				{% if site.owner.linkedin %}<li>
 					<a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fa fa-fw fa-linkedin"></i> LinkedIn</a>

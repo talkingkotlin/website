@@ -4,7 +4,9 @@ title: "What goes into a Kotlin Release"
 guest: Marina Shishkina
 recorded: 2021-10-14
 published: 2021-11-11
-trackid: 1158114307
+apple_podcast_id: 1194631266
+apple_episode_id: 1000541504155
+spotify_episode_id: 5PhsDYDzlmLVerV27TkEOf
 youtubeid: zHa9_X5HCPU
 length: "37:35"
 length_rounded: "37 mins"

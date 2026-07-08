@@ -4,7 +4,9 @@ title: "Gradient Descent"
 guest:  Erik Meijer    
 recorded: 2020-03-10
 published: 2020-07-14
-trackid: 857597893
+apple_podcast_id: 1194631266
+apple_episode_id: 1000484827252
+spotify_episode_id: 3CYbQgeVycCpSFofg5Ptsg
 length: "47:28"
 length_rounded: "47 mins"
 tags: [Machine Learning, Functional Programming, Erik Meijer]

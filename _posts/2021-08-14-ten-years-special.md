@@ -4,7 +4,9 @@ title: "10 Years of Kotlin Special"
 guest: Huyen Tue Dao, Pamela Hill, Marharyta Nedzelska, Jake Wharton, Justin Lee, Brent Watson
 recorded: 2021-07-01
 published: 2021-08-14
-trackid: 1105273285
+apple_podcast_id: 1194631266
+apple_episode_id: 1000532002032
+spotify_episode_id: 1AHIdGj6FmQs7f5MsXCJRV
 youtubeid: 6LtHSU_biUw
 length: "01:04:43"
 length_rounded: "64 mins"

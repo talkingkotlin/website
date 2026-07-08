@@ -5,7 +5,9 @@ guest: John O’Reilly
 recorded: 2020-02-24
 recorded: 2021-02-24
 published: 2021-03-14
-trackid: 1005408850
+apple_podcast_id: 1194631266
+apple_episode_id: 1000512932613
+spotify_episode_id: 3Fmc8NT2ugz3BMgctm4F0k
 youtubeid: KKy1ZvTcHAg 
 length: "42:34"
 length_rounded: "42 mins"

@@ -4,7 +4,9 @@ title: "International Women's Day Special - Idiomatic Kotlin"
 guest: Christina Lee, Florina Muntenescu, Huyen Tue Dao, Svetlana Isakova   
 recorded: 2020-02-12
 published: 2020-03-06
-trackid: 771616276 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000467622122
+spotify_episode_id: 5zvwZg9cR4X1GE9kxlThbq
 length: "57:25"
 length_rounded: "57 mins"
 tags: [Christina Lee, Florina Muntenescu, Huyen Tue Dao, Svetlana Isakova]

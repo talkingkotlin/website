@@ -4,7 +4,9 @@ title: "Reinventing Ticket Sales with Pretix"
 guest: Raphael Michel
 recorded: 2024-05-02
 published: 2024-07-03
-trackid: 1861699578
+apple_podcast_id: 1194631266
+apple_episode_id: 1000661063278
+spotify_episode_id: 5NdnOUMbtxVmhympxnfSDU
 youtubeid: uTV0wA_8Rdw
 length: "49:20"
 length_rounded: "49 mins"

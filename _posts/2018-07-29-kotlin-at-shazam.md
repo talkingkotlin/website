@@ -4,7 +4,9 @@ title: "Kotlin at Shazam"
 guest:  Luca Naldini
 recorded: 2018-05-09
 published: 2018-07-29
-trackid: 475444788
+apple_podcast_id: 1194631266
+apple_episode_id: 1000416740766
+spotify_episode_id: 6oZdJE7XU1GF6Dlir6tP50
 length: "30:23"
 length_rounded: "30 mins"
 tags: [Shazam, Microservices, Backend, Luca Naldini]

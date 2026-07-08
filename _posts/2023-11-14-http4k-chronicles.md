@@ -4,7 +4,9 @@ title: "http4k Chronicles"
 guest: Ivan Sanchez and David Denton
 recorded: 2023-09-04
 published: 2023-11-14
-trackid: 1664789634
+apple_podcast_id: 1194631266
+apple_episode_id: 1000634812505
+spotify_episode_id: 1hK1TGA3Q07vHPgek3lxGk
 youtubeid: 1BzdLtgZHcI
 length: "50:55"
 length_rounded: "50 mins"

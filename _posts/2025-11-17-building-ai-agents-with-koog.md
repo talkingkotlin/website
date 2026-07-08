@@ -4,7 +4,9 @@ title: "Building AI Agents With Koog"
 guest: Vadim Briliantov
 recorded: 2025-11-17
 published: 2025-11-17
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000737126538
+spotify_episode_id: 1kz2ACCaoBoSfewNyqkMdB
 youtubeid: hf_iN-eoC3w
 length: "1:22:48"
 length_rounded: "83 mins"

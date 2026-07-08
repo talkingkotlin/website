@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin at Trello"
 guest: Huyen Tue Dao and Vishnu Rajeevan
 published: 2017-07-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000390404553
+spotify_episode_id: 2hYZAsvOU4DWJmPzgQx72G
 recorded: 2017-05-02
-trackid: 334888591
 length: "32:31"
 length_rounded: "32 mins"
 tags: [Huyen Tue Dao, Vishnu Rajeevan, Trello, Android]

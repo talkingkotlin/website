@@ -4,7 +4,9 @@ title: "Ktor with Ryan Harter"
 guest: Ryan Harter
 recorded: 2019-01-24
 published: 2019-04-15
-trackid: 606188484
+apple_podcast_id: 1194631266
+apple_episode_id: 1000434948197
+spotify_episode_id: 7rcwW7gNFIOrDqy6tgA1HU
 length: "40:16"
 length_rounded: "40 mins"
 tags: [KotlinConf, Ryan Harter, Server-Side, Web Development]

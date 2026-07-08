@@ -3,8 +3,10 @@ layout: post
 title: "A Chat with Andrey Breslav"
 guest: Andrey Breslav
 published: 2017-01-12
+apple_podcast_id: 1194631266
+apple_episode_id: 1000379893611
+spotify_episode_id: 3jrnB7MjdGrLumG8YpM6JL
 recorded: 2016-12-01
-trackid: 302359364
 length: "32:51"
 length_rounded: "33 mins"
 tags: [Andrey Breslav, JetBrains, Kotlin Native]

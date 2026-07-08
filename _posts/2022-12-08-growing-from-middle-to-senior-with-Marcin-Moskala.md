@@ -4,7 +4,9 @@ title: "Growing from MIDDLE to SENIOR developer with Marcin Moskala"
 guest: Marcin Moskala
 recorded: 2022-10-31
 published: 2022-12-08
-trackid: 1398634936
+apple_podcast_id: 1194631266
+apple_episode_id: 1000589463595
+spotify_episode_id: 4GjBROPdfHTffJkDvXEhi5
 youtubeid: r1ViR5vNw8U
 length: "48:24"
 length_rounded: "48 mins"

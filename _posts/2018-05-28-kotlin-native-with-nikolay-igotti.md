@@ -4,7 +4,9 @@ title: "Kotlin/Native with Nikolay Igotti"
 guest:  Nikolay Igotti
 recorded: 2018-04-09
 published: 2018-05-28
-trackid: 450100029
+apple_podcast_id: 1194631266
+apple_episode_id: 1000412403877
+spotify_episode_id: 589fXBO4rkVPrIrxDs4LJp
 length: "44:56"
 length_rounded: "45 mins"
 tags: [Kotlin/Native, Nikolay Igotti]

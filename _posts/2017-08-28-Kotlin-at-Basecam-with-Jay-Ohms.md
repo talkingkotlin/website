@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin at Basecamp"
 guest: Jay Ohms
 published: 2017-08-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000391534591
+spotify_episode_id: 1aFMFZL7cXRc958Bfm3V2q
 recorded: 2017-05-03
-trackid: 339427533
 length: "34:35"
 length_rounded: "35 mins"
 tags: [Jay Ohms, Basecamp, Android]

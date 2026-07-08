@@ -4,7 +4,9 @@ title: "Making Multiplatform Better"
 guest: Rick Clephas
 recorded: 2023-08-22
 published: 2023-09-19
-trackid: 1620132927
+apple_podcast_id: 1194631266
+apple_episode_id: 1000628471981
+spotify_episode_id: 29k1tS91pN2MLWMIKzE5oN
 youtubeid: rudqlGRrWYY
 length: "45:09"
 length_rounded: "45 mins"

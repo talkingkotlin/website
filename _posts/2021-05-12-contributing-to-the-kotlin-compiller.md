@@ -4,7 +4,9 @@ title: "Contributing to the Kotlin Compiler"
 guest: Jeffrey Van Gogh and Mads Ager
 recorded: 2021-03-25
 published: 2021-05-12
-trackid: 1047580225
+apple_podcast_id: 1194631266
+apple_episode_id: 1000521480926
+spotify_episode_id: 5q2L0pXwy29GqDuuNyXrUr
 youtubeid: UryyHq45Y_8  
 length: "42:06"
 length_rounded: "41 mins"

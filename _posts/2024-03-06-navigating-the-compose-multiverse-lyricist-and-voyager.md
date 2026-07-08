@@ -4,7 +4,9 @@ title: "Navigating the Compose Multiverse – Lyricist & Voyager"
 guest: Andriel Café
 recorded: 2023-11-07
 published: 2024-03-06
-trackid: 1765848882
+apple_podcast_id: 1194631266
+apple_episode_id: 1000648235606
+spotify_episode_id: 39m0iaQh0SbGU1Wvt6oWzi
 youtubeid: haTx5uweXi4
 length: "43:06"
 length_rounded: "43 mins"

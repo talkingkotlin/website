@@ -4,7 +4,9 @@ title: "Kotlin 2.3 Release Special (Audio Exclusive)"
 guest: Sebastian Aigner and Márton Braun
 recorded: 2026-02-03
 published: 2026-02-03
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000747867340
+spotify_episode_id: 40TdKLb1SDkSsFXQc6aNQN
 youtubeid: Ca6UWkVWbac
 length: "49:35"
 length_rounded: "50 mins"

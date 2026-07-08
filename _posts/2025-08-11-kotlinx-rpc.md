@@ -4,7 +4,9 @@ title: "kotlinx.rpc"
 guest: Alex Sysoev
 recorded: 2025-08-11
 published: 2025-08-11
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000721523495
+spotify_episode_id: 3zfbfi5Gz1vKlYmVNJylls
 youtubeid: mB6cJAXxFGk
 length: "1:30:52"
 length_rounded: "91 mins"

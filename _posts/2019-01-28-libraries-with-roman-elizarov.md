@@ -3,8 +3,10 @@ layout: post
 title: "Libraries with Roman Elizarov"
 guest: Roman Elizarov
 published: 2019-01-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000428606028
+spotify_episode_id: 6reR1LiZrhYyGNAGBxbqcH
 recorded: 2018-12-19
-trackid: 565736889
 length: "43:38"
 length_rounded: "43 mins"
 tags: [Roman Elizarov, Coroutines, Multiplatform, Serialization]

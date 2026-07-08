@@ -3,8 +3,10 @@ layout: post
 title: "Multiplatform Development with Eugenio Marletti"
 guest: Eugenio Marletti
 published: 2017-10-26
+apple_podcast_id: 1194631266
+apple_episode_id: 1000394072055
+spotify_episode_id: 4xWasseYdfsd4u0dr9UXTI
 recorded: 2017-07-04
-trackid: 348165867
 length: "31:54"
 length_rounded: "32 mins"
 tags: [Multiplatform, Eugenio Marlett]

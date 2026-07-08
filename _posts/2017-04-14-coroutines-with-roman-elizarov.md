@@ -3,8 +3,10 @@ layout: post
 title: "Coroutines with Roman Elizarov"
 guest: Roman Elizarov
 published: 2017-04-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000384381296
+spotify_episode_id: 4J3QUsaY22elWB14TNwXyq
 recorded: 2017-03-13
-trackid: 317641525
 length: "31:21"
 length_rounded: "31 mins"
 tags: [Roman Elizarov, Coroutines, Asynchronous Programming]

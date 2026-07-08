@@ -4,7 +4,9 @@ title: "SQL Delight"
 guest: Alec Strong
 recorded: 2019-02-06
 published: 2019-05-14
-trackid: 620256645
+apple_podcast_id: 1194631266
+apple_episode_id: 1000438032869
+spotify_episode_id: 7F11Mocpos7ZEG04VVt67R
 length: "40:46"
 length_rounded: "40 mins"
 tags: [SQL, Multiplatform, Alec Strong]

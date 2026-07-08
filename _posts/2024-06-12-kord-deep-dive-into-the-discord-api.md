@@ -4,7 +4,9 @@ title: "Kord: Deep Dive into the Discord API"
 guest: Michael Rittmeister and Luca Kellermann
 recorded: 2024-04-19
 published: 2024-06-12
-trackid: 1845713970
+apple_podcast_id: 1194631266
+apple_episode_id: 1000658804819
+spotify_episode_id: 6iJPHZqON0teys6MxMAb7U
 youtubeid: 6L-CpwjWmCU
 length: "46:58"
 length_rounded: "46 mins"

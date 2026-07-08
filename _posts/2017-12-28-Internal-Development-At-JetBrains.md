@@ -3,8 +3,10 @@ layout: post
 title: "Internal Development at JetBrains"
 guest: Eduard Gurskiy
 published: 2017-12-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000398581189
+spotify_episode_id: 32Uy0Sq0unaKpNRJ8BhfI2
 recorded: 2017-07-04
-trackid: 375364355
 length: "35:00"
 length_rounded: "35 mins"
 tags: [Eduard Gurskiy, Server Side, JetBrains]

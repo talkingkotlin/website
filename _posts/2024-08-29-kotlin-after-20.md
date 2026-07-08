@@ -4,7 +4,9 @@ title: "Kotlin After 2.0"
 guest: Mikhail Zarechenskii and Egor Tolstoy
 recorded: 2024-08-12
 published: 2024-08-29
-trackid: 1906251935
+apple_podcast_id: 1194631266
+apple_episode_id: 1000667174182
+spotify_episode_id: 0pT3RGHNjzgKWNm60ZbiBr
 youtubeid: 55NL0vnjjJg
 length: "01:06:31"
 length_rounded: "66 mins"

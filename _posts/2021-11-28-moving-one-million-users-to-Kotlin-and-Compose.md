@@ -4,7 +4,9 @@ title: "Moving 1M users to Kotlin and Compose"
 guest: Victor Kropp
 recorded: 2021-10-28
 published: 2021-11-28
-trackid: 1168303783
+apple_podcast_id: 1194631266
+apple_episode_id: 1000543288268
+spotify_episode_id: 4xPz3cMPF0Js73YdrSNui5
 youtubeid: sVRbsz_QI4g
 length: "45:03"
 length_rounded: "45 mins"

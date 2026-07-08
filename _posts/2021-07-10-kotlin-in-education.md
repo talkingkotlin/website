@@ -4,7 +4,9 @@ title: "Kotlin in Education"
 guest: Ksenia Shneyveys
 recorded: 2021-06-17
 published: 2021-07-17
-trackid: 1088610637
+apple_podcast_id: 1194631266
+apple_episode_id: 1000529169683
+spotify_episode_id: 4wac4bQMG5VSPcGQVwUny1
 youtubeid: Qvs4RB5wW88
 length: "31:42"
 length_rounded: "31 mins"

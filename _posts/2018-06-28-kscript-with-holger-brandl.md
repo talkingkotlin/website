@@ -4,7 +4,9 @@ title: "kscript with Holger Brandl"
 guest:  Holger Brandl
 recorded: 2018-05-09
 published: 2018-06-28
-trackid: 464365716
+apple_podcast_id: 1194631266
+apple_episode_id: 1000414796911
+spotify_episode_id: 3H8cAiBvJOpcQfWPakG17t
 length: "35:08"
 length_rounded: "35 mins"
 tags: [Holger Brandl, kscript, scripting]

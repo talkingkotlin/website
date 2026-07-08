@@ -4,7 +4,9 @@ title: "Sitting down with the Kotlin Advocates"
 guest: Svetlana Isakova, Shengyou Fan, Sebastian Aigner, Ekaterina Petrova
 recorded: 2020-05-25
 published: 2020-08-11
-trackid: 883478479
+apple_podcast_id: 1194631266
+apple_episode_id: 1000489433763
+spotify_episode_id: 46c0LP5OrfPWLPRdFB9y4I
 length: "42:01"
 length_rounded: "42 mins"
 tags: [Svetlana Isakova, Shengyou Fan, Sebastian Aigner, Ekaterina Petrova]

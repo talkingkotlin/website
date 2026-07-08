@@ -3,8 +3,10 @@ layout: post
 title: "Writing a Clojure IDE in Kotlin with Colin Fleming"
 guest: Colin Fleming
 published: 2017-08-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000391007182
+spotify_episode_id: 4sOZRXewRlbVMF0ZYQJNFX
 recorded: 2017-05-02
-trackid: 337181005
 length: "38:37"
 length_rounded: "38 mins"
 tags: [Colin Fleming]

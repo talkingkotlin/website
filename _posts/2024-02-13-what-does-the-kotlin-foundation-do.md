@@ -4,7 +4,9 @@ title: "What Does the Kotlin Foundation Do?"
 guest: Charles Anderson, Kevin Galligan, Jeffrey van Gogh, Trisha Gee, Ksenia Shneyveys
 recorded: 2024-01-23
 published: 2024-02-13
-trackid: 1746150657
+apple_podcast_id: 1194631266
+apple_episode_id: 1000645201442
+spotify_episode_id: 2EMtzyPB8e4MLcnR45a2OA
 youtubeid: 3qwPAwahTWI
 length: "43:38"
 length_rounded: "43 mins"

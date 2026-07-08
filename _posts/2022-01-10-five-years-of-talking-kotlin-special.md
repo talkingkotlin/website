@@ -4,7 +4,9 @@ title: "5 Years of Talking Kotlin Special"
 guest: Hadi Hariri
 recorded: 2021-12-16
 published: 2022-01-10
-trackid: 1192013785
+apple_podcast_id: 1194631266
+apple_episode_id: 1000547450357
+spotify_episode_id: 4j1CVPTXW8fBCRcoizrPfL
 youtubeid: 13QJt5mqUoM
 length: "51:24"
 length_rounded: "51 mins"

@@ -4,7 +4,9 @@ title: "Kotlin and Google Cloud Platform"
 guest: James Ward
 recorded: 2020-07-22
 published: 2020-10-14
-trackid: 910274533
+apple_podcast_id: 1194631266
+apple_episode_id: 1000494685827
+spotify_episode_id: 3u733IjRBEfLhiIWat9wIA
 length: "46:54"
 length_rounded: "47 mins"
 tags: [James Ward, GCP, Server-Side]

@@ -4,7 +4,9 @@ title: "Kotlin at Uber"
 guest: Zac Sweers, Thales Machado, Edgar Fernandes, Tho Nguyen
 recorded: 2019-04-26
 published: 2019-04-30
-trackid: 612963945
+apple_podcast_id: 1194631266
+apple_episode_id: 1000436921013
+spotify_episode_id: 2jCGqSv4Gw7sLvTpBE5Ouc
 length: "44:42"
 length_rounded: "45 mins"
 tags: [Uber, Buck, Android]

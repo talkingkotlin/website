@@ -3,8 +3,10 @@ layout: post
 title: "Zally - An API Linter"
 guest: Mikhail Chernykh, Mykhailo Kulak
 published: 2018-01-29
+apple_podcast_id: 1194631266
+apple_episode_id: 1000400944663
+spotify_episode_id: 5q784k6CgHxtUDDCYjaaY4
 recorded: 2017-11-29
-trackid: 389352405
 length: "38:57"
 length_rounded: "39 mins"
 tags: [API, Server Side, Zalando, Mikhail Chernykh, Mykhailo Kulak]

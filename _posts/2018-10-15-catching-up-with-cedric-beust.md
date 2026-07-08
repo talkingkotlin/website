@@ -3,8 +3,10 @@ layout: post
 title: "Catching up with Cedric Beust"
 guest: Cédric Beust
 published: 2018-10-15
+apple_podcast_id: 1194631266
+apple_episode_id: 1000421825027
+spotify_episode_id: 6g7zv9Rxy8KKHuTlVfq09X
 recorded: 2018-07-18
-trackid: 514096044
 length: "37:11"
 length_rounded: "37 mins"
 tags: [Cedric Beust, Functional Programming]

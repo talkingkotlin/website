@@ -4,7 +4,9 @@ title: "How Major Metros Run on Kotlin Multiplatform"
 guest: Paweł Kwieciński
 recorded: 2026-03-05
 published: 2026-03-05
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000753185980
+spotify_episode_id: 4UP6OFfM6Hym7MOIfVHVpo
 youtubeid: Wze7qsDl4BM
 length: "1:39:25"
 length_rounded: "99 mins"

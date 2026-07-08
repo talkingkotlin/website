@@ -4,7 +4,9 @@ title: "Compiler Plugins with Kevin Most"
 guest: Kevin Most
 recorded: 2019-03-11
 published: 2019-06-28
-trackid: 643273863 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000443016486
+spotify_episode_id: 4PwYG7yW69bcQnihcEpfCa
 length: "34:45"
 length_rounded: "35 mins"
 tags: [Compiler, Plugins, Kevin Most]

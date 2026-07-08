@@ -4,7 +4,9 @@ title: "Talking Groovy with Ken Kousen"
 guest:  Ken Kousen
 recorded: 2018-02-19
 published: 2018-04-16
-trackid: 430379475
+apple_podcast_id: 1194631266
+apple_episode_id: 1000408984698
+spotify_episode_id: 1HEOUtTirh9lypdVPVL1mt
 length: "34:51"
 length_rounded: "35 mins"
 tags: [Ken Kousen, Groovy]

@@ -4,7 +4,9 @@ title: "Being ahead of the curve with multiplatform development"
 guest: Ana Redmond
 recorded: 2019-06-12
 published: 2019-09-30
-trackid: 688798156
+apple_podcast_id: 1194631266
+apple_episode_id: 1000451734986
+spotify_episode_id: 52gYB27DSgnuZWyGRNzfPh
 length: "37:07"
 length_rounded: "37 mins"
 tags: [Ana Redmon, Multiplatform, Kotlin/Native]

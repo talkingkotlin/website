@@ -4,7 +4,9 @@ title: "Compose in CashApp with Jake Wharton and Saket Narayan"
 guest: Jake Wharton and Saket Narayan
 recorded: 2022-07-07
 published: 2022-08-25
-trackid: 1330909489
+apple_podcast_id: 1194631266
+apple_episode_id: 1000577348478
+spotify_episode_id: 7IyxszqrWidJRLYmluRM3K
 youtubeid: -ZExs9Gncic
 length: "43:19"
 length_rounded: "43 mins"

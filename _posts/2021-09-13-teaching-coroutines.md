@@ -4,7 +4,9 @@ title: "Teaching Coroutines"
 guest: Mohit Sarveiya
 recorded: 2021-08-12
 published: 2021-09-13
-trackid: 1123761382
+apple_podcast_id: 1194631266
+apple_episode_id: 1000535171622
+spotify_episode_id: 2CYQoMhrzm7Q8kIbY2jMA3
 youtubeid: VlQoEi5q26U
 length: "37:58"
 length_rounded: "37 mins"

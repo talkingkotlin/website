@@ -4,7 +4,9 @@ title: "70 Billion Events per Day – Adobe & Kotlin"
 guest: Rares Vlasceanu and Catalin Costache
 recorded: 2022-02-16
 published: 2022-04-19
-trackid: 1253069788
+apple_podcast_id: 1194631266
+apple_episode_id: 1000558057712
+spotify_episode_id: 1qCre84tzfGaFABB0ihZBr
 youtubeid: kKPBWIKrSOU
 length: "51:09"
 length_rounded: "51 mins"

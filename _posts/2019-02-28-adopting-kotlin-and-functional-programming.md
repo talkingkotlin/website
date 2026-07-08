@@ -4,7 +4,9 @@ title: "Adopting Kotlin and Functional Programming with Shelby Cohen"
 guest: Shelby Cohen
 recorded: 2019-01-18
 published: 2019-02-28
-trackid: 582570198
+apple_podcast_id: 1194631266
+apple_episode_id: 1000430779650
+spotify_episode_id: 4ZkiMoFHAYikbod85Csgzd
 length: "42:04"
 length_rounded: "42 mins"
 tags: [Shelby Cohen, Functional Programming, Arrow]

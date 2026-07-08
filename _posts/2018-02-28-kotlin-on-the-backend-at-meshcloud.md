@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin on the backend at Meshcloud"
 guest:  Johannes Rudolph, Stefan Tomm 
 published: 2018-02-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000404125552
+spotify_episode_id: 2twgeTW6WAPoho57YjR7M2
 recorded: 2017-12-13
-trackid: 405929901
 length: "34:24"
 length_rounded: "35 mins"
 tags: [Server Side, Johannes Rudolph, Stefan Tomm]

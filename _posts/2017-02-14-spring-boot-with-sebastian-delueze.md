@@ -3,8 +3,10 @@ layout: post
 title: "Spring Boot with Sébastien Deleuze"
 guest: Sebastian Deleuze
 published: 2017-02-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000381195533
+spotify_episode_id: 3bR8oAq5VtbCnQtq8qTgLr
 recorded: 2017-01-05
-trackid: 307522712
 length: "34:17" 
 length_rounded: "34 mins" 
 tags: [Sebastian Deleuze, Spring Boot, Reactive Programming, Project Reactor]

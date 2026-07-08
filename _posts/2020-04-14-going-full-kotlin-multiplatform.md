@@ -4,7 +4,9 @@ title: "Going Full Kotlin Multiplatform"
 guest: Egor Andreevich and Jesse Wilson   
 recorded: 2020-01-08
 published: 2020-04-14
-trackid: 798129259
+apple_podcast_id: 1194631266
+apple_episode_id: 1000471424765
+spotify_episode_id: 4jlr5hUSHLOoho2Hv1CJSr
 length: "42:56"
 length_rounded: "43 mins"
 tags: [Egor Andreevich, Jesse Wilson]

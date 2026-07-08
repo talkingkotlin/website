@@ -4,7 +4,9 @@ title: "Code Kindness with Pamela Hill"
 guest: Pamela Hill
 recorded: 2019-02-11
 published: 2019-05-29
-trackid: 628282824
+apple_podcast_id: 1194631266
+apple_episode_id: 1000440028914
+spotify_episode_id: 1avkyVCeB6oL3OCYsrETBh
 length: "39:17"
 length_rounded: "39 mins"
 tags: [Pamela Hill, Functional Programming, Readability, Comprehensibility]

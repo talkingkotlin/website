@@ -4,7 +4,9 @@ title: "Coil Goes Multiplatform with Colin White"
 guest: Colin White
 recorded: 2023-09-29
 published: 2023-11-29
-trackid: 1677604137
+apple_podcast_id: 1194631266
+apple_episode_id: 1000636956126
+spotify_episode_id: 3EeybvC53IDNzdLi0E8tGi
 youtubeid: apiVJfLvUBE
 length: "42:22"
 length_rounded: "42 mins"

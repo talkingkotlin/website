@@ -4,7 +4,9 @@ title: "Kotlin/WASM in The Browser and Beyond"
 guest: Sébastien Deleuze
 recorded: 2023-05-04
 published: 2023-06-29
-trackid: 1552019935
+apple_podcast_id: 1194631266
+apple_episode_id: 1000618774783
+spotify_episode_id: 3o77c9ialNFOnwVACIOq61
 youtubeid: Kgf8N6u70ps
 length: "54:43"
 length_rounded: "54 mins"

@@ -4,7 +4,9 @@ title: "Speaking Spek and Gradle"
 guest:  Artur Dryomov
 recorded: 2018-05-23
 published: 2018-08-14
-trackid: 485307150
+apple_podcast_id: 1194631266
+apple_episode_id: 1000417772612
+spotify_episode_id: 03SxkPZWKEz6278bKssoFB
 length: "37:58"
 length_rounded: "38 mins"
 tags: [Spek, Gradle Kotlin DSL]

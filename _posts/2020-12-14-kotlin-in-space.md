@@ -4,7 +4,9 @@ title: "Kotlin in Space"
 guest: Sergey Shkredov, Max Mazin
 recorded: 2020-10-13
 published: 2020-12-14
-trackid: 947091940
+apple_podcast_id: 1194631266
+apple_episode_id: 1000502296335
+spotify_episode_id: 22jl1GDS42hKkmhpUmOKDM
 length: "46:19"
 length_rounded: "46 mins"
 tags: [Space, Ktor, Multiplatform, Mobile]

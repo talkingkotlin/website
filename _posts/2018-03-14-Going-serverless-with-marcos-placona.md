@@ -3,8 +3,10 @@ layout: post
 title: "Going Serverless with Marcos Placona"
 guest:  Marcos Placona
 published: 2018-02-08
+apple_podcast_id: 1194631266
+apple_episode_id: 1000406311281
+spotify_episode_id: 6P8NayVrUg0fvxZGsCK2O6
 recorded: 2017-03-14
-trackid: 412907175
 length: "36:03"
 length_rounded: "36 mins"
 tags: [Serverless, Marcos Placona]

@@ -3,8 +3,10 @@ layout: post
 title: "Desktop and Meta-programming with Amanda Hinchman"
 guest: Amanda Hinchman
 published: 2018-10-29
+apple_podcast_id: 1194631266
+apple_episode_id: 1000422764883
+spotify_episode_id: 4ePiGCMJdfAHUtRBwQDJyi
 recorded: 2018-07-19
-trackid: 521440962
 length: "47:18"
 length_rounded: "47 mins"
 tags: [Amanda Hinchman, Meta-programming, Desktop, TornadoFX]

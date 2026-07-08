@@ -4,7 +4,9 @@ title: "Maths and Kotlin"
 guest: Breandan Considine
 recorded: 2020-03-27
 published: 2020-09-30
-trackid: 902036656
+apple_podcast_id: 1194631266
+apple_episode_id: 1000493067791
+spotify_episode_id: 2CkyFSUlmvgpQYAujjAwQj
 length: "34:50"
 length_rounded: "35 mins"
 tags: [Maths, Gradient Descent, Breandan Considine]

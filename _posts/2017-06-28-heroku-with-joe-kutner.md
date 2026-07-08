@@ -3,8 +3,10 @@ layout: post
 title: "Heroku with Joe Kutner"
 guest: Joe Kutner
 published: 2017-06-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000389276070
+spotify_episode_id: 104xdpNUmBRX3UqJjlNods
 recorded: 2017-06-12
-trackid: 330329413
 length: "29:21"
 length_rounded: "30 mins"
 tags: [Joe Kutner, Heroku, Web Deployment]

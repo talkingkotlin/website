@@ -4,7 +4,9 @@ title: "MVIKotlin and Decompose with Arkadii Ivanov from Bumble"
 guest: Arkadii Ivanov
 recorded: 2021-03-01
 published: 2021-04-12
-trackid: 1027633825
+apple_podcast_id: 1194631266
+apple_episode_id: 1000516804553
+spotify_episode_id: 4jzpQvdCKFeT1uE3oedvvY
 youtubeid: pjcUBQwcdfo 
 length: "27:54"
 length_rounded: "27 mins"

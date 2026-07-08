@@ -4,7 +4,9 @@ title: "Creator of Spring: No Desire to Write Java at All"
 guest: Rod Johnson
 recorded: 2025-03-27
 published: 2025-03-27
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000701115828
+spotify_episode_id: 5LEFbDxV7Hr7RRoUG6J7UO
 youtubeid: Rx3XZoqbi78
 length: "1:05:07"
 length_rounded: "65 mins"

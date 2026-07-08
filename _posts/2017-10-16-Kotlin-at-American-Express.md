@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin at American Express"
 guest: Michael Bailey
 published: 2017-10-16
+apple_podcast_id: 1194631266
+apple_episode_id: 1000393564165
+spotify_episode_id: 35mzpZPkaluQqXAPTOHEb6
 recorded: 2017-05-23
-trackid: 347099235
 length: "32:17"
 length_rounded: "32 mins"
 tags: [Michael Bailey, American Express]

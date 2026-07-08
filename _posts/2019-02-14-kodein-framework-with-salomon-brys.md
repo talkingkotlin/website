@@ -3,8 +3,10 @@ layout: post
 title: "Kodein framework with Salomon Brys"
 guest: Salomon Brys
 published: 2019-02-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000429841049
+spotify_episode_id: 5hagSVoCVVquPr4bU1sDJA
 recorded: 2019-01-08
-trackid: 575139081
 length: "37:29"
 length_rounded: "37 mins"
 tags: [Salomon Brys, Dependency Injection, Frameworks, Kotlin/Native]

@@ -4,7 +4,9 @@ title: "Neo4j and more with Michael Hunger"
 guest:  Michael  Hunger
 recorded: 2018-06-11
 published: 2018-09-17   
-trackid: 500703675
+apple_podcast_id: 1194631266
+apple_episode_id: 1000419877584
+spotify_episode_id: 3mEJva4YmsxEejGN11N93Q
 length: "40:44"
 length_rounded: "40 mins"
 tags: [neo4j, graphql, Michael Hunger]

@@ -4,7 +4,9 @@ title: "Exposed 1.0 and Beyond"
 guest: Chantal Loncle
 recorded: 2026-04-29
 published: 2026-04-29
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000764545178
+spotify_episode_id: 0jHn6Ixwswc8vJ7Sk6m1yA
 youtubeid: 5k-jh24CDZw
 length: "1:35:23"
 length_rounded: "95 mins"

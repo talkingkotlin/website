@@ -4,7 +4,9 @@ title: "Kotlin at Allegro"
 guest:  Rafal Glowinski and Kondrad Kaminski 
 recorded: 2018-07-16
 published: 2018-10-01   
-trackid: 506598492
+apple_podcast_id: 1194631266
+apple_episode_id: 1000420803658
+spotify_episode_id: 6gRiIJSWN515tAvZuMAwRR
 length: "38:59"
 length_rounded: "39 mins"
 tags: [Spring, Case Study, Functional Programming]

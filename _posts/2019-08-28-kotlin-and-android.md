@@ -4,7 +4,9 @@ title: "Kotlin and Android"
 guest: Florina Muntenescu 
 recorded: 2019-07-29
 published: 2019-08-28
-trackid: 672061601
+apple_podcast_id: 1194631266
+apple_episode_id: 1000447992221
+spotify_episode_id: 0EqMjmy9YuMHu8vnikHWeT
 length: "42:02"
 length_rounded: "42 mins"
 tags: [Android, Kotlin/Everywhere, Learning]

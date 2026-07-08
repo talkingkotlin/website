@@ -4,7 +4,9 @@ title: "Jetpack Compose with Leland Richardson"
 guest:  Leland Richardson   
 recorded: 2020-02-06
 published: 2020-05-28
-trackid: 829634392
+apple_podcast_id: 1194631266
+apple_episode_id: 1000476037127
+spotify_episode_id: 67j6PDAAY1HTORJ2uj6nyu
 length: "41:09"
 length_rounded: "41 mins"
 tags: [Android, Compose, Jetpack Compose, Leland Richardson]

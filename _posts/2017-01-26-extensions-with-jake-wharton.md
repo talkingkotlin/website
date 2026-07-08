@@ -3,8 +3,10 @@ layout: post
 title: "Catching up with Jake Wharton"
 guest: Jake Wharton
 published: 2017-01-26
+apple_podcast_id: 1194631266
+apple_episode_id: 1000380425755
+spotify_episode_id: 5u10UpIams22o1Our0jnTT
 recorded: 2016-12-23
-trackid: 304578745
 length: "34:12" 
 length_rounded: "34 mins" 
 tags: [Jake Wharton, Extension Functions, Extension Properties, Square, Android]

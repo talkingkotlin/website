@@ -4,7 +4,9 @@ title: "Developing for Accessibility"
 guest: Joe Birch
 recorded: 2019-07-10
 published: 2019-11-15
-trackid: 713128735
+apple_podcast_id: 1194631266
+apple_episode_id: 1000456889100
+spotify_episode_id: 581dY6Jmck6Q3SD5EaOuxJ
 length: "36:52"
 length_rounded: "37 mins"
 tags: [Joe Birch, Accessibility]

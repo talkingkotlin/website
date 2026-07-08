@@ -4,7 +4,9 @@ title: "Slacking with Zac Sweers"
 guest: Zac Sweers
 recorded: 2021-12-02
 published: 2021-12-27
-trackid: 1185741637
+apple_podcast_id: 1194631266
+apple_episode_id: 1000546257953
+spotify_episode_id: 1KG1QOxL0MpEv0dWBe3wAg
 youtubeid: kL33iKzQ05M
 length: "47:05"
 length_rounded: "47 mins"

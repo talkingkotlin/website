@@ -4,7 +4,9 @@ title: "Adopting Multiplatform"
 guest: Sebastian Sellmair   
 recorded: 2019-11-18
 published: 2020-02-14
-trackid: 760458916 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000465585281
+spotify_episode_id: 0i5FE3qVK9PgATBTUwE8VF
 length: "42:54"
 length_rounded: "43 mins"
 tags: [Sebastian Sellmair, Multiplatform]

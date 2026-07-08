@@ -4,7 +4,9 @@ title: "Becoming a KMP Expert"
 guest: Pamela Hill, Kevin Galligan, Jake Wharton, John O'Reilly, Konstantin Tskhovrebov, and Tadeas Kriz
 recorded: 2025-01-23
 published: 2025-01-23
-trackid: 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000685180539
+spotify_episode_id: 2IT97GHElScUHwf23QNrck
 youtubeid: qD-Gh7zugMI
 length: "52:43"
 length_rounded: "53 mins"

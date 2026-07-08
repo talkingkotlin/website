@@ -3,8 +3,10 @@ layout: post
 title: "React with Kotlin"
 guest: Dave Ford
 published: 2018-02-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000402277624
+spotify_episode_id: 5hX0PRCqdTfHrwmNpRxZNe
 recorded: 2018-01-10
-trackid: 399340554
 length: "36:48"
 length_rounded: "36 mins"
 tags: [React, Client Side, Dave Ford]

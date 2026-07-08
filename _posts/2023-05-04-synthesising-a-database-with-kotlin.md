@@ -4,7 +4,9 @@ title: "Synthesising a Database with Kotlin"
 guest: Ivan Ponomarev
 recorded: 2023-03-09
 published: 2023-05-04
-trackid: 1506306883
+apple_podcast_id: 1194631266
+apple_episode_id: 1000611736831
+spotify_episode_id: 4SOq9hPxGrMUl8lkLFTNKB
 youtubeid: Vq3Mmdl1Tyg
 length: "48:00"
 length_rounded: "48 mins"

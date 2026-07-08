@@ -3,8 +3,10 @@ layout: post
 title: "Data Science with Thomas Nield"
 guest: Thomas Nield
 published: 2017-11-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000395358221
+spotify_episode_id: 5wPqOlcP4OlcZuPtUimX4z
 recorded: 2017-07-17
-trackid: 361904297
 length: "31:14"
 length_rounded: "31 mins"
 tags: [Data Science, Thomas Nield]

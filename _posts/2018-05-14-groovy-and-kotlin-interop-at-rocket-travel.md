@@ -4,7 +4,9 @@ title: "Groovy and Kotlin Interop at Rocket Travel"
 guest:  
 recorded: 2018-03-07
 published: 2018-05-14
-trackid: 442511892
+apple_podcast_id: 1194631266
+apple_episode_id: 1000411369067
+spotify_episode_id: 6jQ940JOHMcSqPqZ4ZNalh
 length: "49:34"
 length_rounded: "49 mins"
 tags: [Tyler Barbar, Nate Vaughan]

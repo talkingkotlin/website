@@ -4,7 +4,9 @@ title: "Why iOS Developers at Todoist Wanted Kotlin Multiplatform"
 guest: Goncalo Silva
 recorded: 2022-01-27
 published: 2022-02-17
-trackid: 1217582276
+apple_podcast_id: 1194631266
+apple_episode_id: 1000551417153
+spotify_episode_id: 7HVK1gK6b9Fp01u4nXZlPs
 youtubeid: z-o9MqN86eE
 length: "45:23"
 length_rounded: "45 mins"

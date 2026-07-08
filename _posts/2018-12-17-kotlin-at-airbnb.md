@@ -4,9 +4,11 @@ title: "Kotlin at AirBnB"
 guest: Gabriel Peal
 published: 2018-12-17
 recorded: 2018-08-22
-trackid: 546172047
 length: "34:30"
 length_rounded: "35 mins"
+spotify_episode_id: 08ZzS8OeqTofMoYcUJZhvs
+apple_podcast_id: 1194631266
+apple_episode_id: 1000425970876
 tags: [Arnaud Giuliani, Annotations]
 image: gabriel-peal.jpg
 description: "We sit down with Gabriel to discuss the move of AirBnB away from React Native and the adoption of Kotlin. We also discuss the potential of multi-platform projects with Kotlin and what he sees are potential benefits and problems to avoid."

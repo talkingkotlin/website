@@ -4,7 +4,9 @@ title: "Talking CFP with Christina Lee"
 guest: Christina Lee
 recorded: 2019-03-24
 published: 2019-03-28
-trackid: 597150480
+apple_podcast_id: 1194631266
+apple_episode_id: 1000433647002
+spotify_episode_id: 1gdZYBp3ZuKlg8Hs3ofe9o
 length: "50:20"
 length_rounded: "50 mins"
 tags: [KotlinConf, Call for Papers, Christina Lee]

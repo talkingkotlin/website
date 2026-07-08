@@ -4,7 +4,9 @@ title: "The State of Kotlin/JS"
 guest: Sebastian Aigner   
 recorded: 2020-01-10
 published: 2020-03-30
-trackid: 786575083
+apple_podcast_id: 1194631266
+apple_episode_id: 1000469959383
+spotify_episode_id: 7L2lbcGGPJ5Gj1EhiTXAec
 length: "36:26"
 length_rounded: "36 mins"
 tags: [Sebastian Aigner]

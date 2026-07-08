@@ -4,7 +4,9 @@ title: "Canvas and Graphics Programming"
 guest: Rebecca Franks
 recorded: 2019-06-06
 published: 2019-10-28
-trackid: 702709198
+apple_podcast_id: 1194631266
+apple_episode_id: 1000455210490
+spotify_episode_id: 0AFCAHH07MgNvA9MBzCQ14
 length: "36:57"
 length_rounded: "37 mins"
 tags: [Rebecca Franks, Canvas, Graphics Programming]

@@ -4,7 +4,9 @@ title: "Common Code in Multiplatform projects"
 guest: Mark Ducommun
 recorded: 2019-02-18
 published: 2019-06-14
-trackid: 636428295 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000441458467
+spotify_episode_id: 1ywF1PAlGPFL5MwNk70BLV
 length: "35:06"
 length_rounded: "35 mins"
 tags: [Mark Ducommun, Multiplatform]

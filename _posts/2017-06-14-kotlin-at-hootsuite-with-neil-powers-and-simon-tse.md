@@ -3,8 +3,10 @@ layout: post
 title: "Kotlin at Hootsuite with Neil Power and Simon Tse"
 guest: Neil Power and Simon Tse
 published: 2017-06-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000386532327
+spotify_episode_id: 0vFSflcnvme9wfc5XQq1YY
 recorded: 2017-04-24
-trackid: 327988807
 length: "32:55"
 length_rounded: "33 mins"
 tags: [Neil Powers, Simon Tse, Hootsuite]

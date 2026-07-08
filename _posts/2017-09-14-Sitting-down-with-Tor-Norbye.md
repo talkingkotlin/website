@@ -3,8 +3,10 @@ layout: post
 title: "Sitting down with Tor Norbye"
 guest: Tor Norbye
 published: 2017-09-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000392245003
+spotify_episode_id: 6LE6uQu2ojr82nmLgqrTy1
 recorded: 2017-06-02
-trackid: 342279691
 length: "32:43"
 length_rounded: "33 mins"
 tags: [Tor Norbye, Android]

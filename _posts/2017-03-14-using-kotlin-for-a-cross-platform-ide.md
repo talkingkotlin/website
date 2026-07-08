@@ -3,8 +3,10 @@ layout: post
 title: "Using Kotlin for a cross-platform IDE"
 guest: Kirill Skrygan
 published: 2017-03-14
+apple_podcast_id: 1194631266
+apple_episode_id: 1000382599345
+spotify_episode_id: 2IA3NPNWgzReDUW4eiQ8aT
 recorded: 2017-02-13
-trackid: 312185914
 length: "29:09" 
 length_rounded: "30 mins" 
 tags: [Kirill Skrygan, DSL, Tools]

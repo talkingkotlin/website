@@ -3,8 +3,10 @@ layout: post
 title: "TornadoFX with Edvin Syse"
 guest: Edvin Syse
 published: 2017-09-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000392816650
+spotify_episode_id: 6h2rMOib4fq0iU6M3VGD0r
 recorded: 2017-06-28
-trackid: 344232102
 length: "34:45"
 length_rounded: "35 mins"
 tags: [Edvin Syse, TornadoFX]

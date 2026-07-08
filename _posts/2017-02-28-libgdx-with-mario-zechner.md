@@ -3,8 +3,10 @@ layout: post
 title: "libGDX with Mario Zechner"
 guest: Mario Zechner
 published: 2017-02-28
+apple_podcast_id: 1194631266
+apple_episode_id: 1000381983555
+spotify_episode_id: 2GEXonykDqp4a9Ss7T1ynV
 recorded: 2017-01-17
-trackid: 309782723
 length: "31:11" 
 length_rounded: "31 mins" 
 tags: [Mario Zechner, Gaming]

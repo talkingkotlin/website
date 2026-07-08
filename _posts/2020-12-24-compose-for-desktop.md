@@ -4,7 +4,9 @@ title: "Compose for Desktop"
 guest: Nikolay Igotti
 recorded: 2020-12-08
 published: 2020-12-24
-trackid: 953442709
+apple_podcast_id: 1194631266
+apple_episode_id: 1000503396403
+spotify_episode_id: 1nhgo3r4Tl93CTg82XG1bw
 length: "44:51"
 length_rounded: "45 mins"
 tags: [Nikolay Igott, Desktop]

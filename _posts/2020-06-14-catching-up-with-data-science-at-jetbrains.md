@@ -4,7 +4,9 @@ title: "Catching up with Data Science at JetBrains"
 guest:  Roman Belov   
 recorded: 2020-02-12
 published: 2020-06-14
-trackid: 838906723
+apple_podcast_id: 1194631266
+apple_episode_id: 1000477923320
+spotify_episode_id: 6Cj9eodMsg00PfleI9i4RB
 length: "33:08"
 length_rounded: "33 mins"
 tags: [Data Science, JetBrains]

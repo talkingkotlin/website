@@ -4,7 +4,9 @@ title: "The First Kotlin Commit in Android"
 guest: Yigit Boyar
 recorded: 2022-01-20
 published: 2022-02-01
-trackid: 1207152076
+apple_podcast_id: 1194631266
+apple_episode_id: 1000549687753
+spotify_episode_id: 3QIBAoPuqtNavBtu1y2cis
 youtubeid: 9MJPvsWQzP8
 length: "40:20"
 length_rounded: "40 mins"

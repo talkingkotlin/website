@@ -4,7 +4,9 @@ title: "Will Loom Kill Kotlin Coroutines?"
 guest: Urs Peter
 recorded: 2022-12-02
 published: 2023-01-26
-trackid: 1432929613
+apple_podcast_id: 1194631266
+apple_episode_id: 1000596789211
+spotify_episode_id: 2J5vs3KAqBZlMSctSNg4qq
 youtubeid: 1qezCNVWpHc
 length: "40:57"
 length_rounded: "40 mins"

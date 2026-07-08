@@ -4,7 +4,9 @@ title: "Teaching Kids Kotlin"
 guest: Nicolai Emig
 recorded: 2020-05-28
 published: 2020-11-12
-trackid: 927754108
+apple_podcast_id: 1194631266
+apple_episode_id: 1000498306815
+spotify_episode_id: 5nHJ59bB3eOYGITlRXvRzf
 length: "32:31"
 length_rounded: "32 mins"
 tags: [Teaching, Kids]

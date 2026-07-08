@@ -4,7 +4,9 @@ title: "Sequences with David Leeds"
 guest: David Leeds
 recorded: 2019-04-17
 published: 2019-07-20
-trackid: 657916115 
+apple_podcast_id: 1194631266
+apple_episode_id: 1000445548246
+spotify_episode_id: 3wyuPznyRaoyaRY2eNHp4c
 length: "37:15"
 length_rounded: "37 mins"
 tags: [Sequences, David Leeds]
