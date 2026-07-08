@@ -48,12 +48,16 @@ html.has-open-drawer {
 }
 
 .site-header__kotlin-link {
-  display: flex;
+  display: none;
   align-items: center;
   gap: 4px;
   color: $color-text-dark-pale;
   font-size: 14px;
   font-weight: 500;
+
+  @media #{$bp-desktop} {
+    display: flex;
+  }
 
   &:visited {
     color: $color-text-dark-pale;
