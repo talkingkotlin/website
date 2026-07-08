@@ -35,12 +35,10 @@ html.has-open-drawer {
 
 .site-header__logo img {
   display: block;
-  height: 24px;
+  // Sized so the "Kotlin" glyphs match the cap-height of the kotlinlang.org
+  // docs-header logo (~20px, rendered 1:1 from a 100x24 viewBox there).
+  height: 44px;
   width: auto;
-
-  @media #{$bp-desktop} {
-    height: 28px;
-  }
 }
 
 .site-header__actions {
@@ -57,7 +55,12 @@ html.has-open-drawer {
   font-size: 14px;
   font-weight: 500;
 
-  &:hover {
+  &:visited {
+    color: $color-text-dark-pale;
+  }
+
+  &:hover,
+  &:visited:hover {
     color: $color-white;
     text-decoration: none;
   }
@@ -206,7 +209,7 @@ html.has-open-drawer {
   a {
     font-weight: 400;
     font-size: 14px;
-    color: $color-text-dark-pale;
+    color: $color-text-dark-muted-accent;
 
     &:hover {
       color: $color-white;
@@ -227,7 +230,7 @@ html.has-open-drawer {
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: $color-text-dark-pale;
+  color: $color-text-dark-muted-accent;
 }
 
 @media #{$bp-desktop} {
@@ -279,10 +282,10 @@ html.has-open-drawer {
   }
 
   .site-sidebar__menu--secondary a {
-    color: $color-text-pale;
+    color: $color-text-muted-accent;
 
     &:hover {
-      color: $color-text-average;
+      color: $color-interactive;
     }
   }
 
@@ -291,7 +294,7 @@ html.has-open-drawer {
   }
 
   .site-sidebar__group-title {
-    color: $color-text-pale;
+    color: $color-text-muted-accent;
   }
 }
 

@@ -9,13 +9,17 @@ comments: false
 
 <div class="host-grid">
   <div class="host-card">
-    <div class="host-card__avatar" aria-hidden="true">SA</div>
+    <div class="host-card__avatar">
+      <img src="https://github.com/SebastianAigner.png" alt="Sebastian Aigner" width="72" height="72" loading="lazy">
+    </div>
     <h3 class="host-card__name">Sebastian Aigner</h3>
     <p class="host-card__role">Host</p>
     <a class="host-card__link" href="{{ site.owner.sebi }}" target="_blank" rel="noopener">sebi.io &rarr;</a>
   </div>
   <div class="host-card">
-    <div class="host-card__avatar" aria-hidden="true">MB</div>
+    <div class="host-card__avatar">
+      <img src="https://github.com/zsmb13.png" alt="Márton Braun" width="72" height="72" loading="lazy">
+    </div>
     <h3 class="host-card__name">Márton Braun</h3>
     <p class="host-card__role">Host</p>
     <a class="host-card__link" href="{{ site.owner.zsmb }}" target="_blank" rel="noopener">zsmb.co &rarr;</a>

@@ -41,6 +41,11 @@ $color-text-pale          : rgba(25, 25, 28, 0.5);   // meta / tertiary text
 $color-text-dark-average  : rgba(255, 255, 255, 0.7); // body copy on dark surfaces
 $color-text-dark-pale     : rgba(255, 255, 255, 0.5); // meta text on dark surfaces
 
+// A darker grey than $color-text-pale — used where a pale tone reads as too
+// low-contrast/washed-out, e.g. sidebar secondary links
+$color-text-muted-accent      : rgba(25, 25, 28, 0.65);   // light theme
+$color-text-dark-muted-accent : rgba(255, 255, 255, 0.65); // dark theme
+
 $color-border             : rgba(25, 25, 28, 0.12);
 $color-border-dark        : rgba(255, 255, 255, 0.3);
 

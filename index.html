@@ -10,7 +10,9 @@ comments: false
   {% for post in paginator.posts %}
   <article class="episode-card">
     <a class="episode-card__media" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
-      {% if post.image %}
+      {% if post.youtubeid %}
+        <img src="https://img.youtube.com/vi/{{ post.youtubeid }}/maxresdefault.jpg" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null;this.src='https://img.youtube.com/vi/{{ post.youtubeid }}/hqdefault.jpg';">
+      {% elsif post.image %}
         <img src="{{ site.url }}/images/episodes/{{ post.image }}" alt="{{ post.title }}" loading="lazy">
       {% else %}
         <img src="{{ site.url }}/images/logo/talking-kotlin-icon-white.svg" alt="{{ post.title }}" class="episode-card__media-fallback" loading="lazy">

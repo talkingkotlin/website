@@ -331,17 +331,19 @@ article:first-child > .tag-heading {
 }
 
 .host-card__avatar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 72px;
   height: 72px;
   margin-bottom: $space-m;
   border-radius: 50%;
+  overflow: hidden;
   background-color: $color-interactive-fog;
-  color: $color-interactive;
-  font-size: 22px;
-  font-weight: 600;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
 }
 
 .host-card__name {
