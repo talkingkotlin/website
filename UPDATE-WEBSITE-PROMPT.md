@@ -133,6 +133,71 @@ git status --short
 git diff --stat
 ```
 
+**10. Get the canonical `open.spotify.com/episode/<id>` for every episode in one shot**
+(needed for the `spotify_episode_id:` frontmatter field). Don't try to scrape
+this from `open.spotify.com` itself or via `agent-browser` — its episode list
+uses virtualized scrolling that's slow and unreliable to drive. Instead, grab
+any one episode's `podcasters.spotify.com` link from the RSS feed's `<link>`
+tag (every `<item>` has one) and fetch that single page — it embeds a
+`episodePreview.episodes` JSON array covering the *entire* show history (all
+145+ episodes, each with `title` and `spotifyUrl`), not just that one
+episode:
+
+```bash
+PODCASTERS_URL=$(grep -m1 -o 'https://podcasters\.spotify\.com/pod/show/[^<]*' /tmp/tk_feed.xml)
+curl -sL "$PODCASTERS_URL" -o /tmp/tk_podcasters.html
+```
+
+```python
+import json
+
+html = open('/tmp/tk_podcasters.html').read()
+key = '"episodes":['
+start = html.find(key) + len(key) - 1
+depth = 0
+for i in range(start, len(html)):
+    if html[i] == '[':
+        depth += 1
+    elif html[i] == ']':
+        depth -= 1
+        if depth == 0:
+            end = i + 1
+            break
+episodes = json.loads(html[start:end])
+by_title = {e['title']: e['spotifyUrl'] for e in episodes}
+# by_title['Exposed 1.0 and Beyond'] -> 'https://open.spotify.com/episode/0jHn6Ixwswc8vJ7Sk6m1yA'
+# spotify_episode_id is the last path segment of that URL.
+```
+
+Note: the bare show page (`podcasters.spotify.com/pod/show/<id>`, no episode
+slug) does **not** contain this array — you need an actual episode page URL,
+which is why you pull one from the RSS feed first. Match titles the same way
+you match RSS-to-YouTube titles in step 4 below (they may not be identical
+word-for-word).
+
+**11. Get `apple_podcast_id` and `apple_episode_id` for every episode in one shot.**
+This one's simpler than Spotify — the same official iTunes Search API used
+above for `feedUrl` also returns full episode data if you add
+`entity=podcastEpisode` and a high `limit` (the default limit is too low to
+cover the whole history):
+
+```bash
+curl -s "https://itunes.apple.com/lookup?id=1194631266&entity=podcastEpisode&limit=200" -o /tmp/tk_apple_episodes.json
+```
+
+```python
+import json
+
+data = json.load(open('/tmp/tk_apple_episodes.json'))
+episodes = [r for r in data['results'] if r.get('wrapperType') == 'podcastEpisode']
+by_title = {e['trackName']: e['trackId'] for e in episodes}
+# by_title['Exposed 1.0 and Beyond'] -> 1000764545178  (this is apple_episode_id)
+```
+
+`apple_podcast_id` is just `1194631266` (the show's iTunes `id`, constant
+across every episode — same id used in the URL above). Verify `len(episodes)`
+against the feed's total episode count; bump `limit` further if it's short.
+
 ## Step-by-step process
 
 ### 1. Find the starting point
@@ -194,15 +259,14 @@ agent-browser open "https://www.youtube.com/playlist?list=PLlFc5cFwUnmz1TwkP9SKC
 agent-browser snapshot -i -c
 ```
 
-then the same `open` + `snapshot -i -c` pattern for the Spotify show URL and
-the Apple Podcasts URL. Use `agent-browser click @eN` on element refs from
-the snapshot to navigate (e.g. clicking "See All" on Apple Podcasts to get
-the full episode list instead of just the most recent few). Note: Spotify's
-episode list uses non-standard virtualized scrolling that does not respond
-to normal programmatic `scrollTop` manipulation — if you need Spotify's full
-episode history and infinite scroll isn't loading more items, prefer Apple
-Podcasts' "See All" page instead, which reliably shows the complete
-year-grouped episode list.
+then the same `open` + `snapshot -i -c` pattern for the Apple Podcasts URL
+(click "See All" to get the full episode list instead of just the most
+recent few). For Spotify, skip `agent-browser`/`open.spotify.com` entirely —
+its episode list uses non-standard virtualized scrolling that does not
+respond to normal programmatic `scrollTop` manipulation, so infinite scroll
+often won't load the full history. Use toolkit command 10 instead: it pulls
+every episode's title from a single `podcasters.spotify.com` page fetch,
+which is both easier to drive and a complete, non-virtualized list.
 
 If all three platforms independently agree the number is skipped, it's a
 genuine gap in the source's own numbering — move on, don't fabricate an
@@ -239,6 +303,11 @@ For each episode, from this feed item you get:
 - Links inside the HTML `description` (i.e. `<a href="...">...</a>`) are a
   good source for a few `notes:` entries (guest's project, personal site,
   socials) — see step 6 for how many to keep.
+- **`spotify_episode_id`** — the trailing ID segment of the episode's
+  `open.spotify.com/episode/<id>` URL. Get it via toolkit command 10 (don't
+  browse `open.spotify.com` directly for this — see step 3's note on why).
+- **`apple_podcast_id`** / **`apple_episode_id`** — get both via toolkit
+  command 11 (a single iTunes Search API call covers the whole show).
 
 ### 5. Get episode artwork
 
@@ -297,6 +366,9 @@ title: "<episode title>"
 guest: <Guest Name>              # or "Sebastian Aigner and Márton Braun" for host-only/audio-exclusive episodes
 recorded: YYYY-MM-DD             # see note below
 published: YYYY-MM-DD            # from the RSS feed's pubDate, NOT YouTube's upload_date
+apple_podcast_id: 1194631266     # constant across all episodes, see toolkit command 11
+apple_episode_id: <Apple episode trackId>                              # see toolkit command 11
+spotify_episode_id: <trailing id from open.spotify.com/episode/<id>>   # see toolkit command 10
 youtubeid: <YouTube video id>
 length: "H:MM:SS"
 length_rounded: "NN mins"
